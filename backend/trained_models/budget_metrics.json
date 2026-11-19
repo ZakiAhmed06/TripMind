@@ -1,0 +1,11 @@
+{
+  "model_name": "RandomForestRegressor",
+  "n_estimators": 120,
+  "max_depth": 15,
+  "MAE": 5585.21,
+  "RMSE": 8243.54,
+  "R2_Score": 0.9829,
+  "training_samples": 2800,
+  "test_samples": 700,
+  "dataset_type": "Synthetic-grounded travel expense configurations"
+}

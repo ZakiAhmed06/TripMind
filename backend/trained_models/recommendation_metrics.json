@@ -1,0 +1,6 @@
+{
+  "Precision@5": 1.0,
+  "Recall@5": 0.171,
+  "NDCG@5": 1.0,
+  "total_test_queries": 5
+}

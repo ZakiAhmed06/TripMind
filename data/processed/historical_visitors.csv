@@ -1,0 +1,4001 @@
+destination,month,day_of_week,is_weekend,is_public_holiday,season,crowd_score,crowd_level
+Leh,1,4,0,0,Winter,0.31,Low
+Shimla,5,3,0,0,Summer,0.61,Medium
+Gokarna,1,1,0,0,Winter,0.63,Medium
+Dalhousie,5,1,0,0,Summer,0.24,Low
+Pushkar,5,3,0,0,Summer,0.29,Low
+Alibaug,4,4,0,0,Summer,0.23,Low
+Jaipur,12,5,1,0,Winter,0.69,Medium
+Alibaug,6,2,0,0,Monsoon,0.32,Low
+Mysore,3,4,0,0,Spring,0.34,Low
+Haridwar,7,5,1,0,Monsoon,0.39,Low
+Auli,3,6,1,0,Spring,0.48,Low
+Nainital,9,0,0,0,Autumn,0.32,Low
+Pahalgam,10,4,0,0,Autumn,0.36,Low
+Jaipur,2,5,1,0,Winter,0.73,High
+Mount Abu,1,4,0,0,Winter,0.31,Low
+Kedarnath,1,4,0,0,Winter,0.56,Medium
+Nainital,8,1,0,0,Monsoon,0.21,Low
+Gulmarg,3,1,0,0,Spring,0.33,Low
+Jibhi,7,3,0,0,Monsoon,0.11,Low
+Coorg,12,5,1,0,Winter,0.41,Low
+Kaza,2,6,1,0,Winter,0.42,Low
+Kaza,6,0,0,0,Monsoon,0.57,Medium
+Tarkarli,4,6,1,0,Summer,0.44,Low
+Jodhpur,5,2,0,0,Summer,0.33,Low
+Pangong Lake,6,6,1,0,Monsoon,0.51,Medium
+Spiti Valley,7,0,0,0,Monsoon,0.14,Low
+Chopta,10,6,1,0,Autumn,0.68,Medium
+Mussoorie,10,3,0,0,Autumn,0.62,Medium
+Mysore,6,6,1,0,Monsoon,0.5,Medium
+Varkala,10,3,0,0,Autumn,0.28,Low
+Pushkar,2,5,1,0,Winter,0.64,Medium
+Jibhi,11,0,0,0,Winter,0.25,Low
+Alibaug,2,4,0,0,Winter,0.28,Low
+Pangong Lake,6,2,0,0,Monsoon,0.36,Low
+Auli,7,4,0,0,Monsoon,0.23,Low
+Gulmarg,2,3,0,0,Winter,0.35,Low
+Jaipur,11,6,1,0,Winter,0.74,High
+Chikmagalur,10,0,0,0,Autumn,0.6,Medium
+Jaipur,10,3,0,0,Autumn,0.6,Medium
+Jibhi,4,3,0,0,Summer,0.26,Low
+Coorg,10,6,1,0,Autumn,0.48,Low
+Chopta,4,3,0,0,Summer,0.33,Low
+Mussoorie,11,2,0,0,Winter,0.27,Low
+Bir Billing,7,1,0,0,Monsoon,0.11,Low
+Jaisalmer,8,6,1,0,Monsoon,0.39,Low
+Kaza,3,1,0,0,Spring,0.25,Low
+Valley of Flowers,3,5,1,0,Spring,0.49,Low
+Tarkarli,8,1,0,0,Monsoon,0.1,Low
+Hampi,11,4,0,1,Winter,0.72,High
+Jodhpur,4,0,0,0,Summer,0.25,Low
+Kochi,3,4,0,0,Spring,0.32,Low
+Hampi,9,2,0,1,Autumn,0.53,Medium
+Haridwar,3,3,0,0,Spring,0.28,Low
+Auli,12,2,0,0,Winter,0.27,Low
+Varkala,7,5,1,0,Monsoon,0.35,Low
+Chopta,4,0,0,0,Summer,0.36,Low
+Munnar,11,5,1,0,Winter,0.52,Medium
+Nubra Valley,4,6,1,0,Summer,0.44,Low
+Jodhpur,11,0,0,0,Winter,0.61,Medium
+Auli,4,5,1,0,Summer,0.52,Medium
+Rishikesh,6,2,0,0,Monsoon,0.65,Medium
+South Goa,10,1,0,0,Autumn,0.27,Low
+Pangong Lake,9,1,0,0,Autumn,0.34,Low
+Hampi,5,2,0,0,Summer,0.35,Low
+Nainital,9,2,0,0,Autumn,0.25,Low
+Gokarna,7,4,0,0,Monsoon,0.24,Low
+Chikmagalur,10,5,1,0,Autumn,0.8,High
+Udaipur,12,1,0,0,Winter,0.55,Medium
+Munnar,4,0,0,0,Summer,0.3,Low
+Hampi,7,2,0,0,Monsoon,0.16,Low
+North Goa,7,0,0,0,Monsoon,0.19,Low
+Kovalam,5,6,1,0,Summer,0.43,Low
+Udaipur,1,2,0,0,Winter,0.54,Medium
+Thekkady,1,3,0,0,Winter,0.34,Low
+Haridwar,7,3,0,1,Monsoon,0.36,Low
+Kedarnath,8,0,0,0,Monsoon,0.23,Low
+Leh,4,6,1,1,Summer,0.6,Medium
+North Goa,10,2,0,0,Autumn,0.35,Low
+Nubra Valley,10,6,1,0,Autumn,0.82,High
+Udaipur,8,1,0,0,Monsoon,0.17,Low
+Gokarna,7,1,0,0,Monsoon,0.12,Low
+Chikmagalur,2,5,1,0,Winter,0.44,Low
+Wayanad,8,2,0,0,Monsoon,0.24,Low
+Nubra Valley,12,2,0,0,Winter,0.28,Low
+Ooty,2,4,0,0,Winter,0.33,Low
+Pahalgam,4,0,0,0,Summer,0.29,Low
+Manali,5,3,0,0,Summer,0.6,Medium
+Chopta,12,1,0,0,Winter,0.32,Low
+Badrinath,1,1,0,0,Winter,0.56,Medium
+Nubra Valley,8,2,0,0,Monsoon,0.18,Low
+Tarkarli,11,0,0,0,Winter,0.23,Low
+Jibhi,6,5,1,0,Monsoon,0.45,Low
+Pangong Lake,4,3,0,0,Summer,0.26,Low
+Mount Abu,6,5,1,0,Monsoon,0.73,High
+North Goa,3,1,0,0,Spring,0.29,Low
+Alleppey,10,3,0,0,Autumn,0.28,Low
+Valley of Flowers,4,2,0,0,Summer,0.33,Low
+Leh,10,4,0,0,Autumn,0.63,Medium
+Ooty,8,3,0,0,Monsoon,0.17,Low
+Pangong Lake,12,6,1,0,Winter,0.43,Low
+Gulmarg,12,5,1,0,Winter,0.44,Low
+Ranthambore,12,3,0,0,Winter,0.3,Low
+Mount Abu,8,0,0,1,Monsoon,0.38,Low
+Udaipur,6,6,1,0,Monsoon,0.49,Low
+Munnar,6,2,0,0,Monsoon,0.33,Low
+Leh,1,3,0,0,Winter,0.32,Low
+Gulmarg,9,6,1,0,Autumn,0.48,Low
+South Goa,7,1,0,0,Monsoon,0.13,Low
+Alibaug,12,3,0,0,Winter,0.62,Medium
+Srinagar,12,5,1,0,Winter,0.46,Low
+Auli,12,6,1,0,Winter,0.43,Low
+Jim Corbett,2,2,0,0,Winter,0.33,Low
+Kedarnath,3,0,0,0,Spring,0.29,Low
+Dharamshala,10,3,0,0,Autumn,0.57,Medium
+Valley of Flowers,3,4,0,0,Spring,0.29,Low
+Kedarnath,1,2,0,1,Winter,0.79,High
+Rishikesh,12,5,1,0,Winter,0.48,Low
+Jaisalmer,1,1,0,0,Winter,0.37,Low
+Udaipur,7,6,1,0,Monsoon,0.31,Low
+Jodhpur,11,3,0,0,Winter,0.57,Medium
+Srinagar,2,5,1,0,Winter,0.48,Low
+Pangong Lake,12,5,1,0,Winter,0.52,Medium
+Bir Billing,10,6,1,0,Autumn,0.73,High
+Jim Corbett,5,6,1,0,Summer,0.44,Low
+Dharamshala,5,0,0,0,Summer,0.53,Medium
+Kasol,9,1,0,0,Autumn,0.25,Low
+Tarkarli,3,6,1,0,Spring,0.47,Low
+Auli,10,0,0,1,Autumn,0.79,High
+Pahalgam,1,0,0,0,Winter,0.26,Low
+Jodhpur,5,5,1,0,Summer,0.45,Low
+Alleppey,10,0,0,0,Autumn,0.39,Low
+Srinagar,3,1,0,0,Spring,0.28,Low
+Alleppey,1,2,0,0,Winter,0.38,Low
+Pahalgam,8,5,1,0,Monsoon,0.31,Low
+South Goa,5,2,0,0,Summer,0.3,Low
+Mussoorie,4,6,1,0,Summer,0.49,Low
+Wayanad,9,4,0,0,Autumn,0.35,Low
+Jaipur,6,0,0,0,Monsoon,0.26,Low
+Coorg,5,4,0,0,Summer,0.25,Low
+Jibhi,5,0,0,0,Summer,0.24,Low
+Kasol,7,5,1,0,Monsoon,0.29,Low
+Mysore,5,6,1,0,Summer,0.42,Low
+Wayanad,12,4,0,0,Winter,0.37,Low
+Kullu,8,5,1,0,Monsoon,0.36,Low
+Mussoorie,4,2,0,0,Summer,0.32,Low
+Chikmagalur,12,5,1,1,Winter,0.66,Medium
+Jaisalmer,2,4,0,0,Winter,0.27,Low
+Bir Billing,11,6,1,0,Winter,0.39,Low
+Nubra Valley,11,0,0,0,Winter,0.33,Low
+Alibaug,3,1,0,1,Spring,0.52,Medium
+Jaisalmer,11,5,1,0,Winter,0.49,Low
+Kochi,1,4,0,0,Winter,0.37,Low
+Kaza,4,4,0,0,Summer,0.34,Low
+Alibaug,11,3,0,0,Winter,0.65,Medium
+Jibhi,11,6,1,0,Winter,0.45,Low
+Srinagar,4,6,1,0,Summer,0.44,Low
+Kochi,2,0,0,0,Winter,0.33,Low
+Pahalgam,5,6,1,0,Summer,0.42,Low
+Pangong Lake,4,4,0,0,Summer,0.35,Low
+Rishikesh,5,6,1,1,Summer,0.9,High
+Mount Abu,12,2,0,0,Winter,0.24,Low
+Jim Corbett,2,3,0,0,Winter,0.32,Low
+Kedarnath,6,0,0,0,Monsoon,0.33,Low
+Shimla,11,1,0,0,Winter,0.29,Low
+Pushkar,3,4,0,0,Spring,0.31,Low
+Alleppey,6,1,0,0,Monsoon,0.34,Low
+Dalhousie,1,3,0,0,Winter,0.27,Low
+Jim Corbett,4,4,0,0,Summer,0.29,Low
+Srinagar,4,6,1,0,Summer,0.49,Low
+Nainital,12,2,0,0,Winter,0.29,Low
+Alleppey,10,5,1,0,Autumn,0.53,Medium
+Leh,9,2,0,0,Autumn,0.35,Low
+Shimla,2,0,0,0,Winter,0.25,Low
+Wayanad,12,5,1,0,Winter,0.48,Low
+Thekkady,5,2,0,0,Summer,0.3,Low
+Valley of Flowers,8,4,0,0,Monsoon,0.18,Low
+Kasol,6,0,0,0,Monsoon,0.63,Medium
+Gokarna,8,0,0,0,Monsoon,0.2,Low
+Rishikesh,2,5,1,0,Winter,0.46,Low
+Alleppey,10,0,0,0,Autumn,0.36,Low
+Mysore,11,4,0,0,Winter,0.56,Medium
+Alibaug,2,0,0,0,Winter,0.24,Low
+Manali,12,2,0,0,Winter,0.25,Low
+Wayanad,8,1,0,0,Monsoon,0.12,Low
+Kaza,10,3,0,0,Autumn,0.56,Medium
+Jodhpur,6,2,0,0,Monsoon,0.26,Low
+Udaipur,4,3,0,1,Summer,0.45,Low
+Chikmagalur,10,3,0,0,Autumn,0.65,Medium
+Mysore,4,1,0,0,Summer,0.35,Low
+Rishikesh,6,0,0,0,Monsoon,0.6,Medium
+South Goa,10,4,0,0,Autumn,0.37,Low
+Ranthambore,5,3,0,0,Summer,0.36,Low
+Auli,5,2,0,0,Summer,0.63,Medium
+Gokarna,3,5,1,0,Spring,0.43,Low
+Pangong Lake,6,3,0,0,Monsoon,0.33,Low
+Rishikesh,10,5,1,0,Autumn,0.77,High
+Tarkarli,12,4,0,0,Winter,0.26,Low
+Chikmagalur,5,3,0,0,Summer,0.55,Medium
+Jodhpur,7,6,1,0,Monsoon,0.33,Low
+Gokarna,12,6,1,0,Winter,0.84,High
+Chopta,9,2,0,0,Autumn,0.35,Low
+Ranthambore,7,3,0,0,Monsoon,0.24,Low
+Srinagar,11,3,0,0,Winter,0.25,Low
+Kullu,9,3,0,0,Autumn,0.34,Low
+Kasol,7,3,0,0,Monsoon,0.21,Low
+Jaipur,5,6,1,0,Summer,0.42,Low
+Tarkarli,11,0,0,0,Winter,0.23,Low
+Gulmarg,7,4,0,0,Monsoon,0.17,Low
+Rishikesh,7,2,0,0,Monsoon,0.21,Low
+Alleppey,6,0,0,0,Monsoon,0.33,Low
+Ooty,5,5,1,0,Summer,0.8,High
+Kovalam,11,3,0,0,Winter,0.65,Medium
+Nainital,9,2,0,1,Autumn,0.46,Low
+Jaipur,3,6,1,0,Spring,0.4,Low
+Wayanad,11,1,0,1,Winter,0.5,Medium
+Nainital,6,1,0,0,Monsoon,0.34,Low
+Jim Corbett,9,0,0,0,Autumn,0.35,Low
+Hampi,5,2,0,0,Summer,0.3,Low
+Jibhi,8,3,0,0,Monsoon,0.22,Low
+Bir Billing,5,4,0,0,Summer,0.59,Medium
+Pushkar,11,0,0,0,Winter,0.49,Low
+Thekkady,10,2,0,0,Autumn,0.33,Low
+Gokarna,10,1,0,0,Autumn,0.31,Low
+Jim Corbett,11,6,1,0,Winter,0.45,Low
+Kochi,5,4,0,0,Summer,0.35,Low
+Thekkady,10,6,1,0,Autumn,0.44,Low
+Pahalgam,4,2,0,0,Summer,0.33,Low
+Munnar,12,2,0,0,Winter,0.33,Low
+Pushkar,11,5,1,0,Winter,0.64,Medium
+Manali,10,5,1,1,Autumn,0.94,High
+Ranthambore,11,2,0,0,Winter,0.3,Low
+Ooty,2,0,0,1,Winter,0.55,Medium
+Udaipur,4,1,0,0,Summer,0.26,Low
+South Goa,10,5,1,0,Autumn,0.52,Medium
+Srinagar,11,0,0,0,Winter,0.39,Low
+Srinagar,10,6,1,0,Autumn,0.52,Medium
+Alleppey,11,3,0,0,Winter,0.38,Low
+Kasol,1,6,1,0,Winter,0.46,Low
+Leh,9,1,0,0,Autumn,0.34,Low
+Chopta,6,4,0,0,Monsoon,0.54,Medium
+Shimla,12,2,0,0,Winter,0.33,Low
+Chopta,2,4,0,0,Winter,0.31,Low
+Jaipur,6,2,0,0,Monsoon,0.36,Low
+Gokarna,8,1,0,0,Monsoon,0.11,Low
+Leh,5,0,0,0,Summer,0.66,Medium
+Munnar,1,4,0,0,Winter,0.3,Low
+Jodhpur,8,0,0,0,Monsoon,0.23,Low
+Tarkarli,7,5,1,0,Monsoon,0.37,Low
+Thekkady,7,0,0,0,Monsoon,0.16,Low
+Badrinath,2,1,0,0,Winter,0.61,Medium
+Rishikesh,9,2,0,0,Autumn,0.32,Low
+Nubra Valley,10,2,0,0,Autumn,0.64,Medium
+Tarkarli,6,4,0,0,Monsoon,0.57,Medium
+Mysore,1,5,1,0,Winter,0.72,High
+Jibhi,3,3,0,0,Spring,0.31,Low
+Leh,7,4,0,0,Monsoon,0.25,Low
+Munnar,1,3,0,0,Winter,0.37,Low
+Varkala,3,3,0,0,Spring,0.24,Low
+Rishikesh,12,1,0,0,Winter,0.26,Low
+Jibhi,1,4,0,0,Winter,0.25,Low
+Tarkarli,12,6,1,0,Winter,0.38,Low
+Ooty,8,1,0,0,Monsoon,0.2,Low
+Mussoorie,9,2,0,0,Autumn,0.32,Low
+Mussoorie,4,3,0,0,Summer,0.35,Low
+Kovalam,12,2,0,0,Winter,0.57,Medium
+Hampi,9,5,1,0,Autumn,0.5,Low
+Ranthambore,1,0,0,0,Winter,0.26,Low
+Kochi,12,6,1,0,Winter,0.4,Low
+Hampi,4,1,0,0,Summer,0.33,Low
+Kochi,3,1,0,0,Spring,0.28,Low
+Rishikesh,5,0,0,0,Summer,0.6,Medium
+Kochi,8,6,1,0,Monsoon,0.29,Low
+Mount Abu,8,6,1,0,Monsoon,0.27,Low
+Mysore,9,3,0,0,Autumn,0.32,Low
+Dharamshala,9,5,1,1,Autumn,0.65,Medium
+Nainital,3,5,1,1,Spring,0.63,Medium
+Kaza,3,0,0,0,Spring,0.29,Low
+Kochi,12,1,0,0,Winter,0.26,Low
+Ranthambore,9,6,1,0,Autumn,0.47,Low
+Jaipur,5,4,0,0,Summer,0.27,Low
+Chikmagalur,1,6,1,0,Winter,0.4,Low
+Gulmarg,10,4,0,1,Autumn,0.82,High
+Wayanad,3,4,0,0,Spring,0.25,Low
+Chikmagalur,2,3,0,1,Winter,0.43,Low
+Ooty,11,6,1,0,Winter,0.42,Low
+Wayanad,2,1,0,0,Winter,0.33,Low
+Auli,5,0,0,0,Summer,0.65,Medium
+Kasol,6,5,1,0,Monsoon,0.75,High
+Gulmarg,12,6,1,0,Winter,0.47,Low
+Jim Corbett,4,2,0,0,Summer,0.27,Low
+Mount Abu,3,6,1,0,Spring,0.38,Low
+Gulmarg,3,4,0,0,Spring,0.34,Low
+Alleppey,7,4,0,0,Monsoon,0.17,Low
+Nainital,2,0,0,0,Winter,0.29,Low
+Wayanad,1,3,0,0,Winter,0.31,Low
+Bir Billing,3,2,0,1,Spring,0.52,Medium
+Kochi,7,3,0,0,Monsoon,0.2,Low
+Gulmarg,11,6,1,0,Winter,0.42,Low
+Alibaug,3,0,0,0,Spring,0.25,Low
+Hampi,6,0,0,0,Monsoon,0.27,Low
+Haridwar,5,2,0,0,Summer,0.29,Low
+Kovalam,10,2,0,1,Autumn,0.43,Low
+Alibaug,2,6,1,0,Winter,0.4,Low
+Tarkarli,10,2,0,0,Autumn,0.6,Medium
+Hampi,10,2,0,0,Autumn,0.56,Medium
+Pahalgam,5,3,0,0,Summer,0.33,Low
+Chikmagalur,1,2,0,0,Winter,0.33,Low
+Valley of Flowers,3,5,1,0,Spring,0.5,Medium
+Jaipur,4,4,0,0,Summer,0.25,Low
+Kedarnath,7,2,0,0,Monsoon,0.17,Low
+Kedarnath,5,3,0,0,Summer,0.3,Low
+Valley of Flowers,9,0,0,0,Autumn,0.34,Low
+Rishikesh,6,1,0,0,Monsoon,0.61,Medium
+Mount Abu,9,5,1,0,Autumn,0.41,Low
+Srinagar,1,4,0,0,Winter,0.37,Low
+Kedarnath,4,0,0,0,Summer,0.33,Low
+Kaza,2,1,0,0,Winter,0.24,Low
+Ooty,7,5,1,0,Monsoon,0.39,Low
+Gulmarg,5,4,0,0,Summer,0.57,Medium
+Ranthambore,8,1,0,0,Monsoon,0.25,Low
+Mysore,2,2,0,0,Winter,0.51,Medium
+Kedarnath,2,1,0,0,Winter,0.63,Medium
+Manali,12,1,0,0,Winter,0.34,Low
+Badrinath,2,1,0,0,Winter,0.51,Medium
+Jim Corbett,8,1,0,1,Monsoon,0.33,Low
+Spiti Valley,10,3,0,0,Autumn,0.64,Medium
+Kasol,11,0,0,0,Winter,0.26,Low
+Haridwar,10,4,0,0,Autumn,0.57,Medium
+Ranthambore,8,1,0,0,Monsoon,0.17,Low
+Bir Billing,1,4,0,0,Winter,0.29,Low
+Wayanad,8,2,0,0,Monsoon,0.24,Low
+Nainital,7,1,0,0,Monsoon,0.12,Low
+Munnar,5,6,1,0,Summer,0.51,Medium
+Bir Billing,12,0,0,0,Winter,0.27,Low
+Mount Abu,10,5,1,0,Autumn,0.73,High
+Coorg,11,0,0,0,Winter,0.36,Low
+Munnar,10,2,0,0,Autumn,0.27,Low
+Coorg,9,1,0,0,Autumn,0.34,Low
+Manali,7,2,0,0,Monsoon,0.21,Low
+Tarkarli,12,5,1,0,Winter,0.41,Low
+Mussoorie,5,1,0,0,Summer,0.6,Medium
+Jaisalmer,12,0,0,0,Winter,0.31,Low
+Wayanad,1,2,0,1,Winter,0.54,Medium
+Alibaug,11,1,0,0,Winter,0.57,Medium
+Ooty,4,6,1,0,Summer,0.5,Low
+Dharamshala,1,4,0,0,Winter,0.32,Low
+Chikmagalur,8,1,0,0,Monsoon,0.13,Low
+Jibhi,5,5,1,0,Summer,0.46,Low
+Varkala,11,3,0,0,Winter,0.6,Medium
+Kedarnath,8,4,0,0,Monsoon,0.2,Low
+Shimla,8,0,0,0,Monsoon,0.12,Low
+Rishikesh,6,3,0,0,Monsoon,0.61,Medium
+Tarkarli,7,4,0,0,Monsoon,0.1,Low
+Valley of Flowers,2,4,0,0,Winter,0.35,Low
+Kochi,3,3,0,0,Spring,0.38,Low
+Chopta,11,4,0,0,Winter,0.36,Low
+Jodhpur,7,4,0,0,Monsoon,0.22,Low
+Pahalgam,3,6,1,0,Spring,0.42,Low
+Dalhousie,10,3,0,0,Autumn,0.29,Low
+Bir Billing,7,3,0,0,Monsoon,0.22,Low
+Bir Billing,9,0,0,1,Autumn,0.44,Low
+Shimla,3,3,0,0,Spring,0.24,Low
+Kochi,3,1,0,0,Spring,0.26,Low
+Pushkar,6,0,0,1,Monsoon,0.41,Low
+Auli,7,6,1,0,Monsoon,0.34,Low
+Pushkar,5,1,0,0,Summer,0.35,Low
+Pushkar,11,1,0,0,Winter,0.59,Medium
+Jodhpur,11,6,1,0,Winter,0.74,High
+South Goa,5,6,1,0,Summer,0.47,Low
+Nubra Valley,4,6,1,1,Summer,0.6,Medium
+Nainital,10,6,1,1,Autumn,0.59,Medium
+Jaipur,4,6,1,0,Summer,0.42,Low
+Kullu,2,1,0,0,Winter,0.28,Low
+Dharamshala,12,6,1,0,Winter,0.48,Low
+Dalhousie,1,1,0,0,Winter,0.24,Low
+Shimla,6,0,0,0,Monsoon,0.59,Medium
+Chopta,9,5,1,0,Autumn,0.47,Low
+Rishikesh,3,4,0,0,Spring,0.29,Low
+Pangong Lake,6,6,1,0,Monsoon,0.5,Low
+Ranthambore,7,1,0,0,Monsoon,0.18,Low
+Dalhousie,5,2,0,0,Summer,0.29,Low
+Kasol,4,3,0,0,Summer,0.28,Low
+Mysore,5,1,0,0,Summer,0.27,Low
+Rishikesh,5,3,0,0,Summer,0.66,Medium
+Mysore,3,1,0,0,Spring,0.33,Low
+Nubra Valley,2,3,0,0,Winter,0.3,Low
+Manali,5,6,1,0,Summer,0.79,High
+Rishikesh,3,2,0,0,Spring,0.27,Low
+Dharamshala,6,4,0,0,Monsoon,0.55,Medium
+Kaza,6,2,0,0,Monsoon,0.59,Medium
+Nubra Valley,5,1,0,0,Summer,0.62,Medium
+Varkala,7,0,0,0,Monsoon,0.14,Low
+Chikmagalur,9,4,0,0,Autumn,0.36,Low
+Spiti Valley,2,3,0,1,Winter,0.47,Low
+Gulmarg,4,4,0,0,Summer,0.27,Low
+Dalhousie,2,6,1,0,Winter,0.46,Low
+Thekkady,6,2,0,0,Monsoon,0.26,Low
+Dalhousie,6,0,0,0,Monsoon,0.24,Low
+Wayanad,8,4,0,0,Monsoon,0.12,Low
+North Goa,7,6,1,0,Monsoon,0.36,Low
+Mount Abu,4,2,0,0,Summer,0.32,Low
+Pahalgam,9,5,1,0,Autumn,0.42,Low
+Kedarnath,6,2,0,0,Monsoon,0.31,Low
+Chikmagalur,10,3,0,0,Autumn,0.62,Medium
+Coorg,8,2,0,0,Monsoon,0.21,Low
+Rishikesh,11,4,0,0,Winter,0.26,Low
+Ooty,5,1,0,0,Summer,0.56,Medium
+Pushkar,6,3,0,0,Monsoon,0.3,Low
+Ranthambore,11,4,0,0,Winter,0.35,Low
+Jodhpur,9,6,1,0,Autumn,0.45,Low
+Pushkar,3,6,1,0,Spring,0.38,Low
+Mount Abu,2,2,0,0,Winter,0.29,Low
+Pangong Lake,8,4,0,0,Monsoon,0.25,Low
+Munnar,5,2,0,0,Summer,0.37,Low
+Munnar,4,5,1,0,Summer,0.42,Low
+Chopta,7,3,0,1,Monsoon,0.38,Low
+Alibaug,10,4,0,0,Autumn,0.26,Low
+Auli,8,0,0,1,Monsoon,0.3,Low
+Kaza,12,6,1,0,Winter,0.48,Low
+Alleppey,11,3,0,0,Winter,0.26,Low
+Ooty,9,6,1,0,Autumn,0.45,Low
+Leh,4,6,1,0,Summer,0.48,Low
+Haridwar,7,0,0,0,Monsoon,0.2,Low
+Spiti Valley,5,2,0,0,Summer,0.57,Medium
+Bir Billing,10,3,0,0,Autumn,0.59,Medium
+Kochi,5,0,0,0,Summer,0.27,Low
+Ranthambore,6,4,0,0,Monsoon,0.3,Low
+Ooty,12,1,0,0,Winter,0.34,Low
+Ooty,12,4,0,0,Winter,0.28,Low
+Spiti Valley,2,3,0,1,Winter,0.45,Low
+Dharamshala,4,5,1,0,Summer,0.46,Low
+Bir Billing,9,2,0,0,Autumn,0.28,Low
+Kasol,9,3,0,0,Autumn,0.32,Low
+Pushkar,4,5,1,0,Summer,0.43,Low
+Alibaug,3,3,0,0,Spring,0.24,Low
+Valley of Flowers,7,0,0,0,Monsoon,0.12,Low
+Pangong Lake,11,4,0,0,Winter,0.37,Low
+Pushkar,5,0,0,1,Summer,0.5,Medium
+Kasol,2,4,0,0,Winter,0.28,Low
+Thekkady,12,6,1,0,Winter,0.48,Low
+Spiti Valley,9,0,0,0,Autumn,0.24,Low
+Gulmarg,4,6,1,0,Summer,0.4,Low
+Kasol,1,0,0,1,Winter,0.43,Low
+Jibhi,3,5,1,0,Spring,0.46,Low
+Gokarna,4,6,1,0,Summer,0.47,Low
+Srinagar,2,6,1,0,Winter,0.42,Low
+Spiti Valley,9,0,0,0,Autumn,0.32,Low
+Badrinath,12,4,0,0,Winter,0.6,Medium
+Jaisalmer,7,4,0,0,Monsoon,0.19,Low
+Spiti Valley,1,6,1,0,Winter,0.43,Low
+Valley of Flowers,2,0,0,0,Winter,0.37,Low
+Udaipur,4,6,1,0,Summer,0.43,Low
+Kaza,6,0,0,0,Monsoon,0.55,Medium
+Jibhi,10,2,0,0,Autumn,0.27,Low
+Udaipur,8,1,0,0,Monsoon,0.25,Low
+Ranthambore,1,6,1,0,Winter,0.5,Medium
+Kedarnath,5,6,1,0,Summer,0.46,Low
+Srinagar,1,1,0,0,Winter,0.38,Low
+Rishikesh,12,0,0,0,Winter,0.34,Low
+Kaza,6,6,1,0,Monsoon,0.75,High
+Kasol,6,5,1,0,Monsoon,0.72,High
+Gulmarg,1,1,0,0,Winter,0.38,Low
+Varkala,3,3,0,0,Spring,0.37,Low
+Nainital,4,0,0,0,Summer,0.32,Low
+Chopta,9,3,0,0,Autumn,0.24,Low
+Thekkady,4,1,0,1,Summer,0.42,Low
+Dalhousie,12,1,0,0,Winter,0.3,Low
+Manali,4,0,0,0,Summer,0.3,Low
+Udaipur,12,6,1,0,Winter,0.69,Medium
+North Goa,3,1,0,0,Spring,0.33,Low
+Manali,8,1,0,0,Monsoon,0.13,Low
+Valley of Flowers,10,3,0,0,Autumn,0.34,Low
+Nubra Valley,7,3,0,0,Monsoon,0.22,Low
+Udaipur,3,4,0,0,Spring,0.34,Low
+Coorg,10,6,1,0,Autumn,0.48,Low
+Alleppey,10,0,0,0,Autumn,0.34,Low
+Kedarnath,12,3,0,0,Winter,0.56,Medium
+Munnar,6,6,1,0,Monsoon,0.51,Medium
+Srinagar,11,4,0,0,Winter,0.35,Low
+Jaipur,6,3,0,0,Monsoon,0.38,Low
+Haridwar,12,6,1,0,Winter,0.7,Medium
+Pahalgam,4,2,0,0,Summer,0.31,Low
+Tarkarli,4,5,1,0,Summer,0.44,Low
+Jaisalmer,4,1,0,0,Summer,0.35,Low
+Jaisalmer,7,3,0,0,Monsoon,0.16,Low
+Hampi,9,5,1,0,Autumn,0.47,Low
+Valley of Flowers,10,6,1,0,Autumn,0.52,Medium
+Kovalam,5,2,0,0,Summer,0.31,Low
+Mussoorie,12,0,0,0,Winter,0.25,Low
+Bir Billing,5,1,0,0,Summer,0.56,Medium
+Alibaug,5,2,0,0,Summer,0.24,Low
+Gokarna,3,1,0,0,Spring,0.27,Low
+Gulmarg,12,1,0,0,Winter,0.3,Low
+Mount Abu,3,1,0,0,Spring,0.29,Low
+Hampi,7,6,1,0,Monsoon,0.34,Low
+Leh,5,4,0,0,Summer,0.56,Medium
+Manali,4,6,1,0,Summer,0.47,Low
+Kullu,4,1,0,0,Summer,0.28,Low
+Pangong Lake,2,6,1,0,Winter,0.53,Medium
+Thekkady,8,3,0,0,Monsoon,0.12,Low
+Valley of Flowers,2,0,0,0,Winter,0.29,Low
+Ooty,9,0,0,0,Autumn,0.36,Low
+Auli,2,2,0,0,Winter,0.28,Low
+Gokarna,2,0,0,0,Winter,0.3,Low
+Hampi,7,2,0,1,Monsoon,0.42,Low
+Nubra Valley,4,4,0,0,Summer,0.33,Low
+Shimla,6,3,0,0,Monsoon,0.61,Medium
+Chikmagalur,3,0,0,0,Spring,0.28,Low
+Dharamshala,11,4,0,0,Winter,0.24,Low
+Shimla,11,4,0,0,Winter,0.28,Low
+Manali,1,1,0,0,Winter,0.28,Low
+Chikmagalur,1,5,1,0,Winter,0.43,Low
+Chopta,3,3,0,0,Spring,0.31,Low
+Gokarna,1,6,1,0,Winter,0.74,High
+Mussoorie,3,6,1,0,Spring,0.44,Low
+Mysore,4,5,1,0,Summer,0.4,Low
+Haridwar,2,5,1,1,Winter,0.87,High
+Munnar,9,6,1,0,Autumn,0.52,Medium
+Dalhousie,5,0,0,0,Summer,0.34,Low
+Nainital,7,5,1,0,Monsoon,0.28,Low
+Jim Corbett,1,6,1,0,Winter,0.52,Medium
+Kedarnath,12,3,0,0,Winter,0.54,Medium
+Mussoorie,9,5,1,0,Autumn,0.5,Medium
+Mount Abu,12,0,0,0,Winter,0.26,Low
+Hampi,3,5,1,0,Spring,0.48,Low
+Srinagar,5,6,1,1,Summer,0.66,Medium
+Kochi,8,2,0,0,Monsoon,0.22,Low
+Chopta,8,2,0,0,Monsoon,0.17,Low
+Tarkarli,8,6,1,0,Monsoon,0.33,Low
+Gulmarg,10,3,0,0,Autumn,0.62,Medium
+Tarkarli,9,1,0,0,Autumn,0.32,Low
+Gulmarg,6,5,1,0,Monsoon,0.79,High
+Badrinath,3,0,0,1,Spring,0.45,Low
+Wayanad,10,4,0,0,Autumn,0.25,Low
+Pushkar,8,4,0,0,Monsoon,0.14,Low
+Auli,10,5,1,0,Autumn,0.69,Medium
+Pahalgam,8,5,1,0,Monsoon,0.32,Low
+Jibhi,12,3,0,0,Winter,0.33,Low
+Auli,4,4,0,0,Summer,0.27,Low
+Hampi,1,0,0,0,Winter,0.59,Medium
+Jibhi,11,2,0,0,Winter,0.35,Low
+Munnar,6,6,1,0,Monsoon,0.52,Medium
+Leh,7,5,1,0,Monsoon,0.39,Low
+Ranthambore,11,5,1,0,Winter,0.42,Low
+Pahalgam,3,2,0,0,Spring,0.34,Low
+Ranthambore,1,0,0,0,Winter,0.26,Low
+Kullu,2,3,0,0,Winter,0.28,Low
+Kochi,4,2,0,0,Summer,0.3,Low
+Chopta,10,5,1,0,Autumn,0.71,High
+Gulmarg,7,4,0,0,Monsoon,0.15,Low
+Ranthambore,9,3,0,1,Autumn,0.55,Medium
+Jim Corbett,6,5,1,0,Monsoon,0.42,Low
+Kovalam,11,4,0,0,Winter,0.57,Medium
+Kasol,6,6,1,0,Monsoon,0.74,High
+Ooty,3,2,0,0,Spring,0.34,Low
+Pushkar,4,4,0,0,Summer,0.26,Low
+Thekkady,4,6,1,0,Summer,0.39,Low
+Kaza,1,5,1,0,Winter,0.39,Low
+Gokarna,7,5,1,0,Monsoon,0.35,Low
+Pushkar,9,2,0,0,Autumn,0.32,Low
+Pushkar,6,0,0,0,Monsoon,0.28,Low
+Jodhpur,3,0,0,0,Spring,0.3,Low
+Mysore,6,0,0,0,Monsoon,0.29,Low
+Tarkarli,2,5,1,0,Winter,0.38,Low
+Hampi,9,2,0,0,Autumn,0.35,Low
+North Goa,6,4,0,0,Monsoon,0.3,Low
+Jaipur,5,6,1,0,Summer,0.43,Low
+Ooty,2,0,0,0,Winter,0.34,Low
+Coorg,9,2,0,0,Autumn,0.24,Low
+Nubra Valley,12,6,1,0,Winter,0.46,Low
+Pangong Lake,12,5,1,0,Winter,0.41,Low
+Haridwar,7,1,0,0,Monsoon,0.21,Low
+Mysore,2,4,0,0,Winter,0.51,Medium
+Munnar,11,0,0,0,Winter,0.3,Low
+Dalhousie,4,5,1,0,Summer,0.47,Low
+Mysore,4,6,1,0,Summer,0.52,Medium
+Dalhousie,11,5,1,0,Winter,0.4,Low
+Srinagar,5,2,0,0,Summer,0.28,Low
+Manali,8,5,1,0,Monsoon,0.32,Low
+Thekkady,8,5,1,0,Monsoon,0.38,Low
+Kullu,11,2,0,0,Winter,0.32,Low
+Mysore,6,6,1,0,Monsoon,0.42,Low
+Pangong Lake,4,1,0,0,Summer,0.37,Low
+Jim Corbett,4,5,1,0,Summer,0.39,Low
+Jaisalmer,12,2,0,0,Winter,0.31,Low
+Nubra Valley,7,6,1,1,Monsoon,0.58,Medium
+Nainital,6,0,0,0,Monsoon,0.37,Low
+Udaipur,7,0,0,0,Monsoon,0.21,Low
+Thekkady,6,0,0,0,Monsoon,0.28,Low
+Kaza,7,0,0,0,Monsoon,0.15,Low
+Alleppey,7,2,0,0,Monsoon,0.24,Low
+Auli,3,3,0,0,Spring,0.27,Low
+Badrinath,2,5,1,0,Winter,0.66,Medium
+Thekkady,5,0,0,0,Summer,0.34,Low
+Mussoorie,10,3,0,0,Autumn,0.59,Medium
+Auli,6,4,0,0,Monsoon,0.58,Medium
+Manali,1,0,0,0,Winter,0.34,Low
+Manali,9,3,0,0,Autumn,0.33,Low
+North Goa,9,0,0,0,Autumn,0.35,Low
+Tarkarli,11,5,1,0,Winter,0.38,Low
+Bir Billing,9,4,0,0,Autumn,0.25,Low
+Bir Billing,10,4,0,0,Autumn,0.6,Medium
+Bir Billing,7,2,0,1,Monsoon,0.39,Low
+Spiti Valley,8,5,1,0,Monsoon,0.32,Low
+Manali,2,4,0,1,Winter,0.5,Low
+Coorg,8,5,1,0,Monsoon,0.36,Low
+Jibhi,7,1,0,0,Monsoon,0.2,Low
+Gulmarg,3,5,1,0,Spring,0.43,Low
+Mount Abu,2,6,1,0,Winter,0.42,Low
+Udaipur,6,6,1,0,Monsoon,0.47,Low
+Ranthambore,4,0,0,0,Summer,0.36,Low
+Ooty,8,2,0,0,Monsoon,0.13,Low
+Srinagar,3,5,1,0,Spring,0.5,Medium
+Thekkady,7,6,1,0,Monsoon,0.36,Low
+Gulmarg,10,1,0,0,Autumn,0.6,Medium
+Leh,2,0,0,0,Winter,0.37,Low
+Srinagar,7,6,1,0,Monsoon,0.36,Low
+Gulmarg,2,3,0,0,Winter,0.26,Low
+Rishikesh,8,0,0,0,Monsoon,0.16,Low
+Kovalam,4,3,0,0,Summer,0.24,Low
+Mysore,4,2,0,0,Summer,0.34,Low
+Shimla,4,1,0,0,Summer,0.24,Low
+Pushkar,5,4,0,0,Summer,0.31,Low
+Mount Abu,8,2,0,0,Monsoon,0.18,Low
+Chopta,7,5,1,0,Monsoon,0.35,Low
+South Goa,3,0,0,0,Spring,0.37,Low
+Ranthambore,4,4,0,0,Summer,0.33,Low
+Bir Billing,3,2,0,0,Spring,0.29,Low
+Ranthambore,8,2,0,0,Monsoon,0.24,Low
+Pahalgam,1,1,0,0,Winter,0.29,Low
+Auli,5,6,1,0,Summer,0.73,High
+South Goa,12,5,1,0,Winter,0.83,High
+Alleppey,10,3,0,0,Autumn,0.28,Low
+Ranthambore,5,2,0,0,Summer,0.31,Low
+Jim Corbett,5,0,0,0,Summer,0.34,Low
+Varkala,9,6,1,0,Autumn,0.51,Medium
+Wayanad,4,2,0,0,Summer,0.25,Low
+Udaipur,6,6,1,0,Monsoon,0.53,Medium
+Alleppey,12,5,1,0,Winter,0.49,Low
+Jodhpur,7,6,1,0,Monsoon,0.32,Low
+Rishikesh,12,6,1,1,Winter,0.64,Medium
+Ranthambore,11,0,0,0,Winter,0.36,Low
+Jim Corbett,4,3,0,0,Summer,0.33,Low
+Jaisalmer,5,2,0,0,Summer,0.25,Low
+Mysore,11,4,0,0,Winter,0.57,Medium
+Kullu,12,6,1,0,Winter,0.43,Low
+Coorg,1,0,0,0,Winter,0.36,Low
+Badrinath,1,4,0,0,Winter,0.54,Medium
+Chikmagalur,9,1,0,0,Autumn,0.32,Low
+Ranthambore,4,5,1,0,Summer,0.41,Low
+Kasol,4,0,0,0,Summer,0.29,Low
+Pangong Lake,5,3,0,0,Summer,0.27,Low
+Mount Abu,5,3,0,0,Summer,0.58,Medium
+Coorg,11,4,0,0,Winter,0.31,Low
+Valley of Flowers,6,6,1,0,Monsoon,0.49,Low
+Ranthambore,10,5,1,0,Autumn,0.46,Low
+Tarkarli,8,0,0,0,Monsoon,0.21,Low
+Dalhousie,8,4,0,0,Monsoon,0.14,Low
+Varkala,10,0,0,0,Autumn,0.32,Low
+Nainital,4,5,1,0,Summer,0.49,Low
+Bir Billing,1,4,0,0,Winter,0.35,Low
+Hampi,12,1,0,0,Winter,0.6,Medium
+Kochi,9,3,0,0,Autumn,0.36,Low
+South Goa,11,4,0,0,Winter,0.62,Medium
+Shimla,1,1,0,0,Winter,0.29,Low
+Gulmarg,1,5,1,0,Winter,0.41,Low
+Srinagar,3,2,0,0,Spring,0.29,Low
+Rishikesh,1,5,1,0,Winter,0.45,Low
+Bir Billing,4,1,0,0,Summer,0.34,Low
+Chopta,10,2,0,0,Autumn,0.53,Medium
+Coorg,11,6,1,0,Winter,0.51,Medium
+Spiti Valley,1,4,0,0,Winter,0.37,Low
+Wayanad,11,4,0,0,Winter,0.33,Low
+Pushkar,1,2,0,0,Winter,0.5,Medium
+Udaipur,9,3,0,0,Autumn,0.28,Low
+Chikmagalur,10,3,0,0,Autumn,0.57,Medium
+Kullu,11,6,1,0,Winter,0.4,Low
+Srinagar,7,6,1,1,Monsoon,0.5,Low
+Jim Corbett,2,2,0,0,Winter,0.36,Low
+Mount Abu,11,1,0,0,Winter,0.26,Low
+Varkala,10,6,1,0,Autumn,0.51,Medium
+Haridwar,2,1,0,0,Winter,0.61,Medium
+Dharamshala,9,6,1,0,Autumn,0.5,Low
+Valley of Flowers,1,6,1,1,Winter,0.6,Medium
+Bir Billing,11,3,0,1,Winter,0.46,Low
+Kedarnath,3,1,0,0,Spring,0.35,Low
+Auli,2,1,0,0,Winter,0.32,Low
+Valley of Flowers,2,2,0,0,Winter,0.3,Low
+Mount Abu,10,3,0,0,Autumn,0.56,Medium
+Spiti Valley,8,6,1,0,Monsoon,0.35,Low
+Kochi,12,5,1,0,Winter,0.49,Low
+Varkala,10,1,0,0,Autumn,0.35,Low
+Ranthambore,3,3,0,0,Spring,0.32,Low
+Jibhi,2,5,1,0,Winter,0.38,Low
+Pushkar,6,0,0,0,Monsoon,0.29,Low
+Alibaug,7,1,0,0,Monsoon,0.11,Low
+Thekkady,1,5,1,0,Winter,0.5,Medium
+Tarkarli,7,6,1,0,Monsoon,0.36,Low
+Kovalam,11,5,1,0,Winter,0.79,High
+Pangong Lake,3,3,0,0,Spring,0.3,Low
+Kasol,7,2,0,0,Monsoon,0.18,Low
+Kovalam,7,6,1,0,Monsoon,0.27,Low
+Ooty,4,3,0,0,Summer,0.34,Low
+Jodhpur,8,0,0,0,Monsoon,0.24,Low
+Kullu,3,0,0,0,Spring,0.29,Low
+Mussoorie,12,5,1,0,Winter,0.49,Low
+Ranthambore,7,5,1,0,Monsoon,0.27,Low
+Chikmagalur,8,5,1,1,Monsoon,0.46,Low
+Varkala,8,4,0,0,Monsoon,0.22,Low
+Mysore,5,2,0,0,Summer,0.3,Low
+Chopta,4,0,0,0,Summer,0.23,Low
+Munnar,9,3,0,0,Autumn,0.35,Low
+Jaipur,5,3,0,0,Summer,0.3,Low
+Alibaug,5,5,1,0,Summer,0.45,Low
+South Goa,7,4,0,0,Monsoon,0.23,Low
+Valley of Flowers,10,5,1,0,Autumn,0.49,Low
+Munnar,12,1,0,0,Winter,0.25,Low
+Hampi,10,1,0,0,Autumn,0.58,Medium
+Pangong Lake,9,3,0,1,Autumn,0.53,Medium
+Pushkar,6,2,0,0,Monsoon,0.33,Low
+Ranthambore,9,2,0,0,Autumn,0.28,Low
+Pushkar,12,5,1,0,Winter,0.74,High
+Auli,1,4,0,0,Winter,0.34,Low
+Jaipur,5,1,0,1,Summer,0.5,Medium
+Jim Corbett,3,1,0,0,Spring,0.37,Low
+Leh,1,2,0,1,Winter,0.46,Low
+Pangong Lake,5,6,1,0,Summer,0.51,Medium
+Hampi,1,4,0,0,Winter,0.62,Medium
+Leh,12,5,1,0,Winter,0.43,Low
+Chopta,10,1,0,0,Autumn,0.57,Medium
+Nainital,3,6,1,0,Spring,0.45,Low
+Udaipur,1,1,0,0,Winter,0.53,Medium
+Thekkady,9,0,0,0,Autumn,0.24,Low
+Kasol,3,2,0,0,Spring,0.33,Low
+Coorg,9,5,1,0,Autumn,0.43,Low
+Wayanad,8,5,1,0,Monsoon,0.34,Low
+Nubra Valley,10,3,0,0,Autumn,0.62,Medium
+Chikmagalur,11,1,0,0,Winter,0.31,Low
+Mussoorie,4,4,0,0,Summer,0.26,Low
+Jodhpur,7,4,0,0,Monsoon,0.19,Low
+Pangong Lake,9,4,0,0,Autumn,0.28,Low
+Mount Abu,2,3,0,0,Winter,0.33,Low
+Udaipur,9,0,0,0,Autumn,0.31,Low
+Nainital,12,1,0,0,Winter,0.24,Low
+Wayanad,10,6,1,0,Autumn,0.47,Low
+Pushkar,9,3,0,0,Autumn,0.31,Low
+Jibhi,2,4,0,0,Winter,0.22,Low
+North Goa,5,4,0,0,Summer,0.35,Low
+Auli,5,1,0,0,Summer,0.64,Medium
+Alleppey,12,2,0,1,Winter,0.49,Low
+Kaza,12,1,0,0,Winter,0.31,Low
+Nainital,9,0,0,0,Autumn,0.29,Low
+Jodhpur,8,5,1,0,Monsoon,0.37,Low
+South Goa,7,3,0,0,Monsoon,0.16,Low
+Munnar,8,0,0,0,Monsoon,0.14,Low
+Munnar,1,2,0,0,Winter,0.31,Low
+Udaipur,9,6,1,0,Autumn,0.48,Low
+Auli,1,2,0,0,Winter,0.3,Low
+Dharamshala,11,3,0,0,Winter,0.26,Low
+Nubra Valley,2,0,0,0,Winter,0.28,Low
+Badrinath,9,5,1,0,Autumn,0.42,Low
+Pahalgam,2,4,0,0,Winter,0.35,Low
+Kullu,10,4,0,0,Autumn,0.31,Low
+Dalhousie,4,1,0,0,Summer,0.21,Low
+Haridwar,6,3,0,0,Monsoon,0.3,Low
+Auli,10,4,0,0,Autumn,0.63,Medium
+Pangong Lake,11,5,1,0,Winter,0.41,Low
+Jaisalmer,3,4,0,0,Spring,0.34,Low
+Jim Corbett,9,5,1,0,Autumn,0.43,Low
+Ooty,1,0,0,0,Winter,0.35,Low
+Mount Abu,7,3,0,0,Monsoon,0.22,Low
+Alibaug,3,6,1,0,Spring,0.4,Low
+Srinagar,12,0,0,0,Winter,0.26,Low
+Badrinath,10,0,0,0,Autumn,0.6,Medium
+Mysore,4,2,0,0,Summer,0.31,Low
+Badrinath,4,6,1,0,Summer,0.5,Medium
+Haridwar,7,6,1,0,Monsoon,0.34,Low
+Bir Billing,12,0,0,0,Winter,0.32,Low
+Alibaug,10,5,1,0,Autumn,0.38,Low
+Rishikesh,3,5,1,0,Spring,0.52,Medium
+Nubra Valley,12,5,1,0,Winter,0.53,Medium
+Haridwar,4,0,0,1,Summer,0.49,Low
+Jibhi,8,6,1,0,Monsoon,0.25,Low
+Pushkar,7,6,1,0,Monsoon,0.38,Low
+Pushkar,12,3,0,0,Winter,0.51,Medium
+South Goa,12,0,0,0,Winter,0.6,Medium
+Pahalgam,4,6,1,0,Summer,0.48,Low
+Thekkady,1,0,0,0,Winter,0.3,Low
+Spiti Valley,3,6,1,0,Spring,0.39,Low
+Gulmarg,1,0,0,1,Winter,0.51,Medium
+Ooty,10,5,1,0,Autumn,0.73,High
+North Goa,6,4,0,0,Monsoon,0.34,Low
+Kochi,3,6,1,0,Spring,0.43,Low
+Srinagar,6,3,0,0,Monsoon,0.28,Low
+Jibhi,2,2,0,0,Winter,0.29,Low
+Alleppey,5,2,0,0,Summer,0.28,Low
+Ooty,10,4,0,0,Autumn,0.55,Medium
+Jodhpur,7,4,0,0,Monsoon,0.14,Low
+Kasol,4,4,0,1,Summer,0.47,Low
+Srinagar,10,0,0,0,Autumn,0.3,Low
+Kochi,11,6,1,0,Winter,0.44,Low
+Spiti Valley,1,6,1,0,Winter,0.5,Low
+Jaipur,2,5,1,0,Winter,0.76,High
+North Goa,8,2,0,1,Monsoon,0.43,Low
+Varkala,2,0,0,0,Winter,0.27,Low
+Shimla,11,3,0,0,Winter,0.32,Low
+North Goa,3,0,0,0,Spring,0.28,Low
+Jodhpur,9,4,0,0,Autumn,0.32,Low
+Alibaug,7,1,0,0,Monsoon,0.22,Low
+Haridwar,1,6,1,0,Winter,0.71,High
+Kasol,6,1,0,1,Monsoon,0.75,High
+Srinagar,7,6,1,1,Monsoon,0.59,Medium
+Mysore,2,4,0,0,Winter,0.58,Medium
+Kasol,5,5,1,0,Summer,0.72,High
+North Goa,10,3,0,0,Autumn,0.34,Low
+Gokarna,2,4,0,0,Winter,0.27,Low
+Manali,10,6,1,0,Autumn,0.81,High
+Udaipur,6,2,0,0,Monsoon,0.34,Low
+Nainital,8,5,1,0,Monsoon,0.27,Low
+Leh,5,4,0,0,Summer,0.62,Medium
+Dharamshala,6,3,0,0,Monsoon,0.55,Medium
+Hampi,1,6,1,0,Winter,0.79,High
+Tarkarli,11,2,0,0,Winter,0.27,Low
+Bir Billing,6,0,0,0,Monsoon,0.53,Medium
+Ooty,11,6,1,0,Winter,0.52,Medium
+Kasol,7,3,0,0,Monsoon,0.22,Low
+Udaipur,1,6,1,0,Winter,0.7,Medium
+Pahalgam,10,0,0,0,Autumn,0.36,Low
+Varkala,6,5,1,0,Monsoon,0.43,Low
+South Goa,10,1,0,0,Autumn,0.31,Low
+Kovalam,4,4,0,0,Summer,0.31,Low
+Ranthambore,5,1,0,0,Summer,0.36,Low
+Tarkarli,1,5,1,0,Winter,0.48,Low
+Dalhousie,12,6,1,0,Winter,0.44,Low
+Nubra Valley,1,4,0,0,Winter,0.26,Low
+Udaipur,5,3,0,1,Summer,0.54,Medium
+Valley of Flowers,3,2,0,0,Spring,0.27,Low
+Dalhousie,2,0,0,0,Winter,0.29,Low
+Jibhi,7,5,1,0,Monsoon,0.33,Low
+Haridwar,8,3,0,0,Monsoon,0.2,Low
+Gokarna,2,6,1,0,Winter,0.5,Low
+Haridwar,1,4,0,0,Winter,0.56,Medium
+Bir Billing,5,2,0,0,Summer,0.55,Medium
+South Goa,1,1,0,0,Winter,0.61,Medium
+Mussoorie,12,1,0,0,Winter,0.27,Low
+Kaza,6,3,0,0,Monsoon,0.64,Medium
+Gokarna,7,3,0,0,Monsoon,0.11,Low
+Kochi,6,4,0,1,Monsoon,0.43,Low
+Leh,9,4,0,0,Autumn,0.38,Low
+Kovalam,4,4,0,0,Summer,0.29,Low
+Leh,1,0,0,0,Winter,0.29,Low
+Thekkady,9,5,1,0,Autumn,0.51,Medium
+Jaisalmer,9,0,0,0,Autumn,0.25,Low
+Pushkar,8,4,0,0,Monsoon,0.2,Low
+Badrinath,10,5,1,0,Autumn,0.75,High
+North Goa,9,6,1,0,Autumn,0.46,Low
+Chikmagalur,11,6,1,0,Winter,0.51,Medium
+Badrinath,7,3,0,0,Monsoon,0.2,Low
+Munnar,6,2,0,0,Monsoon,0.27,Low
+Manali,7,2,0,0,Monsoon,0.14,Low
+Pangong Lake,7,3,0,0,Monsoon,0.18,Low
+Srinagar,11,2,0,0,Winter,0.37,Low
+Thekkady,7,1,0,0,Monsoon,0.21,Low
+Udaipur,7,2,0,0,Monsoon,0.25,Low
+Alleppey,10,0,0,0,Autumn,0.28,Low
+Chopta,3,1,0,0,Spring,0.3,Low
+Udaipur,3,1,0,0,Spring,0.39,Low
+Mount Abu,5,4,0,0,Summer,0.58,Medium
+Pangong Lake,2,2,0,0,Winter,0.28,Low
+North Goa,4,3,0,0,Summer,0.3,Low
+Kasol,11,2,0,0,Winter,0.26,Low
+Kochi,6,0,0,0,Monsoon,0.25,Low
+Mussoorie,6,3,0,0,Monsoon,0.54,Medium
+Jodhpur,1,1,0,0,Winter,0.53,Medium
+Mussoorie,5,2,0,0,Summer,0.64,Medium
+Mussoorie,8,1,0,0,Monsoon,0.14,Low
+Alleppey,12,0,0,0,Winter,0.3,Low
+Alleppey,12,6,1,0,Winter,0.42,Low
+Rishikesh,6,4,0,0,Monsoon,0.63,Medium
+North Goa,5,5,1,0,Summer,0.44,Low
+Coorg,6,5,1,0,Monsoon,0.46,Low
+Manali,9,3,0,0,Autumn,0.28,Low
+Jodhpur,4,4,0,0,Summer,0.32,Low
+Jaipur,2,5,1,0,Winter,0.71,Medium
+Jodhpur,8,4,0,0,Monsoon,0.23,Low
+Nubra Valley,2,4,0,0,Winter,0.34,Low
+Kedarnath,3,2,0,0,Spring,0.32,Low
+Munnar,6,2,0,0,Monsoon,0.26,Low
+Kochi,3,2,0,0,Spring,0.37,Low
+Mount Abu,7,1,0,0,Monsoon,0.13,Low
+Spiti Valley,7,6,1,0,Monsoon,0.35,Low
+Kasol,11,5,1,0,Winter,0.46,Low
+Kullu,5,2,0,0,Summer,0.35,Low
+Ranthambore,12,2,0,0,Winter,0.25,Low
+Leh,7,4,0,0,Monsoon,0.19,Low
+Thekkady,2,3,0,0,Winter,0.27,Low
+Spiti Valley,6,3,0,0,Monsoon,0.6,Medium
+North Goa,5,0,0,0,Summer,0.27,Low
+Badrinath,2,5,1,0,Winter,0.66,Medium
+Alleppey,1,3,0,0,Winter,0.3,Low
+Varkala,2,5,1,0,Winter,0.51,Medium
+Bir Billing,5,4,0,0,Summer,0.55,Medium
+Kovalam,11,2,0,0,Winter,0.66,Medium
+South Goa,8,6,1,0,Monsoon,0.35,Low
+Jaisalmer,3,4,0,0,Spring,0.34,Low
+North Goa,1,4,0,0,Winter,0.71,High
+North Goa,2,3,0,0,Winter,0.3,Low
+Jibhi,8,5,1,0,Monsoon,0.27,Low
+Shimla,10,4,0,1,Autumn,0.84,High
+Valley of Flowers,12,3,0,0,Winter,0.29,Low
+Haridwar,1,5,1,1,Winter,0.91,High
+Kedarnath,6,5,1,0,Monsoon,0.49,Low
+Alleppey,1,4,0,0,Winter,0.32,Low
+Jim Corbett,4,0,0,1,Summer,0.49,Low
+Nubra Valley,4,5,1,0,Summer,0.5,Medium
+Jaisalmer,3,1,0,0,Spring,0.31,Low
+Udaipur,10,6,1,0,Autumn,0.69,Medium
+Auli,3,5,1,0,Spring,0.4,Low
+Tarkarli,1,2,0,0,Winter,0.26,Low
+Srinagar,3,1,0,0,Spring,0.36,Low
+Leh,5,4,0,0,Summer,0.67,Medium
+Chikmagalur,6,6,1,0,Monsoon,0.8,High
+Jaisalmer,4,6,1,0,Summer,0.45,Low
+Mussoorie,11,5,1,0,Winter,0.47,Low
+Udaipur,5,1,0,0,Summer,0.34,Low
+Kasol,12,0,0,0,Winter,0.31,Low
+Jaisalmer,3,3,0,0,Spring,0.25,Low
+Srinagar,2,2,0,0,Winter,0.29,Low
+Nubra Valley,5,0,0,0,Summer,0.62,Medium
+Dalhousie,12,1,0,0,Winter,0.27,Low
+Coorg,1,5,1,0,Winter,0.41,Low
+Leh,5,6,1,0,Summer,0.7,Medium
+Jaipur,3,4,0,0,Spring,0.33,Low
+Nainital,3,1,0,0,Spring,0.26,Low
+Jaisalmer,10,4,0,0,Autumn,0.33,Low
+Srinagar,10,2,0,0,Autumn,0.37,Low
+Alibaug,3,1,0,0,Spring,0.3,Low
+Badrinath,8,2,0,0,Monsoon,0.16,Low
+Jodhpur,8,2,0,0,Monsoon,0.16,Low
+Rishikesh,9,6,1,0,Autumn,0.47,Low
+Alleppey,11,2,0,0,Winter,0.28,Low
+Mussoorie,7,3,0,0,Monsoon,0.15,Low
+Jaisalmer,1,1,0,0,Winter,0.25,Low
+Rishikesh,3,5,1,1,Spring,0.61,Medium
+Chikmagalur,12,4,0,0,Winter,0.33,Low
+Varkala,11,6,1,0,Winter,0.73,High
+Chopta,12,4,0,0,Winter,0.33,Low
+Chopta,11,6,1,0,Winter,0.48,Low
+Jaisalmer,5,4,0,0,Summer,0.34,Low
+Jim Corbett,10,3,0,0,Autumn,0.37,Low
+Gokarna,12,1,0,0,Winter,0.62,Medium
+Chopta,4,0,0,0,Summer,0.25,Low
+Gulmarg,12,1,0,0,Winter,0.3,Low
+Spiti Valley,6,0,0,0,Monsoon,0.62,Medium
+Chopta,7,3,0,0,Monsoon,0.1,Low
+Udaipur,9,5,1,0,Autumn,0.48,Low
+Coorg,12,1,0,0,Winter,0.27,Low
+Bir Billing,6,3,0,0,Monsoon,0.57,Medium
+Bir Billing,1,4,0,1,Winter,0.53,Medium
+Dharamshala,4,6,1,1,Summer,0.58,Medium
+Bir Billing,12,1,0,0,Winter,0.27,Low
+Leh,2,1,0,0,Winter,0.36,Low
+Munnar,9,1,0,0,Autumn,0.27,Low
+Pahalgam,5,0,0,0,Summer,0.26,Low
+Rishikesh,7,6,1,0,Monsoon,0.29,Low
+Mysore,12,1,0,0,Winter,0.53,Medium
+Mussoorie,8,0,0,0,Monsoon,0.11,Low
+Srinagar,2,6,1,0,Winter,0.47,Low
+Jodhpur,8,4,0,0,Monsoon,0.12,Low
+Dalhousie,11,0,0,0,Winter,0.31,Low
+Bir Billing,4,1,0,0,Summer,0.26,Low
+Mussoorie,3,5,1,0,Spring,0.41,Low
+Pahalgam,5,3,0,0,Summer,0.25,Low
+Mussoorie,12,3,0,0,Winter,0.31,Low
+Mussoorie,2,0,0,0,Winter,0.35,Low
+Jodhpur,2,4,0,0,Winter,0.51,Medium
+Coorg,9,0,0,0,Autumn,0.29,Low
+Jibhi,8,4,0,0,Monsoon,0.15,Low
+Ooty,3,5,1,0,Spring,0.51,Medium
+Auli,6,3,0,0,Monsoon,0.66,Medium
+Tarkarli,4,0,0,0,Summer,0.32,Low
+South Goa,7,4,0,0,Monsoon,0.14,Low
+Hampi,6,0,0,0,Monsoon,0.33,Low
+Ranthambore,10,3,0,0,Autumn,0.32,Low
+Auli,11,4,0,0,Winter,0.37,Low
+Varkala,2,5,1,0,Winter,0.46,Low
+Thekkady,8,2,0,0,Monsoon,0.13,Low
+Kochi,2,4,0,0,Winter,0.24,Low
+Kaza,5,0,0,0,Summer,0.53,Medium
+Srinagar,9,6,1,0,Autumn,0.43,Low
+Jodhpur,4,2,0,0,Summer,0.26,Low
+Pushkar,1,1,0,0,Winter,0.59,Medium
+Munnar,7,3,0,0,Monsoon,0.2,Low
+South Goa,6,6,1,0,Monsoon,0.5,Low
+Auli,2,0,0,0,Winter,0.36,Low
+Kasol,12,5,1,0,Winter,0.43,Low
+Chikmagalur,2,2,0,0,Winter,0.26,Low
+Jaisalmer,4,6,1,0,Summer,0.45,Low
+Leh,11,6,1,0,Winter,0.43,Low
+Shimla,6,2,0,0,Monsoon,0.54,Medium
+Dharamshala,4,5,1,1,Summer,0.65,Medium
+Kaza,8,2,0,0,Monsoon,0.1,Low
+Wayanad,9,4,0,0,Autumn,0.31,Low
+Alleppey,8,4,0,0,Monsoon,0.17,Low
+North Goa,5,1,0,0,Summer,0.28,Low
+Bir Billing,5,4,0,0,Summer,0.56,Medium
+Mysore,2,1,0,0,Winter,0.61,Medium
+Gokarna,7,0,0,0,Monsoon,0.19,Low
+Chikmagalur,1,6,1,0,Winter,0.45,Low
+Gokarna,1,5,1,0,Winter,0.8,High
+Hampi,12,5,1,0,Winter,0.73,High
+Srinagar,2,6,1,0,Winter,0.5,Medium
+Chopta,1,2,0,0,Winter,0.3,Low
+Manali,11,0,0,0,Winter,0.34,Low
+Pushkar,11,2,0,0,Winter,0.61,Medium
+Kovalam,7,1,0,0,Monsoon,0.14,Low
+Nainital,3,6,1,0,Spring,0.44,Low
+Srinagar,12,2,0,0,Winter,0.35,Low
+Mysore,3,2,0,0,Spring,0.32,Low
+Hampi,7,0,0,0,Monsoon,0.15,Low
+Shimla,9,0,0,0,Autumn,0.33,Low
+Badrinath,3,2,0,0,Spring,0.37,Low
+Kovalam,12,6,1,0,Winter,0.82,High
+North Goa,11,2,0,0,Winter,0.62,Medium
+Udaipur,9,6,1,0,Autumn,0.48,Low
+Gokarna,11,4,0,0,Winter,0.59,Medium
+Ooty,7,3,0,0,Monsoon,0.15,Low
+Rishikesh,9,0,0,0,Autumn,0.32,Low
+Rishikesh,1,4,0,0,Winter,0.31,Low
+Coorg,1,4,0,0,Winter,0.27,Low
+Bir Billing,11,2,0,0,Winter,0.23,Low
+Gulmarg,11,1,0,0,Winter,0.31,Low
+Jibhi,11,6,1,0,Winter,0.4,Low
+Ranthambore,10,3,0,1,Autumn,0.48,Low
+Valley of Flowers,11,1,0,0,Winter,0.31,Low
+Pahalgam,9,3,0,0,Autumn,0.29,Low
+Jaisalmer,2,3,0,0,Winter,0.34,Low
+Srinagar,4,1,0,0,Summer,0.25,Low
+Nainital,6,3,0,0,Monsoon,0.34,Low
+Badrinath,8,6,1,0,Monsoon,0.39,Low
+Mussoorie,4,0,0,0,Summer,0.28,Low
+Munnar,7,4,0,0,Monsoon,0.17,Low
+South Goa,12,2,0,0,Winter,0.64,Medium
+Udaipur,4,0,0,0,Summer,0.37,Low
+Shimla,10,6,1,0,Autumn,0.81,High
+Varkala,11,2,0,0,Winter,0.59,Medium
+Spiti Valley,6,6,1,0,Monsoon,0.73,High
+Coorg,7,3,0,0,Monsoon,0.14,Low
+Valley of Flowers,7,5,1,0,Monsoon,0.28,Low
+Valley of Flowers,6,1,0,0,Monsoon,0.34,Low
+Jibhi,4,1,0,0,Summer,0.31,Low
+Valley of Flowers,9,5,1,0,Autumn,0.42,Low
+Coorg,10,3,0,0,Autumn,0.32,Low
+Coorg,5,4,0,0,Summer,0.29,Low
+Jodhpur,8,2,0,0,Monsoon,0.25,Low
+Jim Corbett,6,1,0,0,Monsoon,0.32,Low
+Manali,11,3,0,0,Winter,0.37,Low
+Chopta,2,1,0,0,Winter,0.32,Low
+Mysore,11,0,0,0,Winter,0.5,Low
+Valley of Flowers,5,3,0,0,Summer,0.24,Low
+Jodhpur,6,0,0,0,Monsoon,0.27,Low
+Ranthambore,11,0,0,0,Winter,0.33,Low
+Alibaug,2,2,0,0,Winter,0.22,Low
+Pahalgam,3,3,0,0,Spring,0.33,Low
+Mussoorie,7,2,0,0,Monsoon,0.23,Low
+Hampi,2,1,0,0,Winter,0.56,Medium
+Kedarnath,11,2,0,0,Winter,0.53,Medium
+Ranthambore,7,4,0,0,Monsoon,0.22,Low
+Alleppey,7,3,0,0,Monsoon,0.18,Low
+Wayanad,3,3,0,0,Spring,0.29,Low
+Mussoorie,1,6,1,0,Winter,0.41,Low
+Jim Corbett,3,3,0,0,Spring,0.31,Low
+Hampi,9,1,0,0,Autumn,0.36,Low
+Manali,3,5,1,0,Spring,0.49,Low
+Pushkar,2,4,0,0,Winter,0.49,Low
+Munnar,5,4,0,0,Summer,0.33,Low
+Kullu,5,5,1,0,Summer,0.42,Low
+Kullu,7,5,1,1,Monsoon,0.45,Low
+Chopta,10,2,0,0,Autumn,0.54,Medium
+Shimla,7,4,0,0,Monsoon,0.22,Low
+Mount Abu,8,4,0,0,Monsoon,0.15,Low
+Valley of Flowers,2,6,1,1,Winter,0.7,Medium
+Nubra Valley,2,5,1,0,Winter,0.48,Low
+Alleppey,4,1,0,0,Summer,0.38,Low
+Jodhpur,9,4,0,1,Autumn,0.5,Low
+Gulmarg,1,3,0,0,Winter,0.28,Low
+Coorg,4,2,0,0,Summer,0.37,Low
+Mysore,12,6,1,0,Winter,0.65,Medium
+Kasol,3,3,0,0,Spring,0.34,Low
+Varkala,3,1,0,0,Spring,0.32,Low
+Leh,11,4,0,0,Winter,0.35,Low
+Bir Billing,12,5,1,0,Winter,0.46,Low
+Dharamshala,8,1,0,0,Monsoon,0.11,Low
+Auli,4,2,0,0,Summer,0.26,Low
+Jim Corbett,10,4,0,0,Autumn,0.28,Low
+Bir Billing,12,0,0,0,Winter,0.31,Low
+Alleppey,10,3,0,0,Autumn,0.32,Low
+Haridwar,9,6,1,0,Autumn,0.47,Low
+Jodhpur,9,3,0,0,Autumn,0.3,Low
+South Goa,3,1,0,0,Spring,0.33,Low
+Coorg,5,1,0,0,Summer,0.34,Low
+Chikmagalur,7,2,0,0,Monsoon,0.14,Low
+Kedarnath,9,3,0,0,Autumn,0.29,Low
+Shimla,7,1,0,0,Monsoon,0.16,Low
+Spiti Valley,5,5,1,0,Summer,0.79,High
+Wayanad,5,6,1,0,Summer,0.47,Low
+Tarkarli,9,5,1,0,Autumn,0.37,Low
+Tarkarli,9,0,0,1,Autumn,0.4,Low
+Manali,9,2,0,0,Autumn,0.33,Low
+Tarkarli,2,2,0,0,Winter,0.29,Low
+Gokarna,2,6,1,0,Winter,0.48,Low
+Wayanad,8,4,0,0,Monsoon,0.23,Low
+Shimla,11,2,0,0,Winter,0.37,Low
+Chikmagalur,5,4,0,0,Summer,0.53,Medium
+Chopta,5,1,0,0,Summer,0.54,Medium
+Bir Billing,10,1,0,0,Autumn,0.63,Medium
+Manali,3,5,1,0,Spring,0.53,Medium
+Varkala,5,6,1,0,Summer,0.5,Low
+Jaipur,2,5,1,0,Winter,0.68,Medium
+Thekkady,7,6,1,0,Monsoon,0.37,Low
+North Goa,12,4,0,0,Winter,0.72,High
+Kullu,11,5,1,0,Winter,0.38,Low
+Mount Abu,2,1,0,0,Winter,0.35,Low
+Mysore,6,3,0,0,Monsoon,0.28,Low
+Dharamshala,4,3,0,0,Summer,0.25,Low
+Jaipur,12,2,0,0,Winter,0.52,Medium
+Srinagar,3,2,0,0,Spring,0.36,Low
+Auli,9,2,0,0,Autumn,0.3,Low
+Srinagar,8,4,0,1,Monsoon,0.42,Low
+Jaipur,5,6,1,0,Summer,0.5,Low
+Jaipur,9,2,0,0,Autumn,0.27,Low
+Mussoorie,3,5,1,0,Spring,0.39,Low
+Bir Billing,1,1,0,0,Winter,0.31,Low
+Gulmarg,9,6,1,0,Autumn,0.51,Medium
+Gulmarg,11,0,0,0,Winter,0.32,Low
+North Goa,2,0,0,0,Winter,0.27,Low
+Chopta,7,0,0,0,Monsoon,0.2,Low
+Leh,4,2,0,0,Summer,0.33,Low
+Pangong Lake,9,1,0,0,Autumn,0.26,Low
+Badrinath,1,4,0,0,Winter,0.52,Medium
+Haridwar,6,3,0,0,Monsoon,0.25,Low
+Ranthambore,7,3,0,1,Monsoon,0.36,Low
+Pangong Lake,9,4,0,0,Autumn,0.33,Low
+Wayanad,9,4,0,0,Autumn,0.3,Low
+Ooty,11,6,1,0,Winter,0.41,Low
+Spiti Valley,10,1,0,0,Autumn,0.6,Medium
+Valley of Flowers,8,5,1,0,Monsoon,0.37,Low
+Pahalgam,2,0,0,0,Winter,0.35,Low
+Coorg,5,3,0,0,Summer,0.24,Low
+Wayanad,9,0,0,0,Autumn,0.31,Low
+Bir Billing,4,0,0,0,Summer,0.32,Low
+Mount Abu,3,2,0,0,Spring,0.33,Low
+Mysore,5,5,1,0,Summer,0.43,Low
+Chopta,5,3,0,0,Summer,0.59,Medium
+Tarkarli,5,1,0,0,Summer,0.58,Medium
+Jim Corbett,5,4,0,0,Summer,0.34,Low
+Chikmagalur,1,0,0,0,Winter,0.29,Low
+Hampi,12,4,0,0,Winter,0.54,Medium
+Manali,1,2,0,0,Winter,0.3,Low
+Kochi,2,1,0,0,Winter,0.27,Low
+Jodhpur,7,6,1,0,Monsoon,0.33,Low
+Nubra Valley,12,0,0,0,Winter,0.34,Low
+Gokarna,12,2,0,0,Winter,0.61,Medium
+Kovalam,9,5,1,0,Autumn,0.48,Low
+Shimla,10,4,0,0,Autumn,0.6,Medium
+Ooty,9,6,1,0,Autumn,0.46,Low
+South Goa,7,4,0,0,Monsoon,0.14,Low
+Ooty,5,2,0,0,Summer,0.54,Medium
+Leh,8,1,0,0,Monsoon,0.17,Low
+Chikmagalur,8,1,0,0,Monsoon,0.13,Low
+Alibaug,7,6,1,0,Monsoon,0.37,Low
+Kaza,1,5,1,0,Winter,0.38,Low
+Manali,11,2,0,0,Winter,0.37,Low
+Kullu,8,5,1,0,Monsoon,0.35,Low
+Spiti Valley,10,0,0,1,Autumn,0.72,High
+Nubra Valley,7,6,1,0,Monsoon,0.32,Low
+Jodhpur,3,0,0,0,Spring,0.35,Low
+Gokarna,10,1,0,0,Autumn,0.3,Low
+Kedarnath,12,5,1,0,Winter,0.74,High
+Valley of Flowers,8,0,0,0,Monsoon,0.24,Low
+Kovalam,8,0,0,0,Monsoon,0.21,Low
+Jaipur,6,3,0,0,Monsoon,0.3,Low
+Kovalam,5,0,0,0,Summer,0.27,Low
+Nubra Valley,7,3,0,0,Monsoon,0.18,Low
+Kullu,2,6,1,0,Winter,0.37,Low
+Ranthambore,1,0,0,0,Winter,0.33,Low
+Kovalam,6,5,1,0,Monsoon,0.45,Low
+Chikmagalur,6,4,0,0,Monsoon,0.61,Medium
+Nainital,7,1,0,0,Monsoon,0.22,Low
+Jibhi,6,3,0,0,Monsoon,0.27,Low
+Coorg,12,6,1,0,Winter,0.42,Low
+Pahalgam,10,6,1,0,Autumn,0.48,Low
+South Goa,1,6,1,0,Winter,0.74,High
+Udaipur,11,6,1,0,Winter,0.74,High
+Mysore,4,6,1,1,Summer,0.61,Medium
+Badrinath,3,1,0,0,Spring,0.36,Low
+Ranthambore,9,2,0,0,Autumn,0.35,Low
+Kullu,12,5,1,1,Winter,0.64,Medium
+Jim Corbett,10,4,0,0,Autumn,0.27,Low
+Alibaug,1,2,0,1,Winter,0.76,High
+Jaipur,6,4,0,0,Monsoon,0.35,Low
+Kochi,10,5,1,0,Autumn,0.41,Low
+Valley of Flowers,1,2,0,0,Winter,0.34,Low
+Kaza,6,3,0,0,Monsoon,0.52,Medium
+Mysore,10,0,0,0,Autumn,0.57,Medium
+Kaza,11,3,0,0,Winter,0.3,Low
+Badrinath,7,1,0,0,Monsoon,0.24,Low
+Ooty,10,6,1,0,Autumn,0.7,Medium
+Chikmagalur,4,6,1,0,Summer,0.5,Low
+North Goa,9,1,0,0,Autumn,0.31,Low
+Jaipur,2,3,0,0,Winter,0.56,Medium
+Jodhpur,11,3,0,0,Winter,0.55,Medium
+Coorg,8,2,0,0,Monsoon,0.17,Low
+Thekkady,10,5,1,0,Autumn,0.47,Low
+Nainital,12,3,0,0,Winter,0.28,Low
+Badrinath,12,4,0,0,Winter,0.56,Medium
+South Goa,9,5,1,0,Autumn,0.48,Low
+Bir Billing,12,1,0,0,Winter,0.33,Low
+Jodhpur,8,0,0,0,Monsoon,0.22,Low
+Pushkar,6,2,0,1,Monsoon,0.47,Low
+Kedarnath,5,6,1,0,Summer,0.41,Low
+Mysore,12,6,1,0,Winter,0.71,High
+Kochi,7,3,0,0,Monsoon,0.2,Low
+Leh,1,0,0,0,Winter,0.33,Low
+Alibaug,4,4,0,0,Summer,0.27,Low
+Badrinath,12,0,0,0,Winter,0.52,Medium
+Bir Billing,4,2,0,0,Summer,0.33,Low
+South Goa,5,1,0,0,Summer,0.37,Low
+Nainital,9,5,1,0,Autumn,0.39,Low
+Valley of Flowers,1,2,0,0,Winter,0.28,Low
+South Goa,7,5,1,0,Monsoon,0.38,Low
+Jodhpur,3,1,0,0,Spring,0.26,Low
+Jim Corbett,4,0,0,0,Summer,0.31,Low
+Haridwar,5,2,0,0,Summer,0.28,Low
+Varkala,9,2,0,0,Autumn,0.27,Low
+Chikmagalur,3,6,1,1,Spring,0.66,Medium
+Dharamshala,10,2,0,0,Autumn,0.6,Medium
+Gokarna,7,0,0,0,Monsoon,0.22,Low
+Kochi,4,0,0,0,Summer,0.31,Low
+Manali,10,4,0,1,Autumn,0.84,High
+Alibaug,10,5,1,0,Autumn,0.45,Low
+Mount Abu,5,3,0,0,Summer,0.52,Medium
+Shimla,10,4,0,0,Autumn,0.54,Medium
+Dharamshala,4,5,1,0,Summer,0.43,Low
+Rishikesh,6,3,0,0,Monsoon,0.56,Medium
+Kasol,12,5,1,0,Winter,0.4,Low
+Shimla,6,3,0,0,Monsoon,0.64,Medium
+Kovalam,6,2,0,1,Monsoon,0.52,Medium
+Chikmagalur,5,2,0,0,Summer,0.57,Medium
+Ooty,7,5,1,0,Monsoon,0.39,Low
+Leh,12,3,0,0,Winter,0.32,Low
+Udaipur,3,6,1,0,Spring,0.52,Medium
+Shimla,3,0,0,0,Spring,0.31,Low
+Nainital,9,1,0,0,Autumn,0.24,Low
+Mussoorie,8,0,0,0,Monsoon,0.14,Low
+Pushkar,12,3,0,0,Winter,0.48,Low
+Kochi,8,1,0,1,Monsoon,0.41,Low
+Kaza,12,2,0,0,Winter,0.3,Low
+Ooty,3,1,0,0,Spring,0.36,Low
+Pushkar,6,3,0,0,Monsoon,0.31,Low
+Badrinath,7,3,0,0,Monsoon,0.17,Low
+Nainital,5,0,0,0,Summer,0.27,Low
+Chopta,3,3,0,0,Spring,0.3,Low
+Mount Abu,9,5,1,1,Autumn,0.61,Medium
+Pahalgam,8,6,1,0,Monsoon,0.31,Low
+Pahalgam,9,2,0,0,Autumn,0.3,Low
+Leh,7,6,1,0,Monsoon,0.29,Low
+Kovalam,10,1,0,0,Autumn,0.29,Low
+Haridwar,5,3,0,0,Summer,0.26,Low
+Varkala,10,5,1,0,Autumn,0.44,Low
+Pangong Lake,6,1,0,0,Monsoon,0.33,Low
+Auli,6,0,0,0,Monsoon,0.59,Medium
+North Goa,7,1,0,0,Monsoon,0.22,Low
+Badrinath,5,4,0,0,Summer,0.34,Low
+Jodhpur,5,3,0,0,Summer,0.34,Low
+Tarkarli,8,5,1,0,Monsoon,0.37,Low
+Shimla,4,0,0,0,Summer,0.3,Low
+Ooty,3,3,0,0,Spring,0.32,Low
+Jaipur,1,6,1,0,Winter,0.73,High
+North Goa,11,3,0,0,Winter,0.69,Medium
+Chopta,12,1,0,0,Winter,0.27,Low
+Kovalam,1,5,1,0,Winter,0.75,High
+South Goa,5,3,0,0,Summer,0.36,Low
+Pangong Lake,4,2,0,0,Summer,0.3,Low
+South Goa,12,3,0,0,Winter,0.69,Medium
+Pahalgam,4,0,0,0,Summer,0.28,Low
+Spiti Valley,11,6,1,0,Winter,0.46,Low
+Wayanad,10,4,0,0,Autumn,0.3,Low
+Kasol,9,5,1,0,Autumn,0.44,Low
+Mount Abu,7,2,0,0,Monsoon,0.21,Low
+Kedarnath,7,6,1,0,Monsoon,0.29,Low
+Bir Billing,8,0,0,0,Monsoon,0.2,Low
+Alibaug,4,4,0,0,Summer,0.22,Low
+Kovalam,6,2,0,0,Monsoon,0.25,Low
+Nubra Valley,5,0,0,0,Summer,0.57,Medium
+Nubra Valley,6,2,0,0,Monsoon,0.62,Medium
+Mysore,10,2,0,0,Autumn,0.56,Medium
+Mussoorie,6,0,0,0,Monsoon,0.56,Medium
+Manali,3,1,0,0,Spring,0.31,Low
+Kullu,2,1,0,0,Winter,0.28,Low
+Kasol,3,0,0,0,Spring,0.31,Low
+Kasol,1,5,1,0,Winter,0.45,Low
+Jodhpur,11,2,0,0,Winter,0.53,Medium
+Jodhpur,11,3,0,0,Winter,0.58,Medium
+Auli,3,4,0,0,Spring,0.36,Low
+Spiti Valley,4,1,0,0,Summer,0.33,Low
+Spiti Valley,9,6,1,0,Autumn,0.42,Low
+Nubra Valley,10,6,1,0,Autumn,0.72,High
+North Goa,4,2,0,0,Summer,0.35,Low
+North Goa,5,3,0,0,Summer,0.37,Low
+Ranthambore,4,1,0,0,Summer,0.35,Low
+Srinagar,9,2,0,0,Autumn,0.31,Low
+Pushkar,2,5,1,0,Winter,0.63,Medium
+Kaza,5,2,0,0,Summer,0.6,Medium
+Badrinath,6,4,0,0,Monsoon,0.33,Low
+Shimla,10,0,0,0,Autumn,0.65,Medium
+Shimla,10,2,0,0,Autumn,0.55,Medium
+Kasol,7,1,0,0,Monsoon,0.16,Low
+Pangong Lake,12,2,0,0,Winter,0.33,Low
+Alibaug,10,4,0,0,Autumn,0.34,Low
+Badrinath,5,3,0,0,Summer,0.38,Low
+Dalhousie,3,5,1,0,Spring,0.4,Low
+Jibhi,11,0,0,0,Winter,0.24,Low
+Valley of Flowers,10,1,0,0,Autumn,0.35,Low
+Tarkarli,9,0,0,0,Autumn,0.24,Low
+Dharamshala,3,6,1,1,Spring,0.65,Medium
+Jibhi,11,5,1,0,Winter,0.38,Low
+Nubra Valley,9,2,0,1,Autumn,0.47,Low
+Bir Billing,12,3,0,0,Winter,0.25,Low
+Jim Corbett,8,0,0,1,Monsoon,0.37,Low
+Jodhpur,8,3,0,0,Monsoon,0.2,Low
+Chikmagalur,1,1,0,0,Winter,0.36,Low
+Udaipur,1,3,0,0,Winter,0.61,Medium
+Jaisalmer,9,5,1,0,Autumn,0.42,Low
+Jaisalmer,5,4,0,0,Summer,0.28,Low
+Wayanad,4,0,0,0,Summer,0.35,Low
+Auli,3,1,0,0,Spring,0.31,Low
+Kochi,6,6,1,0,Monsoon,0.45,Low
+Udaipur,8,1,0,1,Monsoon,0.36,Low
+Gulmarg,9,1,0,1,Autumn,0.49,Low
+Mysore,5,6,1,0,Summer,0.52,Medium
+Jaipur,9,1,0,0,Autumn,0.28,Low
+Jibhi,11,5,1,0,Winter,0.39,Low
+Leh,9,4,0,0,Autumn,0.28,Low
+Alleppey,3,5,1,0,Spring,0.47,Low
+Kullu,5,0,0,0,Summer,0.32,Low
+Gulmarg,8,0,0,0,Monsoon,0.19,Low
+Kasol,8,3,0,0,Monsoon,0.2,Low
+Hampi,12,5,1,0,Winter,0.68,Medium
+Valley of Flowers,5,5,1,0,Summer,0.43,Low
+Pushkar,6,5,1,0,Monsoon,0.44,Low
+Bir Billing,4,6,1,0,Summer,0.48,Low
+Kovalam,7,6,1,0,Monsoon,0.32,Low
+Kullu,11,0,0,0,Winter,0.23,Low
+Chopta,6,4,0,0,Monsoon,0.58,Medium
+Jim Corbett,10,2,0,0,Autumn,0.31,Low
+Leh,9,1,0,0,Autumn,0.36,Low
+Alibaug,1,1,0,0,Winter,0.62,Medium
+Pahalgam,9,5,1,0,Autumn,0.44,Low
+Thekkady,3,5,1,0,Spring,0.43,Low
+Nainital,8,5,1,1,Monsoon,0.46,Low
+Valley of Flowers,3,0,0,0,Spring,0.27,Low
+Gokarna,8,6,1,0,Monsoon,0.37,Low
+Gokarna,1,3,0,0,Winter,0.7,Medium
+Mysore,12,5,1,0,Winter,0.77,High
+Dharamshala,7,5,1,0,Monsoon,0.29,Low
+Coorg,10,0,0,0,Autumn,0.33,Low
+Kullu,10,6,1,0,Autumn,0.45,Low
+Badrinath,4,5,1,0,Summer,0.49,Low
+Pahalgam,7,1,0,0,Monsoon,0.16,Low
+Shimla,3,0,0,0,Spring,0.35,Low
+Mount Abu,8,0,0,0,Monsoon,0.22,Low
+Dharamshala,9,6,1,0,Autumn,0.39,Low
+Kasol,6,1,0,0,Monsoon,0.54,Medium
+South Goa,10,1,0,0,Autumn,0.3,Low
+Ooty,1,4,0,0,Winter,0.25,Low
+Udaipur,7,0,0,0,Monsoon,0.15,Low
+Manali,2,2,0,0,Winter,0.32,Low
+Kedarnath,8,6,1,0,Monsoon,0.35,Low
+Hampi,2,6,1,0,Winter,0.72,High
+Alibaug,1,6,1,0,Winter,0.74,High
+Mysore,7,4,0,0,Monsoon,0.21,Low
+Leh,8,5,1,0,Monsoon,0.28,Low
+Jaisalmer,4,0,0,0,Summer,0.28,Low
+Pahalgam,1,1,0,0,Winter,0.36,Low
+Gulmarg,1,3,0,0,Winter,0.38,Low
+Jibhi,12,3,0,0,Winter,0.35,Low
+Kovalam,12,5,1,0,Winter,0.82,High
+Badrinath,2,5,1,0,Winter,0.7,Medium
+Kedarnath,11,5,1,0,Winter,0.77,High
+Nubra Valley,9,3,0,0,Autumn,0.3,Low
+Wayanad,11,5,1,0,Winter,0.44,Low
+Kullu,5,1,0,0,Summer,0.25,Low
+Shimla,1,6,1,1,Winter,0.66,Medium
+Auli,8,2,0,0,Monsoon,0.18,Low
+Ranthambore,12,0,0,1,Winter,0.49,Low
+Mount Abu,3,1,0,0,Spring,0.24,Low
+Hampi,11,5,1,0,Winter,0.68,Medium
+Pushkar,7,6,1,0,Monsoon,0.27,Low
+Hampi,3,6,1,0,Spring,0.5,Low
+Badrinath,6,0,0,0,Monsoon,0.28,Low
+Pushkar,8,3,0,0,Monsoon,0.17,Low
+Jaipur,7,0,0,1,Monsoon,0.4,Low
+Dharamshala,1,2,0,0,Winter,0.34,Low
+Kullu,9,3,0,0,Autumn,0.31,Low
+Ranthambore,10,6,1,0,Autumn,0.42,Low
+Auli,5,4,0,0,Summer,0.54,Medium
+Kasol,3,3,0,0,Spring,0.32,Low
+Nubra Valley,4,0,0,0,Summer,0.37,Low
+Pahalgam,11,2,0,0,Winter,0.25,Low
+Shimla,9,3,0,0,Autumn,0.34,Low
+Jaisalmer,6,0,0,0,Monsoon,0.27,Low
+Mount Abu,4,5,1,0,Summer,0.38,Low
+Mussoorie,8,0,0,0,Monsoon,0.18,Low
+Badrinath,5,3,0,0,Summer,0.33,Low
+Shimla,2,5,1,0,Winter,0.46,Low
+Haridwar,9,2,0,0,Autumn,0.36,Low
+Valley of Flowers,2,4,0,0,Winter,0.27,Low
+Jim Corbett,3,3,0,0,Spring,0.37,Low
+Jaisalmer,1,0,0,0,Winter,0.35,Low
+Jodhpur,4,1,0,0,Summer,0.3,Low
+Dharamshala,2,0,0,0,Winter,0.25,Low
+Dharamshala,6,2,0,0,Monsoon,0.63,Medium
+Ranthambore,2,1,0,0,Winter,0.27,Low
+Wayanad,1,4,0,0,Winter,0.29,Low
+Varkala,11,3,0,0,Winter,0.63,Medium
+Ooty,12,4,0,0,Winter,0.33,Low
+Manali,7,5,1,1,Monsoon,0.47,Low
+Udaipur,10,6,1,0,Autumn,0.74,High
+Leh,7,3,0,0,Monsoon,0.14,Low
+Mysore,9,1,0,0,Autumn,0.26,Low
+Dalhousie,12,0,0,0,Winter,0.25,Low
+Udaipur,5,1,0,0,Summer,0.36,Low
+Shimla,10,3,0,0,Autumn,0.66,Medium
+Kovalam,7,1,0,0,Monsoon,0.14,Low
+Jibhi,9,5,1,0,Autumn,0.5,Medium
+Bir Billing,9,5,1,0,Autumn,0.46,Low
+Srinagar,11,3,0,0,Winter,0.28,Low
+Srinagar,11,2,0,0,Winter,0.38,Low
+Badrinath,11,5,1,0,Winter,0.65,Medium
+Ooty,10,6,1,0,Autumn,0.71,Medium
+Ooty,6,4,0,0,Monsoon,0.54,Medium
+Mussoorie,6,4,0,1,Monsoon,0.8,High
+Gokarna,8,2,0,0,Monsoon,0.24,Low
+Haridwar,5,5,1,0,Summer,0.4,Low
+Dharamshala,9,4,0,0,Autumn,0.26,Low
+Gokarna,9,1,0,0,Autumn,0.35,Low
+Chikmagalur,3,3,0,0,Spring,0.25,Low
+Jodhpur,8,4,0,0,Monsoon,0.15,Low
+Ranthambore,10,6,1,0,Autumn,0.5,Medium
+Jibhi,9,0,0,0,Autumn,0.23,Low
+Kochi,8,0,0,0,Monsoon,0.18,Low
+Kochi,2,0,0,1,Winter,0.46,Low
+Nainital,1,3,0,0,Winter,0.29,Low
+Ranthambore,5,2,0,0,Summer,0.38,Low
+Bir Billing,8,5,1,0,Monsoon,0.32,Low
+Wayanad,9,0,0,1,Autumn,0.43,Low
+Chikmagalur,1,6,1,0,Winter,0.41,Low
+Thekkady,11,1,0,0,Winter,0.27,Low
+Gokarna,10,0,0,0,Autumn,0.23,Low
+Dalhousie,12,6,1,0,Winter,0.47,Low
+Ooty,11,4,0,0,Winter,0.29,Low
+Wayanad,9,6,1,0,Autumn,0.4,Low
+Kaza,8,6,1,0,Monsoon,0.27,Low
+Chopta,4,5,1,0,Summer,0.43,Low
+Chopta,6,3,0,1,Monsoon,0.8,High
+Mysore,5,3,0,0,Summer,0.36,Low
+Leh,12,5,1,0,Winter,0.51,Medium
+Auli,7,2,0,0,Monsoon,0.17,Low
+Ranthambore,1,5,1,0,Winter,0.41,Low
+Mount Abu,8,5,1,0,Monsoon,0.26,Low
+Nainital,12,5,1,0,Winter,0.39,Low
+Mount Abu,4,1,0,0,Summer,0.34,Low
+Mysore,7,2,0,0,Monsoon,0.19,Low
+South Goa,11,6,1,0,Winter,0.78,High
+Spiti Valley,3,3,0,0,Spring,0.33,Low
+Tarkarli,2,3,0,0,Winter,0.29,Low
+Alibaug,3,5,1,0,Spring,0.42,Low
+Jodhpur,11,0,0,0,Winter,0.56,Medium
+Wayanad,7,5,1,0,Monsoon,0.31,Low
+Chopta,9,5,1,0,Autumn,0.49,Low
+Jodhpur,8,5,1,0,Monsoon,0.35,Low
+Jaisalmer,8,3,0,0,Monsoon,0.21,Low
+Wayanad,9,0,0,1,Autumn,0.48,Low
+Dharamshala,12,6,1,0,Winter,0.39,Low
+Varkala,12,1,0,0,Winter,0.6,Medium
+Jim Corbett,10,1,0,0,Autumn,0.34,Low
+Kovalam,2,5,1,0,Winter,0.43,Low
+Gokarna,9,3,0,0,Autumn,0.29,Low
+Jodhpur,4,5,1,0,Summer,0.51,Medium
+Leh,5,6,1,0,Summer,0.79,High
+Chikmagalur,6,1,0,0,Monsoon,0.58,Medium
+Auli,3,0,0,0,Spring,0.24,Low
+Gulmarg,9,6,1,0,Autumn,0.47,Low
+Rishikesh,11,4,0,0,Winter,0.25,Low
+Rishikesh,12,6,1,0,Winter,0.42,Low
+Kochi,6,2,0,0,Monsoon,0.36,Low
+Ranthambore,7,4,0,0,Monsoon,0.13,Low
+North Goa,9,1,0,0,Autumn,0.35,Low
+Jodhpur,10,5,1,0,Autumn,0.65,Medium
+Kovalam,11,4,0,0,Winter,0.56,Medium
+Jibhi,4,5,1,0,Summer,0.38,Low
+Mysore,5,1,0,0,Summer,0.28,Low
+Dalhousie,10,6,1,0,Autumn,0.48,Low
+Jaisalmer,1,5,1,0,Winter,0.52,Medium
+South Goa,12,3,0,0,Winter,0.6,Medium
+Jodhpur,3,2,0,0,Spring,0.32,Low
+Tarkarli,7,1,0,0,Monsoon,0.15,Low
+Hampi,1,4,0,0,Winter,0.56,Medium
+Kaza,11,5,1,0,Winter,0.48,Low
+Jaisalmer,3,2,0,1,Spring,0.51,Medium
+Rishikesh,9,5,1,0,Autumn,0.41,Low
+Coorg,4,1,0,0,Summer,0.29,Low
+Pangong Lake,7,3,0,1,Monsoon,0.41,Low
+Alleppey,2,4,0,0,Winter,0.32,Low
+Manali,5,6,1,0,Summer,0.77,High
+Munnar,3,5,1,0,Spring,0.47,Low
+Dalhousie,9,6,1,0,Autumn,0.48,Low
+Shimla,3,1,0,1,Spring,0.43,Low
+Gokarna,10,5,1,0,Autumn,0.43,Low
+Mussoorie,5,3,0,0,Summer,0.65,Medium
+Dalhousie,8,1,0,0,Monsoon,0.21,Low
+Pushkar,12,2,0,0,Winter,0.51,Medium
+Pahalgam,6,2,0,0,Monsoon,0.35,Low
+Nainital,4,6,1,0,Summer,0.51,Medium
+Leh,10,0,0,0,Autumn,0.68,Medium
+Valley of Flowers,12,4,0,0,Winter,0.33,Low
+Pangong Lake,4,0,0,0,Summer,0.31,Low
+Jim Corbett,9,3,0,0,Autumn,0.3,Low
+Gulmarg,1,0,0,0,Winter,0.29,Low
+Auli,6,1,0,0,Monsoon,0.57,Medium
+Varkala,1,0,0,0,Winter,0.59,Medium
+Leh,4,3,0,0,Summer,0.26,Low
+Pangong Lake,11,3,0,0,Winter,0.37,Low
+Wayanad,11,3,0,0,Winter,0.32,Low
+Auli,5,0,0,0,Summer,0.58,Medium
+Badrinath,5,4,0,0,Summer,0.28,Low
+Tarkarli,2,5,1,0,Winter,0.4,Low
+Shimla,10,0,0,0,Autumn,0.55,Medium
+Pahalgam,12,6,1,1,Winter,0.65,Medium
+Dharamshala,7,1,0,0,Monsoon,0.18,Low
+Kedarnath,11,5,1,0,Winter,0.67,Medium
+Auli,3,3,0,0,Spring,0.24,Low
+Alleppey,11,4,0,0,Winter,0.28,Low
+Ooty,5,6,1,0,Summer,0.75,High
+Chikmagalur,8,5,1,1,Monsoon,0.52,Medium
+Bir Billing,10,6,1,0,Autumn,0.67,Medium
+Kasol,10,0,0,0,Autumn,0.64,Medium
+Haridwar,10,5,1,0,Autumn,0.66,Medium
+Haridwar,7,1,0,0,Monsoon,0.25,Low
+Jibhi,9,3,0,0,Autumn,0.32,Low
+Kullu,2,5,1,0,Winter,0.44,Low
+Coorg,5,4,0,0,Summer,0.26,Low
+Ooty,12,6,1,0,Winter,0.51,Medium
+Udaipur,3,6,1,0,Spring,0.48,Low
+Mount Abu,4,5,1,0,Summer,0.4,Low
+Kullu,7,3,0,0,Monsoon,0.15,Low
+Pangong Lake,2,5,1,0,Winter,0.46,Low
+Ranthambore,10,6,1,0,Autumn,0.46,Low
+Alleppey,3,1,0,0,Spring,0.38,Low
+Srinagar,10,0,0,0,Autumn,0.28,Low
+Auli,2,2,0,0,Winter,0.3,Low
+Coorg,9,6,1,0,Autumn,0.41,Low
+Valley of Flowers,6,5,1,0,Monsoon,0.4,Low
+Badrinath,12,5,1,1,Winter,0.86,High
+Badrinath,8,5,1,0,Monsoon,0.37,Low
+Udaipur,9,1,0,0,Autumn,0.34,Low
+Nainital,2,4,0,0,Winter,0.27,Low
+Nubra Valley,9,1,0,0,Autumn,0.26,Low
+Mussoorie,7,1,0,0,Monsoon,0.11,Low
+North Goa,7,6,1,0,Monsoon,0.37,Low
+Kovalam,11,5,1,0,Winter,0.83,High
+Kaza,12,1,0,0,Winter,0.24,Low
+Jibhi,5,1,0,0,Summer,0.25,Low
+Gokarna,12,1,0,0,Winter,0.67,Medium
+Rishikesh,6,2,0,0,Monsoon,0.59,Medium
+Jibhi,9,6,1,0,Autumn,0.48,Low
+Badrinath,8,2,0,0,Monsoon,0.16,Low
+Jaisalmer,5,5,1,0,Summer,0.45,Low
+Auli,5,2,0,1,Summer,0.76,High
+Tarkarli,5,5,1,0,Summer,0.71,High
+Srinagar,3,6,1,0,Spring,0.43,Low
+Haridwar,11,1,0,0,Winter,0.6,Medium
+Kochi,9,6,1,0,Autumn,0.49,Low
+Kullu,10,4,0,0,Autumn,0.34,Low
+Chikmagalur,9,5,1,0,Autumn,0.44,Low
+Srinagar,5,3,0,0,Summer,0.33,Low
+Kullu,12,2,0,0,Winter,0.22,Low
+Udaipur,7,1,0,0,Monsoon,0.23,Low
+Bir Billing,12,3,0,0,Winter,0.25,Low
+Valley of Flowers,4,5,1,0,Summer,0.45,Low
+Kullu,5,4,0,0,Summer,0.29,Low
+Pushkar,3,2,0,0,Spring,0.3,Low
+Jibhi,7,0,0,0,Monsoon,0.22,Low
+Chikmagalur,11,5,1,0,Winter,0.42,Low
+Udaipur,9,1,0,0,Autumn,0.37,Low
+Gokarna,1,4,0,0,Winter,0.66,Medium
+Varkala,9,6,1,1,Autumn,0.64,Medium
+Nainital,3,0,0,0,Spring,0.25,Low
+Nainital,11,0,0,1,Winter,0.51,Medium
+Tarkarli,5,6,1,0,Summer,0.74,High
+Thekkady,5,3,0,0,Summer,0.26,Low
+Hampi,3,3,0,0,Spring,0.33,Low
+Tarkarli,10,0,0,0,Autumn,0.52,Medium
+Manali,11,1,0,0,Winter,0.33,Low
+Jibhi,6,6,1,0,Monsoon,0.5,Medium
+Alibaug,9,4,0,0,Autumn,0.32,Low
+Kovalam,12,5,1,0,Winter,0.74,High
+Udaipur,1,1,0,0,Winter,0.53,Medium
+Kasol,9,0,0,0,Autumn,0.29,Low
+Varkala,1,0,0,0,Winter,0.68,Medium
+Bir Billing,8,0,0,0,Monsoon,0.1,Low
+Nubra Valley,9,2,0,0,Autumn,0.29,Low
+Mount Abu,9,4,0,0,Autumn,0.27,Low
+Alibaug,3,5,1,1,Spring,0.59,Medium
+Pahalgam,2,6,1,0,Winter,0.48,Low
+Mount Abu,7,3,0,0,Monsoon,0.1,Low
+Alibaug,10,4,0,0,Autumn,0.34,Low
+Chopta,10,2,0,0,Autumn,0.53,Medium
+Jodhpur,2,2,0,0,Winter,0.61,Medium
+Haridwar,7,2,0,0,Monsoon,0.18,Low
+Ranthambore,4,3,0,0,Summer,0.29,Low
+Thekkady,11,6,1,1,Winter,0.58,Medium
+Srinagar,10,4,0,0,Autumn,0.29,Low
+Kovalam,4,2,0,0,Summer,0.32,Low
+Alibaug,11,5,1,0,Winter,0.82,High
+Udaipur,11,3,0,1,Winter,0.73,High
+Kochi,3,6,1,0,Spring,0.5,Medium
+Kovalam,6,5,1,0,Monsoon,0.5,Low
+Chikmagalur,6,6,1,0,Monsoon,0.78,High
+Valley of Flowers,8,5,1,0,Monsoon,0.33,Low
+Dharamshala,8,0,0,0,Monsoon,0.11,Low
+Varkala,12,5,1,0,Winter,0.75,High
+Mussoorie,4,3,0,0,Summer,0.35,Low
+Alleppey,3,0,0,0,Spring,0.32,Low
+Mussoorie,5,0,0,0,Summer,0.63,Medium
+Dalhousie,6,2,0,0,Monsoon,0.31,Low
+South Goa,11,3,0,0,Winter,0.69,Medium
+Kullu,11,5,1,0,Winter,0.39,Low
+Jaisalmer,1,3,0,0,Winter,0.29,Low
+Kaza,2,0,0,0,Winter,0.32,Low
+Chikmagalur,9,4,0,0,Autumn,0.31,Low
+Munnar,12,0,0,0,Winter,0.35,Low
+Nubra Valley,6,5,1,0,Monsoon,0.7,Medium
+Auli,4,3,0,0,Summer,0.3,Low
+Gokarna,2,2,0,0,Winter,0.26,Low
+Jodhpur,5,0,0,0,Summer,0.34,Low
+Kovalam,2,4,0,0,Winter,0.35,Low
+Bir Billing,1,3,0,0,Winter,0.25,Low
+Badrinath,5,1,0,0,Summer,0.29,Low
+Kedarnath,10,6,1,0,Autumn,0.66,Medium
+Mount Abu,10,5,1,0,Autumn,0.67,Medium
+Tarkarli,8,4,0,0,Monsoon,0.14,Low
+Srinagar,2,3,0,0,Winter,0.3,Low
+Haridwar,7,4,0,0,Monsoon,0.22,Low
+Varkala,4,2,0,0,Summer,0.34,Low
+South Goa,10,1,0,1,Autumn,0.57,Medium
+Alleppey,5,0,0,0,Summer,0.33,Low
+Spiti Valley,1,0,0,0,Winter,0.28,Low
+Alleppey,9,0,0,0,Autumn,0.35,Low
+Mussoorie,4,0,0,0,Summer,0.31,Low
+Chikmagalur,3,3,0,0,Spring,0.27,Low
+Chikmagalur,12,1,0,0,Winter,0.29,Low
+Manali,6,4,0,0,Monsoon,0.61,Medium
+Varkala,7,2,0,1,Monsoon,0.31,Low
+Nubra Valley,8,0,0,1,Monsoon,0.32,Low
+Alleppey,7,2,0,0,Monsoon,0.24,Low
+Srinagar,10,1,0,0,Autumn,0.26,Low
+Nubra Valley,6,1,0,0,Monsoon,0.57,Medium
+Badrinath,6,5,1,0,Monsoon,0.47,Low
+Munnar,4,0,0,0,Summer,0.37,Low
+Hampi,7,3,0,0,Monsoon,0.17,Low
+Alibaug,4,2,0,0,Summer,0.34,Low
+Bir Billing,3,6,1,0,Spring,0.44,Low
+Mount Abu,12,0,0,1,Winter,0.48,Low
+Wayanad,12,4,0,0,Winter,0.37,Low
+Coorg,11,5,1,0,Winter,0.4,Low
+Munnar,8,0,0,0,Monsoon,0.16,Low
+Ranthambore,11,6,1,0,Winter,0.46,Low
+Udaipur,3,1,0,0,Spring,0.28,Low
+Gulmarg,9,4,0,0,Autumn,0.34,Low
+Coorg,10,5,1,0,Autumn,0.49,Low
+Jaisalmer,7,0,0,0,Monsoon,0.24,Low
+South Goa,1,3,0,0,Winter,0.7,Medium
+Valley of Flowers,3,2,0,0,Spring,0.3,Low
+Kovalam,1,0,0,0,Winter,0.65,Medium
+Jibhi,6,4,0,0,Monsoon,0.27,Low
+Ranthambore,2,1,0,0,Winter,0.28,Low
+Pahalgam,9,2,0,0,Autumn,0.3,Low
+Kochi,6,0,0,0,Monsoon,0.25,Low
+Alibaug,10,0,0,0,Autumn,0.22,Low
+Kochi,12,2,0,1,Winter,0.54,Medium
+Shimla,6,2,0,0,Monsoon,0.57,Medium
+Alibaug,7,1,0,0,Monsoon,0.21,Low
+Kaza,2,3,0,0,Winter,0.3,Low
+Alleppey,8,6,1,0,Monsoon,0.39,Low
+Auli,10,6,1,0,Autumn,0.69,Medium
+Pangong Lake,7,5,1,0,Monsoon,0.33,Low
+Kaza,5,5,1,0,Summer,0.67,Medium
+Haridwar,2,6,1,0,Winter,0.68,Medium
+Tarkarli,10,3,0,1,Autumn,0.81,High
+Pahalgam,9,0,0,0,Autumn,0.26,Low
+Leh,1,6,1,0,Winter,0.48,Low
+Udaipur,4,2,0,1,Summer,0.55,Medium
+Jaipur,12,4,0,1,Winter,0.7,Medium
+Jibhi,3,3,0,0,Spring,0.32,Low
+Jaipur,3,1,0,0,Spring,0.33,Low
+Jim Corbett,6,1,0,0,Monsoon,0.24,Low
+Jaisalmer,11,3,0,0,Winter,0.3,Low
+Gulmarg,9,0,0,0,Autumn,0.28,Low
+Udaipur,2,1,0,0,Winter,0.61,Medium
+Jibhi,8,6,1,0,Monsoon,0.26,Low
+Gokarna,3,1,0,0,Spring,0.34,Low
+Jibhi,11,5,1,0,Winter,0.38,Low
+Srinagar,11,1,0,1,Winter,0.55,Medium
+Hampi,7,3,0,0,Monsoon,0.13,Low
+Jaisalmer,2,4,0,0,Winter,0.38,Low
+Leh,4,1,0,0,Summer,0.26,Low
+Pangong Lake,5,5,1,0,Summer,0.45,Low
+Jaipur,3,6,1,0,Spring,0.48,Low
+Jaisalmer,6,1,0,0,Monsoon,0.35,Low
+Kedarnath,9,6,1,0,Autumn,0.45,Low
+Alibaug,3,0,0,0,Spring,0.32,Low
+Tarkarli,7,2,0,0,Monsoon,0.16,Low
+Chikmagalur,2,3,0,0,Winter,0.32,Low
+Auli,12,0,0,0,Winter,0.26,Low
+Bir Billing,7,6,1,0,Monsoon,0.34,Low
+Mount Abu,1,3,0,1,Winter,0.47,Low
+Dalhousie,12,6,1,0,Winter,0.47,Low
+Gulmarg,8,2,0,0,Monsoon,0.23,Low
+Dalhousie,3,6,1,0,Spring,0.37,Low
+Bir Billing,9,4,0,0,Autumn,0.34,Low
+Mussoorie,5,0,0,0,Summer,0.54,Medium
+Alibaug,12,0,0,0,Winter,0.59,Medium
+Kovalam,12,2,0,0,Winter,0.68,Medium
+Udaipur,12,3,0,0,Winter,0.61,Medium
+Nubra Valley,3,2,0,0,Spring,0.3,Low
+Bir Billing,2,3,0,0,Winter,0.24,Low
+Jim Corbett,5,2,0,0,Summer,0.3,Low
+Badrinath,2,5,1,0,Winter,0.71,Medium
+Nubra Valley,6,6,1,0,Monsoon,0.78,High
+Nainital,4,0,0,1,Summer,0.43,Low
+Chopta,3,1,0,0,Spring,0.35,Low
+Dalhousie,7,3,0,0,Monsoon,0.22,Low
+Kochi,12,1,0,0,Winter,0.36,Low
+Kovalam,6,0,0,0,Monsoon,0.31,Low
+Jodhpur,11,5,1,0,Winter,0.65,Medium
+Spiti Valley,6,1,0,0,Monsoon,0.61,Medium
+Jodhpur,1,6,1,0,Winter,0.72,High
+Thekkady,10,1,0,0,Autumn,0.29,Low
+Pushkar,7,5,1,0,Monsoon,0.26,Low
+Coorg,12,6,1,0,Winter,0.49,Low
+Ranthambore,12,6,1,0,Winter,0.4,Low
+Spiti Valley,1,4,0,0,Winter,0.24,Low
+Thekkady,5,3,0,1,Summer,0.52,Medium
+Nainital,11,0,0,0,Winter,0.28,Low
+Nubra Valley,7,4,0,0,Monsoon,0.21,Low
+Dalhousie,1,1,0,0,Winter,0.29,Low
+Auli,8,5,1,0,Monsoon,0.28,Low
+Ooty,12,6,1,0,Winter,0.5,Medium
+Nainital,12,4,0,1,Winter,0.46,Low
+Auli,3,2,0,0,Spring,0.31,Low
+Shimla,8,6,1,0,Monsoon,0.34,Low
+Hampi,12,3,0,0,Winter,0.57,Medium
+Pangong Lake,6,2,0,0,Monsoon,0.3,Low
+Munnar,3,4,0,0,Spring,0.29,Low
+Haridwar,2,1,0,0,Winter,0.59,Medium
+Gulmarg,11,1,0,0,Winter,0.28,Low
+Coorg,11,6,1,0,Winter,0.52,Medium
+Pangong Lake,1,5,1,0,Winter,0.5,Low
+Jaisalmer,9,5,1,0,Autumn,0.47,Low
+Kaza,3,1,0,0,Spring,0.26,Low
+Badrinath,11,4,0,0,Winter,0.53,Medium
+Kochi,5,4,0,0,Summer,0.29,Low
+Kochi,7,6,1,0,Monsoon,0.38,Low
+Valley of Flowers,5,2,0,0,Summer,0.28,Low
+Kullu,11,2,0,0,Winter,0.3,Low
+Tarkarli,2,2,0,0,Winter,0.31,Low
+Pushkar,2,1,0,0,Winter,0.55,Medium
+Badrinath,4,4,0,0,Summer,0.3,Low
+Chopta,11,3,0,0,Winter,0.33,Low
+Auli,12,4,0,0,Winter,0.28,Low
+Mysore,11,1,0,0,Winter,0.59,Medium
+Ooty,2,6,1,0,Winter,0.42,Low
+Manali,7,6,1,0,Monsoon,0.36,Low
+Kochi,4,0,0,0,Summer,0.37,Low
+Jaisalmer,9,0,0,0,Autumn,0.33,Low
+Hampi,4,2,0,0,Summer,0.31,Low
+Kasol,12,3,0,0,Winter,0.36,Low
+Auli,10,0,0,0,Autumn,0.54,Medium
+Kochi,11,4,0,0,Winter,0.32,Low
+Rishikesh,9,5,1,0,Autumn,0.41,Low
+Hampi,4,5,1,0,Summer,0.46,Low
+Alleppey,9,2,0,0,Autumn,0.38,Low
+Gulmarg,1,2,0,1,Winter,0.5,Medium
+Pahalgam,2,5,1,0,Winter,0.45,Low
+Jaisalmer,9,2,0,0,Autumn,0.38,Low
+Jaipur,3,0,0,0,Spring,0.38,Low
+Chikmagalur,7,1,0,0,Monsoon,0.22,Low
+Nainital,5,1,0,0,Summer,0.34,Low
+Valley of Flowers,5,6,1,0,Summer,0.51,Medium
+Pahalgam,2,5,1,0,Winter,0.43,Low
+Munnar,8,2,0,0,Monsoon,0.13,Low
+Chopta,5,3,0,0,Summer,0.55,Medium
+Kedarnath,6,2,0,0,Monsoon,0.36,Low
+Dalhousie,3,5,1,0,Spring,0.37,Low
+Alleppey,11,6,1,0,Winter,0.53,Medium
+Valley of Flowers,9,0,0,0,Autumn,0.26,Low
+Kasol,6,4,0,0,Monsoon,0.6,Medium
+North Goa,10,5,1,0,Autumn,0.54,Medium
+Kovalam,3,5,1,0,Spring,0.4,Low
+Dharamshala,3,5,1,0,Spring,0.42,Low
+Spiti Valley,8,3,0,0,Monsoon,0.22,Low
+Jodhpur,1,6,1,0,Winter,0.75,High
+Pangong Lake,9,1,0,0,Autumn,0.28,Low
+Rishikesh,7,5,1,0,Monsoon,0.31,Low
+Thekkady,1,5,1,1,Winter,0.69,Medium
+Kochi,8,3,0,0,Monsoon,0.21,Low
+Chopta,10,5,1,0,Autumn,0.72,High
+Munnar,6,4,0,1,Monsoon,0.45,Low
+Dalhousie,4,2,0,0,Summer,0.24,Low
+Kullu,3,2,0,0,Spring,0.3,Low
+Mussoorie,7,5,1,0,Monsoon,0.32,Low
+Jim Corbett,8,0,0,0,Monsoon,0.2,Low
+Udaipur,5,2,0,1,Summer,0.52,Medium
+Badrinath,9,1,0,0,Autumn,0.26,Low
+Hampi,5,6,1,0,Summer,0.53,Medium
+Kovalam,8,1,0,1,Monsoon,0.4,Low
+Leh,6,1,0,0,Monsoon,0.6,Medium
+Mysore,12,5,1,0,Winter,0.74,High
+Gokarna,6,6,1,0,Monsoon,0.38,Low
+Nubra Valley,10,2,0,0,Autumn,0.54,Medium
+North Goa,4,5,1,0,Summer,0.47,Low
+Kaza,9,4,0,0,Autumn,0.3,Low
+Mussoorie,10,1,0,0,Autumn,0.64,Medium
+Wayanad,9,5,1,0,Autumn,0.44,Low
+Nubra Valley,9,4,0,0,Autumn,0.26,Low
+Pangong Lake,11,5,1,0,Winter,0.51,Medium
+Hampi,3,4,0,0,Spring,0.38,Low
+Hampi,4,0,0,0,Summer,0.34,Low
+Mysore,7,0,0,0,Monsoon,0.23,Low
+Chikmagalur,2,3,0,0,Winter,0.35,Low
+Jim Corbett,11,3,0,1,Winter,0.51,Medium
+Ranthambore,5,5,1,0,Summer,0.4,Low
+Kochi,11,6,1,0,Winter,0.42,Low
+Alleppey,5,6,1,0,Summer,0.52,Medium
+Jodhpur,10,4,0,0,Autumn,0.57,Medium
+Jodhpur,8,5,1,0,Monsoon,0.38,Low
+Kasol,5,4,0,0,Summer,0.54,Medium
+Pahalgam,10,0,0,0,Autumn,0.36,Low
+Rishikesh,5,4,0,0,Summer,0.61,Medium
+Wayanad,1,2,0,0,Winter,0.28,Low
+Bir Billing,5,0,0,0,Summer,0.63,Medium
+North Goa,8,3,0,0,Monsoon,0.24,Low
+Spiti Valley,6,5,1,0,Monsoon,0.76,High
+Rishikesh,3,4,0,0,Spring,0.34,Low
+Jaisalmer,11,6,1,0,Winter,0.48,Low
+Pangong Lake,9,4,0,0,Autumn,0.26,Low
+Kovalam,8,6,1,0,Monsoon,0.28,Low
+Manali,10,5,1,0,Autumn,0.77,High
+Pushkar,11,4,0,0,Winter,0.49,Low
+Srinagar,11,6,1,0,Winter,0.51,Medium
+Mount Abu,5,1,0,0,Summer,0.63,Medium
+Nubra Valley,8,6,1,0,Monsoon,0.31,Low
+Udaipur,6,1,0,0,Monsoon,0.29,Low
+Jaipur,12,3,0,0,Winter,0.56,Medium
+Gulmarg,7,1,0,0,Monsoon,0.14,Low
+Chopta,4,3,0,1,Summer,0.54,Medium
+Kullu,2,3,0,0,Winter,0.26,Low
+Leh,3,2,0,1,Spring,0.5,Medium
+Udaipur,9,3,0,0,Autumn,0.33,Low
+Srinagar,7,5,1,0,Monsoon,0.38,Low
+Auli,3,2,0,0,Spring,0.26,Low
+Dalhousie,1,1,0,0,Winter,0.32,Low
+Gokarna,9,1,0,0,Autumn,0.34,Low
+Alibaug,11,6,1,1,Winter,0.89,High
+Dalhousie,2,5,1,0,Winter,0.47,Low
+Varkala,8,6,1,0,Monsoon,0.3,Low
+Gokarna,2,2,0,0,Winter,0.31,Low
+Bir Billing,10,6,1,0,Autumn,0.78,High
+Mussoorie,9,0,0,0,Autumn,0.24,Low
+Kedarnath,6,6,1,0,Monsoon,0.42,Low
+Ooty,8,5,1,1,Monsoon,0.58,Medium
+Mysore,8,0,0,0,Monsoon,0.18,Low
+Varkala,6,3,0,0,Monsoon,0.27,Low
+Kovalam,5,1,0,0,Summer,0.25,Low
+Valley of Flowers,11,3,0,1,Winter,0.45,Low
+Alleppey,2,5,1,0,Winter,0.51,Medium
+Chopta,7,3,0,0,Monsoon,0.19,Low
+Manali,8,6,1,0,Monsoon,0.35,Low
+Kaza,3,6,1,0,Spring,0.4,Low
+Kullu,12,4,0,0,Winter,0.34,Low
+Mount Abu,7,5,1,0,Monsoon,0.35,Low
+Valley of Flowers,12,2,0,0,Winter,0.32,Low
+Leh,1,4,0,0,Winter,0.37,Low
+Shimla,12,1,0,0,Winter,0.33,Low
+Srinagar,7,5,1,0,Monsoon,0.35,Low
+Jibhi,9,2,0,0,Autumn,0.34,Low
+Kaza,8,4,0,0,Monsoon,0.19,Low
+Kochi,7,4,0,0,Monsoon,0.21,Low
+Badrinath,10,2,0,0,Autumn,0.61,Medium
+Chopta,8,4,0,1,Monsoon,0.32,Low
+Srinagar,2,2,0,0,Winter,0.32,Low
+Munnar,3,3,0,0,Spring,0.26,Low
+Chikmagalur,7,0,0,0,Monsoon,0.21,Low
+Jibhi,4,5,1,0,Summer,0.37,Low
+Thekkady,1,0,0,0,Winter,0.25,Low
+Pushkar,9,0,0,0,Autumn,0.29,Low
+Gokarna,3,5,1,0,Spring,0.43,Low
+Srinagar,4,0,0,0,Summer,0.27,Low
+Rishikesh,2,1,0,0,Winter,0.26,Low
+Alleppey,1,1,0,0,Winter,0.3,Low
+South Goa,4,6,1,0,Summer,0.42,Low
+Kaza,4,1,0,0,Summer,0.25,Low
+Kedarnath,3,2,0,1,Spring,0.54,Medium
+Pangong Lake,1,4,0,0,Winter,0.33,Low
+Varkala,11,0,0,0,Winter,0.65,Medium
+Varkala,10,2,0,0,Autumn,0.33,Low
+Kochi,3,1,0,0,Spring,0.27,Low
+Nainital,9,5,1,0,Autumn,0.48,Low
+Pangong Lake,2,4,0,0,Winter,0.32,Low
+Dharamshala,9,5,1,0,Autumn,0.44,Low
+Mussoorie,3,0,0,0,Spring,0.26,Low
+Chikmagalur,12,2,0,0,Winter,0.32,Low
+Nainital,2,6,1,0,Winter,0.47,Low
+Valley of Flowers,5,3,0,0,Summer,0.31,Low
+Coorg,1,6,1,0,Winter,0.46,Low
+Alleppey,11,5,1,0,Winter,0.47,Low
+Kedarnath,5,1,0,0,Summer,0.34,Low
+Alleppey,11,6,1,0,Winter,0.41,Low
+Ranthambore,5,4,0,0,Summer,0.29,Low
+Kasol,9,1,0,0,Autumn,0.29,Low
+Badrinath,4,1,0,0,Summer,0.35,Low
+Kasol,7,5,1,1,Monsoon,0.52,Medium
+Gokarna,4,0,0,0,Summer,0.29,Low
+Haridwar,7,5,1,0,Monsoon,0.33,Low
+Leh,9,2,0,0,Autumn,0.31,Low
+Ranthambore,2,5,1,0,Winter,0.49,Low
+Jaisalmer,4,1,0,0,Summer,0.38,Low
+Mount Abu,4,3,0,0,Summer,0.3,Low
+Dharamshala,3,1,0,0,Spring,0.35,Low
+Mysore,10,2,0,0,Autumn,0.5,Low
+Udaipur,10,5,1,0,Autumn,0.77,High
+Nubra Valley,2,4,0,0,Winter,0.37,Low
+North Goa,2,1,0,0,Winter,0.38,Low
+Jaisalmer,10,5,1,0,Autumn,0.43,Low
+Dharamshala,10,6,1,0,Autumn,0.69,Medium
+Kedarnath,11,1,0,0,Winter,0.55,Medium
+Kullu,8,5,1,0,Monsoon,0.37,Low
+Kaza,1,0,0,0,Winter,0.32,Low
+Shimla,2,0,0,0,Winter,0.32,Low
+Gulmarg,12,3,0,0,Winter,0.37,Low
+Pushkar,4,2,0,0,Summer,0.35,Low
+Jaisalmer,12,2,0,0,Winter,0.28,Low
+Munnar,10,6,1,0,Autumn,0.54,Medium
+Coorg,8,0,0,0,Monsoon,0.18,Low
+Ranthambore,9,6,1,0,Autumn,0.46,Low
+Haridwar,1,6,1,0,Winter,0.68,Medium
+Chikmagalur,10,6,1,0,Autumn,0.76,High
+Hampi,1,0,0,0,Winter,0.53,Medium
+Kullu,9,3,0,0,Autumn,0.23,Low
+Srinagar,12,2,0,0,Winter,0.26,Low
+Mussoorie,10,5,1,0,Autumn,0.78,High
+Jim Corbett,9,6,1,0,Autumn,0.41,Low
+Leh,5,1,0,0,Summer,0.67,Medium
+Jodhpur,12,1,0,0,Winter,0.61,Medium
+Alibaug,6,6,1,0,Monsoon,0.47,Low
+Badrinath,9,4,0,0,Autumn,0.38,Low
+Hampi,9,0,0,0,Autumn,0.33,Low
+Kovalam,6,4,0,0,Monsoon,0.3,Low
+Jim Corbett,3,5,1,0,Spring,0.46,Low
+Pushkar,9,0,0,0,Autumn,0.25,Low
+North Goa,4,6,1,0,Summer,0.49,Low
+South Goa,7,1,0,0,Monsoon,0.14,Low
+Dharamshala,7,1,0,1,Monsoon,0.41,Low
+Jaisalmer,9,3,0,0,Autumn,0.37,Low
+Ooty,4,4,0,1,Summer,0.48,Low
+Spiti Valley,10,6,1,0,Autumn,0.73,High
+Dharamshala,8,5,1,0,Monsoon,0.33,Low
+South Goa,12,3,0,0,Winter,0.69,Medium
+Badrinath,5,4,0,1,Summer,0.5,Medium
+Dalhousie,1,0,0,0,Winter,0.3,Low
+Jodhpur,3,2,0,0,Spring,0.3,Low
+Manali,12,0,0,0,Winter,0.35,Low
+North Goa,8,1,0,0,Monsoon,0.18,Low
+Jim Corbett,1,1,0,0,Winter,0.33,Low
+Nainital,8,5,1,0,Monsoon,0.31,Low
+Kullu,11,2,0,0,Winter,0.24,Low
+Ooty,12,5,1,0,Winter,0.4,Low
+Kullu,12,2,0,0,Winter,0.22,Low
+Nubra Valley,7,6,1,0,Monsoon,0.29,Low
+Jaisalmer,8,6,1,0,Monsoon,0.35,Low
+Jibhi,8,3,0,0,Monsoon,0.18,Low
+Mount Abu,12,2,0,0,Winter,0.26,Low
+Kovalam,5,3,0,0,Summer,0.27,Low
+Jodhpur,5,6,1,0,Summer,0.47,Low
+South Goa,4,2,0,0,Summer,0.32,Low
+Udaipur,11,4,0,0,Winter,0.52,Medium
+Kovalam,5,6,1,0,Summer,0.48,Low
+Alleppey,3,4,0,0,Spring,0.32,Low
+Chikmagalur,4,3,0,0,Summer,0.27,Low
+Chikmagalur,10,0,0,0,Autumn,0.65,Medium
+Spiti Valley,2,6,1,1,Winter,0.58,Medium
+Kovalam,8,4,0,0,Monsoon,0.22,Low
+North Goa,3,5,1,0,Spring,0.47,Low
+Kedarnath,2,4,0,0,Winter,0.59,Medium
+Kasol,4,1,0,0,Summer,0.24,Low
+Mount Abu,2,4,0,0,Winter,0.3,Low
+Kaza,3,3,0,0,Spring,0.26,Low
+Chopta,6,2,0,0,Monsoon,0.57,Medium
+Chopta,5,3,0,0,Summer,0.58,Medium
+Ranthambore,12,4,0,0,Winter,0.28,Low
+Jodhpur,11,5,1,0,Winter,0.76,High
+Spiti Valley,8,2,0,1,Monsoon,0.42,Low
+Gokarna,7,3,0,0,Monsoon,0.19,Low
+Kedarnath,3,6,1,1,Spring,0.69,Medium
+Kullu,4,3,0,0,Summer,0.34,Low
+Rishikesh,4,3,0,0,Summer,0.36,Low
+Jibhi,6,5,1,0,Monsoon,0.49,Low
+Auli,1,4,0,0,Winter,0.35,Low
+Ranthambore,10,0,0,0,Autumn,0.27,Low
+Spiti Valley,3,0,0,0,Spring,0.36,Low
+Auli,6,6,1,0,Monsoon,0.78,High
+Gokarna,2,2,0,0,Winter,0.24,Low
+Nainital,7,1,0,0,Monsoon,0.15,Low
+Mysore,2,4,0,0,Winter,0.53,Medium
+Jibhi,9,6,1,0,Autumn,0.4,Low
+Thekkady,3,6,1,0,Spring,0.5,Low
+Mount Abu,5,0,0,0,Summer,0.52,Medium
+Rishikesh,6,5,1,0,Monsoon,0.7,Medium
+Haridwar,3,0,0,0,Spring,0.25,Low
+Rishikesh,9,6,1,0,Autumn,0.42,Low
+Pushkar,10,3,0,0,Autumn,0.53,Medium
+Kochi,8,4,0,0,Monsoon,0.14,Low
+Bir Billing,8,1,0,0,Monsoon,0.13,Low
+Alleppey,10,1,0,0,Autumn,0.32,Low
+Dalhousie,4,3,0,0,Summer,0.33,Low
+South Goa,5,4,0,0,Summer,0.35,Low
+Bir Billing,12,4,0,0,Winter,0.29,Low
+Alleppey,2,4,0,0,Winter,0.3,Low
+Alleppey,3,0,0,0,Spring,0.38,Low
+Alleppey,12,3,0,0,Winter,0.36,Low
+Gulmarg,2,4,0,0,Winter,0.3,Low
+Pangong Lake,9,2,0,0,Autumn,0.3,Low
+Tarkarli,4,5,1,0,Summer,0.49,Low
+Bir Billing,1,6,1,0,Winter,0.49,Low
+Gokarna,8,5,1,0,Monsoon,0.34,Low
+Pushkar,3,1,0,0,Spring,0.35,Low
+Pushkar,12,5,1,0,Winter,0.63,Medium
+Nainital,6,4,0,0,Monsoon,0.33,Low
+Kullu,11,1,0,0,Winter,0.24,Low
+Pushkar,3,2,0,0,Spring,0.26,Low
+Ooty,10,6,1,0,Autumn,0.73,High
+Manali,4,5,1,1,Summer,0.66,Medium
+South Goa,3,2,0,0,Spring,0.31,Low
+Jodhpur,3,1,0,0,Spring,0.3,Low
+Ranthambore,9,1,0,0,Autumn,0.37,Low
+Srinagar,2,3,0,0,Winter,0.25,Low
+Udaipur,3,3,0,0,Spring,0.34,Low
+Valley of Flowers,1,4,0,0,Winter,0.35,Low
+Dharamshala,8,1,0,0,Monsoon,0.12,Low
+Alleppey,12,0,0,0,Winter,0.29,Low
+Manali,4,3,0,1,Summer,0.51,Medium
+Ooty,6,2,0,0,Monsoon,0.63,Medium
+Nainital,10,0,0,0,Autumn,0.31,Low
+Nubra Valley,6,0,0,0,Monsoon,0.58,Medium
+North Goa,5,4,0,0,Summer,0.39,Low
+Badrinath,10,1,0,0,Autumn,0.57,Medium
+Srinagar,12,3,0,1,Winter,0.45,Low
+Tarkarli,4,2,0,0,Summer,0.23,Low
+Ranthambore,5,4,0,0,Summer,0.27,Low
+Alleppey,4,4,0,0,Summer,0.3,Low
+Kedarnath,7,0,0,0,Monsoon,0.22,Low
+Kedarnath,4,2,0,0,Summer,0.27,Low
+Leh,10,1,0,0,Autumn,0.57,Medium
+Spiti Valley,1,4,0,0,Winter,0.28,Low
+Pangong Lake,4,5,1,1,Summer,0.71,Medium
+Jodhpur,11,4,0,0,Winter,0.5,Medium
+Nainital,7,2,0,1,Monsoon,0.36,Low
+Munnar,10,3,0,0,Autumn,0.3,Low
+Srinagar,4,3,0,0,Summer,0.34,Low
+South Goa,9,6,1,0,Autumn,0.49,Low
+Mount Abu,11,0,0,0,Winter,0.26,Low
+Bir Billing,10,4,0,0,Autumn,0.63,Medium
+Gokarna,8,2,0,0,Monsoon,0.2,Low
+Mussoorie,3,0,0,0,Spring,0.29,Low
+Mount Abu,6,2,0,0,Monsoon,0.55,Medium
+Pushkar,11,3,0,1,Winter,0.67,Medium
+Ooty,11,6,1,0,Winter,0.44,Low
+Hampi,9,5,1,0,Autumn,0.48,Low
+Leh,7,2,0,0,Monsoon,0.22,Low
+Rishikesh,8,5,1,0,Monsoon,0.29,Low
+Spiti Valley,12,6,1,0,Winter,0.44,Low
+Pushkar,8,0,0,0,Monsoon,0.23,Low
+Pahalgam,7,1,0,0,Monsoon,0.24,Low
+Alleppey,10,4,0,0,Autumn,0.26,Low
+Leh,3,3,0,0,Spring,0.33,Low
+Shimla,1,4,0,0,Winter,0.29,Low
+Bir Billing,7,5,1,0,Monsoon,0.29,Low
+Coorg,7,0,0,0,Monsoon,0.21,Low
+Wayanad,5,4,0,0,Summer,0.35,Low
+Haridwar,8,2,0,0,Monsoon,0.22,Low
+Auli,9,4,0,0,Autumn,0.35,Low
+Jim Corbett,11,0,0,0,Winter,0.27,Low
+Kaza,6,6,1,0,Monsoon,0.71,Medium
+Alibaug,11,1,0,0,Winter,0.67,Medium
+Wayanad,3,5,1,1,Spring,0.69,Medium
+Pangong Lake,7,3,0,0,Monsoon,0.17,Low
+Alleppey,8,5,1,0,Monsoon,0.28,Low
+Shimla,1,1,0,0,Winter,0.36,Low
+Manali,1,0,0,0,Winter,0.27,Low
+Jaipur,7,3,0,0,Monsoon,0.19,Low
+Manali,9,5,1,0,Autumn,0.45,Low
+Kedarnath,5,5,1,0,Summer,0.5,Low
+Spiti Valley,7,1,0,0,Monsoon,0.21,Low
+Ooty,7,2,0,1,Monsoon,0.42,Low
+Munnar,5,6,1,0,Summer,0.41,Low
+Dalhousie,3,1,0,0,Spring,0.29,Low
+Leh,4,2,0,0,Summer,0.3,Low
+Tarkarli,3,3,0,1,Spring,0.48,Low
+Pangong Lake,12,3,0,0,Winter,0.31,Low
+Chopta,3,4,0,0,Spring,0.25,Low
+North Goa,1,0,0,0,Winter,0.6,Medium
+Chikmagalur,8,5,1,1,Monsoon,0.5,Low
+Chikmagalur,5,2,0,0,Summer,0.59,Medium
+Chopta,9,3,0,0,Autumn,0.24,Low
+Mysore,6,0,0,0,Monsoon,0.34,Low
+Mussoorie,2,1,0,0,Winter,0.26,Low
+Srinagar,11,1,0,0,Winter,0.32,Low
+Nainital,2,6,1,0,Winter,0.39,Low
+Shimla,11,1,0,0,Winter,0.25,Low
+Bir Billing,7,2,0,0,Monsoon,0.2,Low
+Kovalam,7,4,0,0,Monsoon,0.18,Low
+Mussoorie,10,5,1,0,Autumn,0.79,High
+Mussoorie,11,1,0,0,Winter,0.29,Low
+Rishikesh,9,2,0,0,Autumn,0.38,Low
+Ooty,7,1,0,0,Monsoon,0.17,Low
+Pahalgam,11,5,1,0,Winter,0.4,Low
+Spiti Valley,11,4,0,0,Winter,0.32,Low
+Dalhousie,5,5,1,0,Summer,0.44,Low
+Jibhi,6,1,0,0,Monsoon,0.26,Low
+Leh,4,0,0,0,Summer,0.33,Low
+Leh,5,4,0,0,Summer,0.55,Medium
+Alleppey,5,2,0,0,Summer,0.34,Low
+Alibaug,2,2,0,0,Winter,0.32,Low
+Spiti Valley,1,1,0,1,Winter,0.52,Medium
+Mount Abu,9,5,1,0,Autumn,0.45,Low
+Spiti Valley,4,6,1,0,Summer,0.45,Low
+Chopta,3,0,0,0,Spring,0.35,Low
+Manali,1,2,0,0,Winter,0.31,Low
+Pushkar,6,1,0,0,Monsoon,0.35,Low
+North Goa,5,4,0,0,Summer,0.3,Low
+Pahalgam,11,2,0,0,Winter,0.37,Low
+North Goa,7,6,1,0,Monsoon,0.31,Low
+Kasol,12,5,1,0,Winter,0.42,Low
+Bir Billing,8,0,0,1,Monsoon,0.41,Low
+Nubra Valley,8,1,0,0,Monsoon,0.14,Low
+Auli,12,6,1,0,Winter,0.44,Low
+Alibaug,1,3,0,0,Winter,0.66,Medium
+Kedarnath,11,4,0,0,Winter,0.52,Medium
+Haridwar,6,6,1,0,Monsoon,0.49,Low
+Ooty,12,1,0,0,Winter,0.33,Low
+Alibaug,11,5,1,0,Winter,0.71,Medium
+Leh,11,1,0,1,Winter,0.5,Low
+Shimla,1,2,0,0,Winter,0.33,Low
+Thekkady,8,3,0,0,Monsoon,0.22,Low
+Rishikesh,6,2,0,0,Monsoon,0.56,Medium
+Hampi,5,1,0,0,Summer,0.27,Low
+Pangong Lake,3,6,1,0,Spring,0.41,Low
+Auli,5,4,0,0,Summer,0.56,Medium
+Mysore,11,5,1,0,Winter,0.77,High
+Manali,2,2,0,0,Winter,0.3,Low
+Udaipur,8,2,0,0,Monsoon,0.26,Low
+Haridwar,9,0,0,0,Autumn,0.37,Low
+Mysore,5,0,0,0,Summer,0.33,Low
+Kasol,4,4,0,0,Summer,0.34,Low
+Kullu,12,0,0,0,Winter,0.25,Low
+Auli,1,2,0,0,Winter,0.32,Low
+Kasol,10,4,0,0,Autumn,0.55,Medium
+Kedarnath,1,5,1,0,Winter,0.71,Medium
+Shimla,1,5,1,0,Winter,0.45,Low
+Pangong Lake,9,2,0,0,Autumn,0.31,Low
+Srinagar,9,5,1,0,Autumn,0.43,Low
+Nainital,8,3,0,0,Monsoon,0.16,Low
+Gulmarg,6,5,1,0,Monsoon,0.79,High
+Chopta,5,1,0,0,Summer,0.58,Medium
+Gulmarg,1,0,0,0,Winter,0.27,Low
+Leh,3,5,1,0,Spring,0.46,Low
+Alleppey,5,1,0,0,Summer,0.36,Low
+Nainital,2,3,0,0,Winter,0.32,Low
+Pahalgam,3,1,0,0,Spring,0.26,Low
+Badrinath,10,4,0,0,Autumn,0.59,Medium
+Nainital,12,0,0,0,Winter,0.33,Low
+Kochi,6,3,0,0,Monsoon,0.3,Low
+Jim Corbett,2,1,0,0,Winter,0.28,Low
+Haridwar,9,3,0,0,Autumn,0.27,Low
+Kaza,4,0,0,0,Summer,0.27,Low
+Pahalgam,4,1,0,0,Summer,0.27,Low
+Valley of Flowers,8,3,0,0,Monsoon,0.15,Low
+Ooty,12,3,0,0,Winter,0.31,Low
+Mount Abu,3,3,0,0,Spring,0.27,Low
+Pahalgam,5,6,1,0,Summer,0.45,Low
+Alleppey,10,0,0,0,Autumn,0.34,Low
+Gokarna,10,3,0,0,Autumn,0.24,Low
+Haridwar,12,3,0,0,Winter,0.61,Medium
+North Goa,2,2,0,0,Winter,0.35,Low
+Varkala,5,5,1,0,Summer,0.52,Medium
+North Goa,12,1,0,0,Winter,0.66,Medium
+Kullu,10,0,0,0,Autumn,0.22,Low
+Pangong Lake,2,0,0,0,Winter,0.3,Low
+Ooty,6,2,0,0,Monsoon,0.54,Medium
+Valley of Flowers,10,5,1,0,Autumn,0.47,Low
+Pangong Lake,10,6,1,0,Autumn,0.42,Low
+Leh,9,4,0,0,Autumn,0.26,Low
+Spiti Valley,12,4,0,0,Winter,0.26,Low
+Jaisalmer,1,6,1,1,Winter,0.6,Medium
+Jaipur,9,1,0,0,Autumn,0.3,Low
+Pangong Lake,3,5,1,0,Spring,0.43,Low
+Nubra Valley,1,2,0,0,Winter,0.37,Low
+Ooty,2,3,0,0,Winter,0.37,Low
+Jaipur,10,0,0,0,Autumn,0.54,Medium
+Chikmagalur,3,6,1,0,Spring,0.45,Low
+Jibhi,12,6,1,1,Winter,0.66,Medium
+Valley of Flowers,12,3,0,0,Winter,0.34,Low
+Kovalam,3,5,1,0,Spring,0.44,Low
+Bir Billing,1,6,1,0,Winter,0.48,Low
+Jibhi,6,3,0,0,Monsoon,0.33,Low
+Kullu,3,1,0,0,Spring,0.32,Low
+Mussoorie,5,4,0,0,Summer,0.63,Medium
+Wayanad,1,2,0,0,Winter,0.27,Low
+Auli,2,3,0,0,Winter,0.37,Low
+Mysore,1,5,1,0,Winter,0.75,High
+Pangong Lake,4,6,1,0,Summer,0.51,Medium
+North Goa,12,3,0,0,Winter,0.69,Medium
+Shimla,11,0,0,0,Winter,0.3,Low
+Auli,6,0,0,0,Monsoon,0.57,Medium
+Chopta,6,4,0,0,Monsoon,0.59,Medium
+Jim Corbett,2,1,0,0,Winter,0.36,Low
+Manali,10,4,0,0,Autumn,0.57,Medium
+Bir Billing,4,2,0,0,Summer,0.33,Low
+Gulmarg,5,5,1,1,Summer,0.99,High
+Jaipur,5,6,1,0,Summer,0.42,Low
+Gokarna,11,3,0,0,Winter,0.65,Medium
+Badrinath,4,3,0,0,Summer,0.26,Low
+Dalhousie,5,2,0,0,Summer,0.34,Low
+Chikmagalur,10,2,0,0,Autumn,0.52,Medium
+Jaisalmer,3,6,1,1,Spring,0.69,Medium
+Chikmagalur,9,6,1,0,Autumn,0.5,Low
+Kochi,9,2,0,0,Autumn,0.28,Low
+Nainital,3,1,0,0,Spring,0.3,Low
+Nubra Valley,11,0,0,0,Winter,0.32,Low
+Kasol,7,6,1,0,Monsoon,0.32,Low
+Gulmarg,3,3,0,0,Spring,0.35,Low
+Hampi,5,2,0,0,Summer,0.3,Low
+Kullu,12,6,1,0,Winter,0.42,Low
+Ranthambore,5,5,1,0,Summer,0.49,Low
+Manali,9,1,0,1,Autumn,0.46,Low
+Badrinath,5,1,0,0,Summer,0.31,Low
+Shimla,11,5,1,0,Winter,0.41,Low
+Jodhpur,12,2,0,0,Winter,0.51,Medium
+Jim Corbett,8,1,0,0,Monsoon,0.2,Low
+Alibaug,8,1,0,0,Monsoon,0.22,Low
+Jaipur,9,4,0,0,Autumn,0.37,Low
+Varkala,11,5,1,0,Winter,0.75,High
+Rishikesh,6,6,1,0,Monsoon,0.8,High
+Gulmarg,1,1,0,0,Winter,0.27,Low
+Jodhpur,5,5,1,0,Summer,0.47,Low
+Mussoorie,4,4,0,0,Summer,0.35,Low
+Jim Corbett,8,0,0,0,Monsoon,0.23,Low
+Thekkady,12,3,0,0,Winter,0.25,Low
+Nainital,2,6,1,0,Winter,0.47,Low
+Rishikesh,12,0,0,1,Winter,0.47,Low
+Wayanad,3,1,0,0,Spring,0.27,Low
+Kasol,4,1,0,0,Summer,0.3,Low
+Wayanad,4,4,0,0,Summer,0.36,Low
+Auli,6,6,1,1,Monsoon,0.87,High
+Bir Billing,6,5,1,0,Monsoon,0.7,Medium
+Mussoorie,7,3,0,0,Monsoon,0.15,Low
+Chikmagalur,4,3,0,0,Summer,0.3,Low
+Hampi,10,2,0,0,Autumn,0.58,Medium
+Pushkar,9,5,1,0,Autumn,0.49,Low
+Kullu,4,5,1,0,Summer,0.4,Low
+Srinagar,12,2,0,0,Winter,0.27,Low
+Nubra Valley,8,3,0,0,Monsoon,0.23,Low
+Tarkarli,5,6,1,0,Summer,0.73,High
+Dalhousie,9,5,1,0,Autumn,0.45,Low
+Bir Billing,7,3,0,0,Monsoon,0.13,Low
+Valley of Flowers,3,6,1,0,Spring,0.4,Low
+Dalhousie,2,2,0,0,Winter,0.22,Low
+Mount Abu,3,2,0,0,Spring,0.28,Low
+Manali,6,5,1,0,Monsoon,0.78,High
+Kullu,2,5,1,0,Winter,0.4,Low
+Dharamshala,7,2,0,0,Monsoon,0.23,Low
+Pangong Lake,6,0,0,0,Monsoon,0.38,Low
+Udaipur,8,5,1,0,Monsoon,0.37,Low
+Badrinath,10,0,0,0,Autumn,0.6,Medium
+Pahalgam,2,1,0,0,Winter,0.28,Low
+Leh,7,1,0,0,Monsoon,0.16,Low
+Valley of Flowers,11,4,0,0,Winter,0.36,Low
+Bir Billing,6,5,1,0,Monsoon,0.69,Medium
+Auli,1,4,0,0,Winter,0.28,Low
+Pangong Lake,1,2,0,0,Winter,0.32,Low
+Mysore,6,5,1,0,Monsoon,0.4,Low
+Badrinath,10,4,0,0,Autumn,0.53,Medium
+Valley of Flowers,5,0,0,0,Summer,0.31,Low
+Tarkarli,7,4,0,0,Monsoon,0.2,Low
+Mount Abu,10,1,0,0,Autumn,0.53,Medium
+Alleppey,2,6,1,0,Winter,0.48,Low
+Pushkar,4,6,1,0,Summer,0.46,Low
+Rishikesh,10,0,0,0,Autumn,0.57,Medium
+Chikmagalur,12,0,0,0,Winter,0.32,Low
+Mount Abu,7,3,0,0,Monsoon,0.21,Low
+Kedarnath,8,4,0,0,Monsoon,0.24,Low
+Jodhpur,4,1,0,1,Summer,0.43,Low
+Dalhousie,2,3,0,0,Winter,0.24,Low
+Kullu,11,4,0,0,Winter,0.27,Low
+Munnar,8,5,1,0,Monsoon,0.37,Low
+Jaisalmer,11,0,0,0,Winter,0.29,Low
+Hampi,10,4,0,0,Autumn,0.54,Medium
+Shimla,6,6,1,0,Monsoon,0.76,High
+Tarkarli,10,4,0,0,Autumn,0.63,Medium
+Munnar,9,5,1,0,Autumn,0.51,Medium
+Kullu,8,2,0,0,Monsoon,0.1,Low
+Jibhi,3,3,0,0,Spring,0.26,Low
+Dalhousie,3,6,1,0,Spring,0.45,Low
+Mount Abu,10,5,1,0,Autumn,0.69,Medium
+Jaisalmer,1,4,0,0,Winter,0.35,Low
+Pahalgam,8,5,1,0,Monsoon,0.39,Low
+Gokarna,10,0,0,1,Autumn,0.46,Low
+Tarkarli,3,2,0,0,Spring,0.33,Low
+Kullu,3,4,0,0,Spring,0.25,Low
+Varkala,10,4,0,0,Autumn,0.37,Low
+Jaisalmer,3,3,0,0,Spring,0.28,Low
+Varkala,6,0,0,0,Monsoon,0.24,Low
+Udaipur,7,3,0,0,Monsoon,0.17,Low
+Thekkady,3,5,1,0,Spring,0.49,Low
+Jodhpur,10,0,0,0,Autumn,0.53,Medium
+Kochi,1,6,1,0,Winter,0.43,Low
+Mysore,11,4,0,0,Winter,0.6,Medium
+Alibaug,9,2,0,0,Autumn,0.28,Low
+Ranthambore,7,4,0,0,Monsoon,0.19,Low
+Jaipur,5,6,1,0,Summer,0.5,Low
+Chopta,2,1,0,0,Winter,0.26,Low
+Alibaug,7,0,0,0,Monsoon,0.21,Low
+Auli,8,0,0,0,Monsoon,0.13,Low
+Kaza,4,2,0,0,Summer,0.26,Low
+Auli,7,0,0,0,Monsoon,0.23,Low
+North Goa,9,3,0,1,Autumn,0.49,Low
+Bir Billing,7,1,0,0,Monsoon,0.17,Low
+Ranthambore,12,2,0,0,Winter,0.31,Low
+Dharamshala,12,6,1,1,Winter,0.62,Medium
+Jaipur,2,2,0,0,Winter,0.58,Medium
+Mount Abu,4,6,1,0,Summer,0.48,Low
+Wayanad,6,3,0,0,Monsoon,0.25,Low
+Udaipur,9,2,0,0,Autumn,0.36,Low
+Jaisalmer,8,4,0,0,Monsoon,0.15,Low
+Jibhi,5,4,0,0,Summer,0.26,Low
+Auli,10,1,0,1,Autumn,0.8,High
+Spiti Valley,10,4,0,0,Autumn,0.55,Medium
+Hampi,1,1,0,0,Winter,0.63,Medium
+Kovalam,12,3,0,0,Winter,0.64,Medium
+Hampi,8,5,1,0,Monsoon,0.32,Low
+Jibhi,12,1,0,0,Winter,0.29,Low
+Jodhpur,12,4,0,1,Winter,0.7,Medium
+Dalhousie,8,0,0,0,Monsoon,0.13,Low
+South Goa,1,3,0,0,Winter,0.64,Medium
+Kullu,12,1,0,1,Winter,0.51,Medium
+Gulmarg,5,2,0,0,Summer,0.6,Medium
+Jim Corbett,12,3,0,0,Winter,0.26,Low
+Mussoorie,12,4,0,0,Winter,0.25,Low
+Alleppey,3,6,1,0,Spring,0.42,Low
+Nainital,4,6,1,1,Summer,0.6,Medium
+Chikmagalur,3,0,0,1,Spring,0.48,Low
+Mysore,10,4,0,0,Autumn,0.61,Medium
+Valley of Flowers,11,4,0,0,Winter,0.37,Low
+Mysore,4,3,0,0,Summer,0.36,Low
+Dalhousie,3,1,0,0,Spring,0.31,Low
+Kovalam,10,6,1,0,Autumn,0.41,Low
+Ranthambore,11,3,0,0,Winter,0.29,Low
+Manali,2,1,0,0,Winter,0.33,Low
+Thekkady,10,1,0,0,Autumn,0.35,Low
+Spiti Valley,4,1,0,0,Summer,0.34,Low
+Srinagar,8,2,0,0,Monsoon,0.22,Low
+Srinagar,1,5,1,0,Winter,0.5,Low
+Munnar,11,0,0,0,Winter,0.26,Low
+Jim Corbett,10,1,0,0,Autumn,0.26,Low
+Jaipur,10,3,0,0,Autumn,0.59,Medium
+South Goa,3,6,1,0,Spring,0.43,Low
+Haridwar,9,0,0,0,Autumn,0.34,Low
+Auli,4,4,0,0,Summer,0.27,Low
+Udaipur,12,3,0,0,Winter,0.62,Medium
+Mussoorie,12,3,0,1,Winter,0.51,Medium
+Kasol,5,3,0,0,Summer,0.53,Medium
+Chopta,6,3,0,0,Monsoon,0.61,Medium
+Srinagar,9,0,0,0,Autumn,0.34,Low
+Manali,7,5,1,0,Monsoon,0.35,Low
+Kochi,3,6,1,0,Spring,0.5,Low
+Nainital,3,1,0,1,Spring,0.5,Low
+Mysore,9,4,0,0,Autumn,0.36,Low
+Coorg,11,4,0,0,Winter,0.27,Low
+Varkala,3,0,0,1,Spring,0.53,Medium
+Thekkady,9,4,0,0,Autumn,0.32,Low
+Manali,8,1,0,0,Monsoon,0.22,Low
+Kaza,11,6,1,0,Winter,0.48,Low
+Valley of Flowers,12,3,0,0,Winter,0.35,Low
+Dalhousie,10,6,1,0,Autumn,0.38,Low
+Mount Abu,9,1,0,0,Autumn,0.34,Low
+Kedarnath,3,2,0,0,Spring,0.29,Low
+Badrinath,10,6,1,0,Autumn,0.75,High
+Mount Abu,6,4,0,0,Monsoon,0.61,Medium
+Dharamshala,3,1,0,0,Spring,0.29,Low
+Wayanad,4,0,0,1,Summer,0.43,Low
+Jodhpur,2,4,0,0,Winter,0.49,Low
+Varkala,4,5,1,0,Summer,0.49,Low
+Coorg,3,1,0,0,Spring,0.36,Low
+Shimla,11,5,1,0,Winter,0.52,Medium
+Valley of Flowers,3,2,0,1,Spring,0.51,Medium
+Nubra Valley,4,0,0,1,Summer,0.48,Low
+Rishikesh,7,6,1,0,Monsoon,0.31,Low
+Spiti Valley,9,3,0,0,Autumn,0.3,Low
+Udaipur,11,4,0,0,Winter,0.52,Medium
+Pushkar,7,5,1,0,Monsoon,0.35,Low
+Alibaug,7,1,0,0,Monsoon,0.1,Low
+Rishikesh,10,3,0,0,Autumn,0.64,Medium
+Wayanad,2,0,0,0,Winter,0.33,Low
+Valley of Flowers,2,0,0,0,Winter,0.31,Low
+Kaza,6,4,0,0,Monsoon,0.54,Medium
+Nubra Valley,6,0,0,0,Monsoon,0.59,Medium
+Rishikesh,6,0,0,0,Monsoon,0.56,Medium
+Mount Abu,9,0,0,0,Autumn,0.26,Low
+Jaipur,1,6,1,0,Winter,0.71,High
+Shimla,6,6,1,1,Monsoon,0.9,High
+Varkala,10,5,1,0,Autumn,0.52,Medium
+Pushkar,12,0,0,0,Winter,0.49,Low
+Kasol,5,3,0,0,Summer,0.52,Medium
+North Goa,8,4,0,0,Monsoon,0.19,Low
+Jibhi,7,1,0,0,Monsoon,0.21,Low
+North Goa,5,2,0,0,Summer,0.29,Low
+Mussoorie,6,4,0,0,Monsoon,0.64,Medium
+Thekkady,2,0,0,0,Winter,0.33,Low
+Manali,1,1,0,0,Winter,0.28,Low
+South Goa,3,1,0,0,Spring,0.36,Low
+Shimla,7,1,0,0,Monsoon,0.2,Low
+Mysore,6,3,0,0,Monsoon,0.36,Low
+North Goa,4,1,0,0,Summer,0.31,Low
+Dharamshala,5,0,0,0,Summer,0.56,Medium
+Gulmarg,5,1,0,0,Summer,0.58,Medium
+Kullu,12,6,1,0,Winter,0.43,Low
+Kaza,5,6,1,0,Summer,0.71,Medium
+Hampi,5,5,1,0,Summer,0.44,Low
+Jim Corbett,4,1,0,1,Summer,0.53,Medium
+Auli,1,5,1,0,Winter,0.51,Medium
+Gulmarg,9,6,1,0,Autumn,0.42,Low
+Kochi,9,2,0,0,Autumn,0.24,Low
+Udaipur,3,4,0,0,Spring,0.38,Low
+South Goa,11,0,0,0,Winter,0.66,Medium
+Munnar,5,4,0,1,Summer,0.51,Medium
+Ooty,5,6,1,0,Summer,0.81,High
+Haridwar,4,0,0,0,Summer,0.37,Low
+Alleppey,4,5,1,0,Summer,0.5,Medium
+Pahalgam,6,3,0,0,Monsoon,0.29,Low
+Kochi,1,6,1,0,Winter,0.41,Low
+Wayanad,9,0,0,0,Autumn,0.31,Low
+Valley of Flowers,8,6,1,0,Monsoon,0.35,Low
+Kovalam,3,3,0,0,Spring,0.24,Low
+Nainital,12,2,0,0,Winter,0.24,Low
+Mussoorie,11,2,0,0,Winter,0.31,Low
+Kedarnath,7,0,0,0,Monsoon,0.13,Low
+Hampi,5,0,0,0,Summer,0.33,Low
+Mount Abu,4,2,0,1,Summer,0.46,Low
+Jodhpur,2,6,1,0,Winter,0.7,Medium
+Kasol,2,5,1,1,Winter,0.66,Medium
+Hampi,4,6,1,0,Summer,0.53,Medium
+Haridwar,5,6,1,0,Summer,0.47,Low
+Mussoorie,3,0,0,0,Spring,0.26,Low
+Chikmagalur,4,6,1,0,Summer,0.44,Low
+Srinagar,4,0,0,0,Summer,0.3,Low
+South Goa,7,0,0,0,Monsoon,0.25,Low
+Rishikesh,5,0,0,0,Summer,0.63,Medium
+Kasol,1,1,0,0,Winter,0.26,Low
+Coorg,6,6,1,0,Monsoon,0.46,Low
+Gulmarg,1,5,1,1,Winter,0.6,Medium
+Pushkar,12,2,0,1,Winter,0.75,High
+Tarkarli,8,2,0,0,Monsoon,0.16,Low
+Coorg,9,5,1,0,Autumn,0.41,Low
+Jim Corbett,6,0,0,0,Monsoon,0.36,Low
+Dharamshala,12,6,1,0,Winter,0.43,Low
+Nainital,2,5,1,0,Winter,0.4,Low
+South Goa,12,4,0,0,Winter,0.64,Medium
+Jim Corbett,12,2,0,0,Winter,0.3,Low
+Varkala,10,1,0,0,Autumn,0.32,Low
+Alleppey,12,6,1,0,Winter,0.49,Low
+Kaza,1,2,0,0,Winter,0.23,Low
+Leh,12,5,1,0,Winter,0.51,Medium
+Pahalgam,12,1,0,0,Winter,0.27,Low
+Chopta,4,2,0,0,Summer,0.3,Low
+Leh,10,4,0,0,Autumn,0.66,Medium
+Kovalam,7,4,0,0,Monsoon,0.14,Low
+Haridwar,11,3,0,0,Winter,0.52,Medium
+Kedarnath,11,0,0,0,Winter,0.51,Medium
+Shimla,1,4,0,0,Winter,0.33,Low
+Manali,4,4,0,0,Summer,0.26,Low
+Valley of Flowers,1,3,0,0,Winter,0.37,Low
+Jaisalmer,9,6,1,0,Autumn,0.41,Low
+Jaipur,4,2,0,0,Summer,0.35,Low
+Chopta,4,0,0,0,Summer,0.27,Low
+Kedarnath,11,3,0,0,Winter,0.62,Medium
+Shimla,9,1,0,0,Autumn,0.31,Low
+North Goa,11,4,0,0,Winter,0.72,High
+Dalhousie,4,3,0,0,Summer,0.29,Low
+Srinagar,11,4,0,0,Winter,0.36,Low
+Ranthambore,4,6,1,0,Summer,0.41,Low
+Ranthambore,2,2,0,0,Winter,0.29,Low
+Chopta,3,4,0,0,Spring,0.34,Low
+Jaipur,4,6,1,0,Summer,0.5,Low
+Ooty,9,3,0,0,Autumn,0.27,Low
+Rishikesh,4,4,0,0,Summer,0.27,Low
+Jibhi,8,0,0,0,Monsoon,0.13,Low
+Jibhi,8,5,1,0,Monsoon,0.27,Low
+Pahalgam,6,4,0,0,Monsoon,0.27,Low
+Leh,9,0,0,0,Autumn,0.35,Low
+Haridwar,2,0,0,0,Winter,0.56,Medium
+Varkala,5,5,1,0,Summer,0.39,Low
+Srinagar,12,5,1,0,Winter,0.44,Low
+Kochi,9,4,0,0,Autumn,0.31,Low
+Ranthambore,11,6,1,0,Winter,0.51,Medium
+Dharamshala,10,4,0,0,Autumn,0.56,Medium
+Dalhousie,9,6,1,0,Autumn,0.45,Low
+Spiti Valley,12,1,0,0,Winter,0.26,Low
+Chikmagalur,1,3,0,0,Winter,0.24,Low
+Chopta,7,0,0,0,Monsoon,0.15,Low
+Jodhpur,4,6,1,0,Summer,0.45,Low
+Rishikesh,6,2,0,0,Monsoon,0.65,Medium
+Kovalam,7,1,0,0,Monsoon,0.17,Low
+Kedarnath,2,6,1,0,Winter,0.7,Medium
+Jaisalmer,11,0,0,0,Winter,0.25,Low
+Jodhpur,5,4,0,0,Summer,0.34,Low
+Varkala,4,4,0,0,Summer,0.3,Low
+Jibhi,9,5,1,0,Autumn,0.38,Low
+Kedarnath,2,4,0,1,Winter,0.79,High
+Nainital,8,2,0,0,Monsoon,0.17,Low
+Leh,7,2,0,0,Monsoon,0.21,Low
+Chikmagalur,10,1,0,0,Autumn,0.52,Medium
+Udaipur,4,1,0,0,Summer,0.35,Low
+Jim Corbett,7,2,0,0,Monsoon,0.14,Low
+Chikmagalur,4,3,0,0,Summer,0.24,Low
+Pangong Lake,4,0,0,0,Summer,0.34,Low
+Kasol,10,2,0,0,Autumn,0.63,Medium
+Kedarnath,3,6,1,0,Spring,0.48,Low
+Pangong Lake,4,1,0,0,Summer,0.26,Low
+Pangong Lake,6,5,1,0,Monsoon,0.54,Medium
+Chopta,8,2,0,0,Monsoon,0.18,Low
+Pangong Lake,7,3,0,0,Monsoon,0.26,Low
+Bir Billing,7,0,0,0,Monsoon,0.14,Low
+Rishikesh,9,4,0,0,Autumn,0.29,Low
+Manali,10,1,0,0,Autumn,0.63,Medium
+Auli,5,4,0,0,Summer,0.62,Medium
+Badrinath,8,6,1,0,Monsoon,0.4,Low
+Leh,4,4,0,0,Summer,0.37,Low
+Nubra Valley,3,6,1,0,Spring,0.44,Low
+Kaza,12,6,1,0,Winter,0.48,Low
+Jaisalmer,2,4,0,0,Winter,0.36,Low
+Rishikesh,7,5,1,0,Monsoon,0.29,Low
+Udaipur,2,4,0,0,Winter,0.56,Medium
+Jim Corbett,3,6,1,0,Spring,0.48,Low
+Varkala,8,5,1,0,Monsoon,0.32,Low
+Pahalgam,10,2,0,0,Autumn,0.28,Low
+Ranthambore,8,5,1,0,Monsoon,0.37,Low
+Gulmarg,4,1,0,0,Summer,0.31,Low
+Nubra Valley,10,6,1,0,Autumn,0.76,High
+Kovalam,7,1,0,0,Monsoon,0.12,Low
+Badrinath,4,4,0,0,Summer,0.37,Low
+Chikmagalur,7,1,0,1,Monsoon,0.42,Low
+Tarkarli,9,1,0,0,Autumn,0.25,Low
+Ooty,12,4,0,0,Winter,0.25,Low
+Mount Abu,8,6,1,0,Monsoon,0.33,Low
+Jaipur,4,4,0,0,Summer,0.27,Low
+Jaisalmer,9,6,1,0,Autumn,0.45,Low
+Nubra Valley,11,6,1,0,Winter,0.46,Low
+Jim Corbett,6,5,1,0,Monsoon,0.51,Medium
+Pahalgam,11,6,1,0,Winter,0.48,Low
+Auli,5,2,0,0,Summer,0.59,Medium
+Gulmarg,1,0,0,0,Winter,0.31,Low
+Thekkady,5,3,0,0,Summer,0.33,Low
+Tarkarli,3,4,0,0,Spring,0.3,Low
+Ooty,11,0,0,0,Winter,0.3,Low
+Kaza,12,5,1,0,Winter,0.5,Low
+South Goa,8,4,0,0,Monsoon,0.14,Low
+Pangong Lake,9,3,0,0,Autumn,0.36,Low
+Udaipur,12,5,1,0,Winter,0.77,High
+Jim Corbett,10,3,0,0,Autumn,0.35,Low
+Jibhi,8,1,0,0,Monsoon,0.1,Low
+Jodhpur,6,2,0,1,Monsoon,0.42,Low
+Gokarna,5,0,0,0,Summer,0.36,Low
+Jim Corbett,9,4,0,1,Autumn,0.43,Low
+Srinagar,3,6,1,0,Spring,0.42,Low
+Varkala,8,4,0,1,Monsoon,0.36,Low
+Varkala,10,5,1,0,Autumn,0.49,Low
+Thekkady,7,0,0,0,Monsoon,0.13,Low
+Jaipur,12,0,0,0,Winter,0.54,Medium
+Rishikesh,9,5,1,1,Autumn,0.7,Medium
+Gokarna,1,1,0,0,Winter,0.7,Medium
+Thekkady,5,2,0,0,Summer,0.29,Low
+Kovalam,7,2,0,0,Monsoon,0.19,Low
+Leh,9,3,0,0,Autumn,0.39,Low
+Pangong Lake,6,3,0,0,Monsoon,0.3,Low
+Auli,9,6,1,0,Autumn,0.42,Low
+Alibaug,3,1,0,0,Spring,0.3,Low
+North Goa,5,0,0,0,Summer,0.35,Low
+Nainital,7,4,0,1,Monsoon,0.35,Low
+Kedarnath,10,4,0,0,Autumn,0.56,Medium
+Chopta,3,3,0,0,Spring,0.27,Low
+Gokarna,5,0,0,0,Summer,0.32,Low
+Jaisalmer,1,5,1,0,Winter,0.44,Low
+Jaisalmer,3,0,0,0,Spring,0.26,Low
+Badrinath,7,5,1,0,Monsoon,0.29,Low
+Jaipur,8,5,1,0,Monsoon,0.31,Low
+Pushkar,2,4,0,0,Winter,0.6,Medium
+Kovalam,7,3,0,0,Monsoon,0.17,Low
+Coorg,2,5,1,0,Winter,0.39,Low
+Dalhousie,8,4,0,0,Monsoon,0.14,Low
+Kochi,1,0,0,0,Winter,0.25,Low
+Varkala,4,5,1,0,Summer,0.43,Low
+Jibhi,4,4,0,0,Summer,0.25,Low
+Srinagar,3,1,0,1,Spring,0.48,Low
+Rishikesh,5,2,0,0,Summer,0.6,Medium
+Wayanad,11,0,0,0,Winter,0.35,Low
+Shimla,3,2,0,0,Spring,0.35,Low
+Shimla,10,2,0,0,Autumn,0.65,Medium
+Alibaug,7,2,0,0,Monsoon,0.11,Low
+Kovalam,6,0,0,0,Monsoon,0.28,Low
+Jaipur,12,4,0,0,Winter,0.56,Medium
+Munnar,6,0,0,0,Monsoon,0.34,Low
+Nainital,7,1,0,0,Monsoon,0.19,Low
+Pushkar,6,5,1,0,Monsoon,0.4,Low
+Hampi,11,5,1,0,Winter,0.77,High
+Chopta,12,1,0,0,Winter,0.28,Low
+Valley of Flowers,4,6,1,0,Summer,0.46,Low
+Leh,9,4,0,0,Autumn,0.31,Low
+Munnar,11,4,0,0,Winter,0.26,Low
+Munnar,10,5,1,0,Autumn,0.42,Low
+Alibaug,3,1,0,0,Spring,0.28,Low
+Kasol,5,2,0,0,Summer,0.59,Medium
+Kochi,2,1,0,0,Winter,0.28,Low
+South Goa,10,0,0,0,Autumn,0.3,Low
+South Goa,9,3,0,0,Autumn,0.32,Low
+Shimla,4,4,0,0,Summer,0.32,Low
+Jaisalmer,8,4,0,0,Monsoon,0.17,Low
+Kochi,9,5,1,0,Autumn,0.4,Low
+Kovalam,9,5,1,0,Autumn,0.42,Low
+Hampi,5,1,0,0,Summer,0.33,Low
+Varkala,1,1,0,0,Winter,0.69,Medium
+Hampi,8,1,0,0,Monsoon,0.2,Low
+Shimla,5,0,0,0,Summer,0.66,Medium
+Mussoorie,3,5,1,0,Spring,0.49,Low
+Jaipur,12,5,1,0,Winter,0.73,High
+Valley of Flowers,11,2,0,0,Winter,0.24,Low
+Kedarnath,3,1,0,0,Spring,0.38,Low
+Dharamshala,12,6,1,0,Winter,0.51,Medium
+Leh,9,3,0,0,Autumn,0.37,Low
+Mussoorie,4,2,0,0,Summer,0.3,Low
+Alleppey,4,2,0,0,Summer,0.37,Low
+Spiti Valley,5,3,0,0,Summer,0.58,Medium
+Srinagar,8,1,0,0,Monsoon,0.17,Low
+Coorg,11,2,0,0,Winter,0.36,Low
+Spiti Valley,8,1,0,0,Monsoon,0.14,Low
+Jim Corbett,3,0,0,0,Spring,0.3,Low
+Kaza,5,3,0,0,Summer,0.61,Medium
+Kullu,8,2,0,1,Monsoon,0.32,Low
+Coorg,4,5,1,1,Summer,0.68,Medium
+Nubra Valley,9,2,0,0,Autumn,0.3,Low
+Ranthambore,4,2,0,1,Summer,0.5,Medium
+Ranthambore,6,2,0,0,Monsoon,0.38,Low
+Nainital,7,1,0,0,Monsoon,0.11,Low
+Kochi,2,6,1,0,Winter,0.44,Low
+Kasol,9,5,1,0,Autumn,0.4,Low
+Alleppey,9,1,0,1,Autumn,0.46,Low
+Spiti Valley,4,1,0,0,Summer,0.24,Low
+Kochi,6,6,1,0,Monsoon,0.42,Low
+Mount Abu,7,0,0,0,Monsoon,0.17,Low
+Mussoorie,1,3,0,0,Winter,0.29,Low
+Ooty,5,2,0,0,Summer,0.61,Medium
+Kullu,10,3,0,0,Autumn,0.35,Low
+South Goa,12,2,0,0,Winter,0.63,Medium
+Alleppey,12,1,0,0,Winter,0.37,Low
+Dharamshala,11,1,0,0,Winter,0.28,Low
+Hampi,12,2,0,0,Winter,0.56,Medium
+Jaipur,6,5,1,0,Monsoon,0.53,Medium
+Bir Billing,3,4,0,0,Spring,0.36,Low
+Jaipur,10,6,1,0,Autumn,0.78,High
+Ooty,3,0,0,0,Spring,0.34,Low
+Munnar,6,1,0,1,Monsoon,0.55,Medium
+Gulmarg,7,6,1,0,Monsoon,0.37,Low
+Thekkady,6,4,0,0,Monsoon,0.24,Low
+Badrinath,2,0,0,0,Winter,0.61,Medium
+Munnar,3,5,1,0,Spring,0.52,Medium
+Spiti Valley,1,2,0,0,Winter,0.27,Low
+Wayanad,11,2,0,0,Winter,0.27,Low
+Alleppey,7,2,0,0,Monsoon,0.18,Low
+Pahalgam,1,6,1,0,Winter,0.44,Low
+South Goa,9,2,0,0,Autumn,0.36,Low
+Wayanad,12,6,1,1,Winter,0.65,Medium
+Valley of Flowers,4,4,0,0,Summer,0.31,Low
+North Goa,9,4,0,0,Autumn,0.3,Low
+Wayanad,9,6,1,0,Autumn,0.49,Low
+Manali,7,0,0,0,Monsoon,0.17,Low
+Chikmagalur,1,4,0,0,Winter,0.31,Low
+Kasol,6,5,1,0,Monsoon,0.69,Medium
+Alibaug,9,4,0,0,Autumn,0.24,Low
+Manali,8,3,0,0,Monsoon,0.13,Low
+Mount Abu,2,2,0,0,Winter,0.24,Low
+Tarkarli,4,1,0,0,Summer,0.27,Low
+Jaisalmer,8,0,0,0,Monsoon,0.2,Low
+Tarkarli,3,2,0,0,Spring,0.26,Low
+Coorg,3,6,1,0,Spring,0.47,Low
+Bir Billing,4,1,0,0,Summer,0.35,Low
+Jibhi,12,2,0,0,Winter,0.29,Low
+Kedarnath,11,6,1,0,Winter,0.66,Medium
+Chikmagalur,2,3,0,0,Winter,0.27,Low
+Jibhi,2,1,0,0,Winter,0.23,Low
+Mysore,6,2,0,0,Monsoon,0.28,Low
+Mount Abu,6,0,0,0,Monsoon,0.55,Medium
+Jaipur,12,0,0,1,Winter,0.78,High
+Nubra Valley,9,0,0,0,Autumn,0.31,Low
+Haridwar,8,3,0,0,Monsoon,0.23,Low
+Ranthambore,4,0,0,0,Summer,0.33,Low
+Gulmarg,2,5,1,0,Winter,0.53,Medium
+Pangong Lake,1,3,0,0,Winter,0.32,Low
+Kasol,5,0,0,0,Summer,0.55,Medium
+Thekkady,5,0,0,0,Summer,0.35,Low
+Bir Billing,3,0,0,0,Spring,0.27,Low
+Udaipur,12,5,1,0,Winter,0.68,Medium
+Varkala,5,1,0,0,Summer,0.28,Low
+Leh,1,0,0,0,Winter,0.26,Low
+Haridwar,2,1,0,0,Winter,0.55,Medium
+Udaipur,7,3,0,0,Monsoon,0.18,Low
+Pangong Lake,10,6,1,0,Autumn,0.51,Medium
+Mussoorie,7,1,0,0,Monsoon,0.24,Low
+Dharamshala,10,2,0,0,Autumn,0.53,Medium
+Mount Abu,6,1,0,0,Monsoon,0.59,Medium
+Tarkarli,11,4,0,1,Winter,0.47,Low
+Dharamshala,2,6,1,0,Winter,0.39,Low
+Mount Abu,8,0,0,0,Monsoon,0.19,Low
+Pushkar,12,6,1,0,Winter,0.71,High
+Badrinath,7,3,0,0,Monsoon,0.15,Low
+Valley of Flowers,12,6,1,0,Winter,0.41,Low
+Ooty,1,4,0,0,Winter,0.34,Low
+Haridwar,3,6,1,0,Spring,0.42,Low
+Jaipur,10,3,0,0,Autumn,0.6,Medium
+Coorg,11,3,0,0,Winter,0.31,Low
+Kaza,4,3,0,0,Summer,0.34,Low
+Tarkarli,12,5,1,0,Winter,0.39,Low
+Dalhousie,4,1,0,0,Summer,0.34,Low
+Pangong Lake,2,4,0,0,Winter,0.34,Low
+Chopta,7,0,0,0,Monsoon,0.18,Low
+Kaza,8,2,0,0,Monsoon,0.1,Low
+Leh,12,5,1,0,Winter,0.45,Low
+North Goa,3,3,0,0,Spring,0.37,Low
+Udaipur,12,4,0,0,Winter,0.54,Medium
+Jim Corbett,11,6,1,0,Winter,0.49,Low
+Kaza,6,4,0,0,Monsoon,0.54,Medium
+Pangong Lake,3,0,0,0,Spring,0.29,Low
+Udaipur,1,2,0,0,Winter,0.51,Medium
+Kaza,5,0,0,0,Summer,0.61,Medium
+Jaipur,6,3,0,0,Monsoon,0.26,Low
+Pangong Lake,1,2,0,0,Winter,0.29,Low
+Hampi,1,3,0,0,Winter,0.57,Medium
+Pangong Lake,7,5,1,1,Monsoon,0.59,Medium
+Ooty,12,1,0,1,Winter,0.46,Low
+Coorg,8,6,1,0,Monsoon,0.33,Low
+Pushkar,7,3,0,0,Monsoon,0.18,Low
+Jim Corbett,8,3,0,0,Monsoon,0.23,Low
+Nainital,5,6,1,0,Summer,0.5,Medium
+Rishikesh,8,4,0,0,Monsoon,0.22,Low
+Nainital,9,5,1,0,Autumn,0.44,Low
+Bir Billing,3,6,1,0,Spring,0.39,Low
+Bir Billing,3,2,0,0,Spring,0.3,Low
+Gokarna,8,3,0,0,Monsoon,0.19,Low
+Chopta,11,6,1,0,Winter,0.39,Low
+Valley of Flowers,12,6,1,1,Winter,0.67,Medium
+Kullu,3,6,1,0,Spring,0.42,Low
+Dalhousie,12,0,0,0,Winter,0.21,Low
+Udaipur,8,6,1,0,Monsoon,0.3,Low
+North Goa,7,4,0,0,Monsoon,0.2,Low
+Shimla,7,6,1,0,Monsoon,0.32,Low
+Nubra Valley,6,3,0,0,Monsoon,0.62,Medium
+Chikmagalur,12,6,1,0,Winter,0.48,Low
+Srinagar,2,1,0,1,Winter,0.47,Low
+Pahalgam,3,4,0,1,Spring,0.49,Low
+Jaipur,5,3,0,0,Summer,0.25,Low
+Jaipur,10,3,0,0,Autumn,0.63,Medium
+Mysore,3,5,1,0,Spring,0.44,Low
+Ranthambore,1,3,0,0,Winter,0.28,Low
+Gokarna,2,1,0,0,Winter,0.31,Low
+Gulmarg,7,5,1,0,Monsoon,0.3,Low
+Chopta,4,2,0,0,Summer,0.24,Low
+Tarkarli,1,2,0,0,Winter,0.32,Low
+Jaipur,4,5,1,0,Summer,0.52,Medium
+Leh,3,2,0,0,Spring,0.26,Low
+Dharamshala,1,2,0,0,Winter,0.33,Low
+Mysore,1,5,1,0,Winter,0.69,Medium
+Jaipur,1,2,0,0,Winter,0.51,Medium
+Srinagar,10,1,0,0,Autumn,0.28,Low
+Wayanad,11,4,0,0,Winter,0.37,Low
+Wayanad,9,1,0,0,Autumn,0.36,Low
+Ranthambore,1,1,0,0,Winter,0.3,Low
+Mysore,7,3,0,0,Monsoon,0.22,Low
+Rishikesh,9,4,0,0,Autumn,0.34,Low
+North Goa,2,2,0,0,Winter,0.34,Low
+Pahalgam,7,6,1,0,Monsoon,0.36,Low
+Bir Billing,12,3,0,0,Winter,0.35,Low
+Leh,5,5,1,0,Summer,0.79,High
+Nubra Valley,2,5,1,0,Winter,0.44,Low
+Gokarna,4,1,0,0,Summer,0.29,Low
+Wayanad,5,2,0,0,Summer,0.27,Low
+Kovalam,5,1,0,1,Summer,0.45,Low
+Kaza,7,3,0,0,Monsoon,0.2,Low
+Gulmarg,7,3,0,0,Monsoon,0.24,Low
+Bir Billing,6,2,0,0,Monsoon,0.6,Medium
+Jaipur,1,4,0,0,Winter,0.54,Medium
+Kasol,6,3,0,0,Monsoon,0.63,Medium
+Jaipur,1,6,1,0,Winter,0.78,High
+Pushkar,9,1,0,0,Autumn,0.31,Low
+Bir Billing,5,5,1,0,Summer,0.7,Medium
+Jodhpur,5,4,0,0,Summer,0.26,Low
+Munnar,8,5,1,0,Monsoon,0.3,Low
+Ranthambore,4,0,0,0,Summer,0.32,Low
+Alleppey,7,4,0,0,Monsoon,0.21,Low
+Pangong Lake,6,6,1,0,Monsoon,0.43,Low
+Pushkar,5,6,1,0,Summer,0.43,Low
+Gokarna,10,5,1,0,Autumn,0.42,Low
+Gokarna,7,4,0,0,Monsoon,0.15,Low
+Jim Corbett,12,4,0,1,Winter,0.47,Low
+North Goa,5,0,0,0,Summer,0.31,Low
+Alibaug,6,2,0,0,Monsoon,0.32,Low
+Hampi,8,1,0,0,Monsoon,0.14,Low
+Wayanad,7,5,1,0,Monsoon,0.39,Low
+Pushkar,11,1,0,0,Winter,0.52,Medium
+Udaipur,2,1,0,0,Winter,0.52,Medium
+Wayanad,4,6,1,0,Summer,0.45,Low
+Pangong Lake,4,4,0,0,Summer,0.31,Low
+Wayanad,10,2,0,0,Autumn,0.3,Low
+Ooty,10,3,0,0,Autumn,0.6,Medium
+Kovalam,7,2,0,0,Monsoon,0.16,Low
+Ranthambore,2,4,0,0,Winter,0.25,Low
+Pushkar,6,1,0,0,Monsoon,0.3,Low
+Bir Billing,11,4,0,0,Winter,0.31,Low
+Ooty,11,6,1,0,Winter,0.4,Low
+Ranthambore,6,3,0,0,Monsoon,0.35,Low
+Chopta,5,0,0,0,Summer,0.54,Medium
+Dharamshala,10,0,0,0,Autumn,0.63,Medium
+Nainital,7,4,0,0,Monsoon,0.24,Low
+Pushkar,3,6,1,0,Spring,0.48,Low
+Mount Abu,12,6,1,0,Winter,0.4,Low
+Nainital,3,3,0,0,Spring,0.36,Low
+Mussoorie,2,4,0,0,Winter,0.3,Low
+Valley of Flowers,4,3,0,0,Summer,0.37,Low
+Chikmagalur,3,0,0,1,Spring,0.48,Low
+Kovalam,10,3,0,0,Autumn,0.29,Low
+Leh,7,4,0,0,Monsoon,0.17,Low
+Coorg,8,6,1,0,Monsoon,0.27,Low
+Alleppey,9,1,0,0,Autumn,0.36,Low
+Mysore,5,5,1,0,Summer,0.4,Low
+Nubra Valley,5,3,0,1,Summer,0.81,High
+Pahalgam,1,0,0,0,Winter,0.34,Low
+Pangong Lake,6,1,0,0,Monsoon,0.38,Low
+Kasol,1,2,0,0,Winter,0.29,Low
+Varkala,9,3,0,0,Autumn,0.35,Low
+Alleppey,3,1,0,0,Spring,0.27,Low
+Mysore,1,0,0,0,Winter,0.61,Medium
+Pahalgam,12,5,1,0,Winter,0.46,Low
+Jodhpur,5,5,1,0,Summer,0.43,Low
+Wayanad,1,0,0,0,Winter,0.36,Low
+Auli,5,1,0,1,Summer,0.77,High
+Hampi,9,3,0,0,Autumn,0.28,Low
+Ranthambore,1,2,0,0,Winter,0.3,Low
+North Goa,8,5,1,0,Monsoon,0.41,Low
+Coorg,11,4,0,0,Winter,0.31,Low
+Nubra Valley,3,0,0,0,Spring,0.3,Low
+Bir Billing,3,1,0,1,Spring,0.46,Low
+Gulmarg,9,1,0,0,Autumn,0.3,Low
+Leh,10,4,0,0,Autumn,0.64,Medium
+Thekkady,11,5,1,0,Winter,0.47,Low
+Pahalgam,9,6,1,0,Autumn,0.5,Medium
+Udaipur,7,5,1,0,Monsoon,0.38,Low
+Kaza,1,4,0,0,Winter,0.23,Low
+Shimla,3,0,0,0,Spring,0.24,Low
+Kovalam,6,0,0,0,Monsoon,0.35,Low
+Haridwar,10,4,0,0,Autumn,0.56,Medium
+Chopta,9,4,0,1,Autumn,0.45,Low
+Manali,11,6,1,0,Winter,0.43,Low
+Jodhpur,5,0,0,0,Summer,0.3,Low
+Kovalam,5,1,0,0,Summer,0.26,Low
+Kullu,11,3,0,0,Winter,0.26,Low
+Nubra Valley,2,6,1,0,Winter,0.45,Low
+Dalhousie,4,1,0,0,Summer,0.24,Low
+Nainital,10,2,0,1,Autumn,0.54,Medium
+Tarkarli,8,6,1,0,Monsoon,0.25,Low
+Mussoorie,3,6,1,0,Spring,0.43,Low
+Mount Abu,12,0,0,0,Winter,0.28,Low
+Nubra Valley,11,3,0,0,Winter,0.36,Low
+Gulmarg,11,0,0,0,Winter,0.33,Low
+North Goa,9,1,0,0,Autumn,0.27,Low
+Shimla,5,2,0,0,Summer,0.54,Medium
+Kochi,8,6,1,0,Monsoon,0.38,Low
+Munnar,4,0,0,0,Summer,0.36,Low
+Dharamshala,2,4,0,0,Winter,0.23,Low
+Pahalgam,3,3,0,0,Spring,0.25,Low
+Gokarna,8,3,0,0,Monsoon,0.16,Low
+Nainital,3,2,0,0,Spring,0.3,Low
+Gulmarg,12,0,0,0,Winter,0.38,Low
+North Goa,5,0,0,1,Summer,0.57,Medium
+Alibaug,6,6,1,0,Monsoon,0.5,Low
+Wayanad,12,1,0,0,Winter,0.27,Low
+Nainital,12,2,0,0,Winter,0.35,Low
+Shimla,12,5,1,0,Winter,0.51,Medium
+Dalhousie,6,4,0,0,Monsoon,0.3,Low
+Jibhi,1,4,0,0,Winter,0.27,Low
+Thekkady,5,6,1,0,Summer,0.39,Low
+Mussoorie,12,4,0,0,Winter,0.34,Low
+Gulmarg,12,4,0,0,Winter,0.28,Low
+Spiti Valley,2,5,1,0,Winter,0.43,Low
+Nubra Valley,12,0,0,0,Winter,0.25,Low
+Nainital,1,4,0,0,Winter,0.31,Low
+Kullu,8,4,0,1,Monsoon,0.34,Low
+Kullu,4,2,0,0,Summer,0.28,Low
+Valley of Flowers,8,6,1,0,Monsoon,0.4,Low
+Kaza,1,5,1,0,Winter,0.44,Low
+Mysore,4,3,0,0,Summer,0.34,Low
+Tarkarli,3,2,0,0,Spring,0.28,Low
+Nainital,8,6,1,0,Monsoon,0.34,Low
+Munnar,1,5,1,0,Winter,0.46,Low
+Alibaug,12,4,0,0,Winter,0.66,Medium
+Spiti Valley,2,5,1,0,Winter,0.51,Medium
+Varkala,4,3,0,1,Summer,0.52,Medium
+Hampi,2,3,0,0,Winter,0.55,Medium
+Kovalam,8,1,0,0,Monsoon,0.11,Low
+Kaza,12,2,0,1,Winter,0.51,Medium
+Jaipur,3,0,0,1,Spring,0.46,Low
+Gokarna,4,6,1,0,Summer,0.49,Low
+Tarkarli,2,2,0,0,Winter,0.3,Low
+Alibaug,4,4,0,0,Summer,0.33,Low
+Spiti Valley,6,6,1,0,Monsoon,0.81,High
+Thekkady,2,5,1,0,Winter,0.46,Low
+Jim Corbett,1,3,0,0,Winter,0.25,Low
+Tarkarli,8,1,0,0,Monsoon,0.16,Low
+Nainital,9,3,0,0,Autumn,0.24,Low
+Mysore,1,2,0,0,Winter,0.52,Medium
+Pushkar,11,3,0,0,Winter,0.48,Low
+Tarkarli,1,0,0,0,Winter,0.28,Low
+Thekkady,12,3,0,0,Winter,0.27,Low
+Coorg,8,3,0,0,Monsoon,0.2,Low
+Jaisalmer,9,6,1,0,Autumn,0.45,Low
+Ooty,10,4,0,0,Autumn,0.56,Medium
+North Goa,6,6,1,0,Monsoon,0.42,Low
+Kullu,12,3,0,0,Winter,0.25,Low
+South Goa,11,5,1,0,Winter,0.83,High
+Tarkarli,6,2,0,0,Monsoon,0.53,Medium
+Jim Corbett,4,2,0,0,Summer,0.26,Low
+Coorg,9,5,1,0,Autumn,0.44,Low
+Gulmarg,2,0,0,0,Winter,0.33,Low
+Wayanad,2,3,0,0,Winter,0.24,Low
+North Goa,11,3,0,0,Winter,0.64,Medium
+Dalhousie,6,4,0,0,Monsoon,0.31,Low
+Mysore,10,3,0,0,Autumn,0.6,Medium
+Kovalam,1,4,0,0,Winter,0.65,Medium
+Gulmarg,5,3,0,0,Summer,0.67,Medium
+Gulmarg,4,4,0,0,Summer,0.32,Low
+Mysore,8,6,1,0,Monsoon,0.29,Low
+Mussoorie,3,2,0,0,Spring,0.24,Low
+Coorg,2,0,0,0,Winter,0.33,Low
+Kullu,7,1,0,0,Monsoon,0.17,Low
+Alibaug,8,2,0,0,Monsoon,0.13,Low
+Tarkarli,4,0,0,0,Summer,0.31,Low
+Kovalam,6,5,1,0,Monsoon,0.43,Low
+Alleppey,2,5,1,0,Winter,0.47,Low
+Wayanad,5,2,0,0,Summer,0.32,Low
+Nubra Valley,5,6,1,0,Summer,0.71,High
+Mysore,1,3,0,0,Winter,0.55,Medium
+Alleppey,1,0,0,0,Winter,0.29,Low
+North Goa,5,1,0,0,Summer,0.28,Low
+Jaipur,8,0,0,0,Monsoon,0.14,Low
+Coorg,11,6,1,0,Winter,0.52,Medium
+Mussoorie,12,4,0,1,Winter,0.49,Low
+Pahalgam,4,2,0,0,Summer,0.32,Low
+Auli,3,5,1,0,Spring,0.42,Low
+Kochi,10,5,1,0,Autumn,0.44,Low
+Kullu,4,1,0,0,Summer,0.33,Low
+Jaipur,12,4,0,0,Winter,0.54,Medium
+Jibhi,4,1,0,0,Summer,0.3,Low
+Pahalgam,6,0,0,0,Monsoon,0.31,Low
+North Goa,4,5,1,0,Summer,0.52,Medium
+Pushkar,8,6,1,0,Monsoon,0.26,Low
+Jim Corbett,10,3,0,0,Autumn,0.3,Low
+Gokarna,11,2,0,0,Winter,0.68,Medium
+Mysore,7,5,1,0,Monsoon,0.31,Low
+Chopta,6,2,0,0,Monsoon,0.62,Medium
+Rishikesh,9,2,0,1,Autumn,0.46,Low
+Badrinath,8,3,0,0,Monsoon,0.18,Low
+Mysore,6,5,1,0,Monsoon,0.5,Medium
+Manali,7,3,0,0,Monsoon,0.2,Low
+Hampi,5,1,0,0,Summer,0.27,Low
+Mussoorie,7,4,0,0,Monsoon,0.22,Low
+Gokarna,1,0,0,0,Winter,0.66,Medium
+South Goa,8,1,0,0,Monsoon,0.15,Low
+South Goa,12,1,0,0,Winter,0.71,Medium
+Dharamshala,12,0,0,0,Winter,0.36,Low
+Wayanad,11,2,0,0,Winter,0.35,Low
+Kochi,4,4,0,0,Summer,0.26,Low
+Hampi,1,0,0,0,Winter,0.56,Medium
+Tarkarli,2,6,1,0,Winter,0.48,Low
+Hampi,7,5,1,0,Monsoon,0.29,Low
+Jaipur,10,2,0,0,Autumn,0.51,Medium
+Leh,12,0,0,0,Winter,0.29,Low
+Chopta,11,3,0,0,Winter,0.26,Low
+Dharamshala,4,6,1,0,Summer,0.48,Low
+Valley of Flowers,10,3,0,0,Autumn,0.25,Low
+Jim Corbett,3,1,0,0,Spring,0.28,Low
+Jaipur,4,6,1,0,Summer,0.46,Low
+Kochi,1,6,1,0,Winter,0.42,Low
+Kaza,12,6,1,0,Winter,0.46,Low
+Kochi,3,0,0,0,Spring,0.32,Low
+South Goa,10,0,0,0,Autumn,0.36,Low
+Srinagar,2,0,0,0,Winter,0.26,Low
+Shimla,6,5,1,0,Monsoon,0.71,High
+Wayanad,10,3,0,0,Autumn,0.33,Low
+Nubra Valley,3,1,0,0,Spring,0.27,Low
+Tarkarli,5,3,0,0,Summer,0.63,Medium
+Jodhpur,7,4,0,0,Monsoon,0.21,Low
+Mussoorie,5,6,1,0,Summer,0.78,High
+Badrinath,6,4,0,0,Monsoon,0.29,Low
+Pangong Lake,4,6,1,0,Summer,0.43,Low
+Jim Corbett,1,0,0,0,Winter,0.24,Low
+Jaisalmer,2,3,0,0,Winter,0.35,Low
+Kaza,4,2,0,0,Summer,0.25,Low
+Haridwar,12,5,1,0,Winter,0.77,High
+Jibhi,11,4,0,0,Winter,0.33,Low
+Tarkarli,5,0,0,0,Summer,0.52,Medium
+Jibhi,10,2,0,0,Autumn,0.29,Low
+Hampi,9,0,0,0,Autumn,0.35,Low
+Chopta,2,2,0,0,Winter,0.28,Low
+Jaipur,11,1,0,0,Winter,0.57,Medium
+Wayanad,5,6,1,0,Summer,0.47,Low
+Pushkar,4,6,1,0,Summer,0.47,Low
+Dalhousie,5,1,0,0,Summer,0.24,Low
+Srinagar,6,5,1,0,Monsoon,0.5,Medium
+Jibhi,3,5,1,0,Spring,0.46,Low
+Jaisalmer,7,3,0,1,Monsoon,0.39,Low
+Valley of Flowers,10,0,0,0,Autumn,0.37,Low
+Dalhousie,11,1,0,0,Winter,0.29,Low
+Leh,9,0,0,0,Autumn,0.29,Low
+South Goa,6,4,0,0,Monsoon,0.29,Low
+Kasol,5,4,0,0,Summer,0.63,Medium
+Gulmarg,7,0,0,0,Monsoon,0.18,Low
+Leh,5,5,1,0,Summer,0.81,High
+Nubra Valley,12,5,1,0,Winter,0.5,Medium
+Jaisalmer,6,2,0,0,Monsoon,0.36,Low
+Spiti Valley,3,1,0,0,Spring,0.25,Low
+Dalhousie,12,2,0,0,Winter,0.29,Low
+Chopta,1,5,1,0,Winter,0.38,Low
+Udaipur,3,4,0,0,Spring,0.29,Low
+Shimla,2,1,0,0,Winter,0.3,Low
+Ooty,3,0,0,0,Spring,0.27,Low
+Nainital,3,0,0,0,Spring,0.25,Low
+Dalhousie,11,4,0,0,Winter,0.26,Low
+Jaisalmer,12,4,0,0,Winter,0.29,Low
+Kochi,12,1,0,0,Winter,0.26,Low
+Dharamshala,12,5,1,0,Winter,0.42,Low
+Bir Billing,11,1,0,0,Winter,0.23,Low
+Jodhpur,8,2,0,0,Monsoon,0.18,Low
+Tarkarli,6,1,0,0,Monsoon,0.62,Medium
+Leh,3,2,0,0,Spring,0.37,Low
+Srinagar,6,5,1,0,Monsoon,0.48,Low
+Kullu,6,2,0,0,Monsoon,0.25,Low
+Jaipur,1,2,0,0,Winter,0.57,Medium
+Chopta,4,0,0,0,Summer,0.3,Low
+Gokarna,7,5,1,1,Monsoon,0.56,Medium
+Varkala,2,2,0,0,Winter,0.26,Low
+Mysore,12,0,0,0,Winter,0.58,Medium
+Tarkarli,4,1,0,0,Summer,0.26,Low
+Ranthambore,10,5,1,1,Autumn,0.62,Medium
+Pahalgam,1,4,0,0,Winter,0.36,Low
+Mussoorie,10,2,0,0,Autumn,0.57,Medium
+Pahalgam,1,5,1,0,Winter,0.49,Low
+Varkala,3,4,0,0,Spring,0.27,Low
+Dharamshala,5,3,0,0,Summer,0.59,Medium
+Kasol,10,4,0,0,Autumn,0.64,Medium
+Gokarna,4,2,0,1,Summer,0.43,Low
+North Goa,4,2,0,0,Summer,0.26,Low
+Jaisalmer,6,2,0,0,Monsoon,0.31,Low
+Kasol,2,2,0,0,Winter,0.35,Low
+Gulmarg,1,1,0,0,Winter,0.31,Low
+Haridwar,7,4,0,0,Monsoon,0.12,Low
+Bir Billing,2,0,0,0,Winter,0.26,Low
+Alibaug,9,0,0,0,Autumn,0.32,Low
+Ooty,11,2,0,0,Winter,0.3,Low
+Mussoorie,5,5,1,0,Summer,0.68,Medium
+Udaipur,7,6,1,0,Monsoon,0.4,Low
+Valley of Flowers,10,0,0,0,Autumn,0.36,Low
+Leh,12,2,0,0,Winter,0.38,Low
+Hampi,10,0,0,0,Autumn,0.55,Medium
+Chopta,4,3,0,0,Summer,0.33,Low
+Mussoorie,2,4,0,0,Winter,0.37,Low
+Auli,2,5,1,0,Winter,0.4,Low
+Dharamshala,9,0,0,0,Autumn,0.36,Low
+Dharamshala,4,4,0,0,Summer,0.25,Low
+Hampi,9,0,0,0,Autumn,0.38,Low
+Mysore,8,6,1,0,Monsoon,0.35,Low
+North Goa,2,6,1,0,Winter,0.46,Low
+Ooty,8,0,0,0,Monsoon,0.17,Low
+Nubra Valley,7,4,0,0,Monsoon,0.16,Low
+Mussoorie,4,0,0,0,Summer,0.24,Low
+South Goa,4,1,0,0,Summer,0.26,Low
+Nainital,8,1,0,0,Monsoon,0.19,Low
+Dharamshala,2,6,1,0,Winter,0.38,Low
+Valley of Flowers,4,4,0,0,Summer,0.29,Low
+Alleppey,9,4,0,0,Autumn,0.32,Low
+Haridwar,9,2,0,0,Autumn,0.28,Low
+Auli,8,1,0,0,Monsoon,0.21,Low
+Manali,2,6,1,0,Winter,0.5,Low
+Kochi,6,4,0,0,Monsoon,0.3,Low
+Shimla,1,1,0,0,Winter,0.27,Low
+Rishikesh,1,0,0,0,Winter,0.33,Low
+Nubra Valley,11,4,0,0,Winter,0.36,Low
+Kasol,2,3,0,0,Winter,0.28,Low
+Kovalam,6,2,0,0,Monsoon,0.27,Low
+Wayanad,9,0,0,0,Autumn,0.36,Low
+Jaisalmer,11,3,0,0,Winter,0.26,Low
+Rishikesh,7,6,1,0,Monsoon,0.31,Low
+Jim Corbett,7,3,0,0,Monsoon,0.21,Low
+Kedarnath,11,6,1,0,Winter,0.66,Medium
+Mount Abu,1,0,0,0,Winter,0.24,Low
+Pangong Lake,5,4,0,0,Summer,0.38,Low
+Kochi,10,3,0,0,Autumn,0.37,Low
+North Goa,10,2,0,0,Autumn,0.3,Low
+Leh,3,3,0,0,Spring,0.28,Low
+Jodhpur,8,6,1,0,Monsoon,0.27,Low
+Leh,4,3,0,0,Summer,0.3,Low
+Pahalgam,7,1,0,0,Monsoon,0.18,Low
+Kedarnath,4,6,1,0,Summer,0.48,Low
+Spiti Valley,10,0,0,1,Autumn,0.83,High
+Chikmagalur,1,0,0,0,Winter,0.25,Low
+Spiti Valley,3,3,0,0,Spring,0.35,Low
+Nubra Valley,7,1,0,0,Monsoon,0.2,Low
+Chikmagalur,8,4,0,0,Monsoon,0.14,Low
+Bir Billing,3,5,1,0,Spring,0.44,Low
+Nainital,2,3,0,0,Winter,0.26,Low
+Ranthambore,5,6,1,0,Summer,0.48,Low
+Spiti Valley,12,4,0,0,Winter,0.33,Low
+Chopta,8,4,0,0,Monsoon,0.21,Low
+Kochi,2,1,0,0,Winter,0.26,Low
+Spiti Valley,11,3,0,0,Winter,0.28,Low
+Tarkarli,11,6,1,0,Winter,0.47,Low
+Alibaug,10,5,1,1,Autumn,0.57,Medium
+Haridwar,12,4,0,0,Winter,0.51,Medium
+Munnar,5,0,0,0,Summer,0.34,Low
+Pahalgam,1,4,0,0,Winter,0.36,Low
+Auli,4,0,0,0,Summer,0.31,Low
+Dharamshala,4,6,1,0,Summer,0.4,Low
+Badrinath,3,4,0,0,Spring,0.35,Low
+Ranthambore,1,2,0,0,Winter,0.33,Low
+Jim Corbett,5,2,0,0,Summer,0.36,Low
+Nubra Valley,4,6,1,0,Summer,0.44,Low
+Pushkar,5,4,0,0,Summer,0.27,Low
+Kullu,4,0,0,0,Summer,0.22,Low
+Ooty,6,1,0,0,Monsoon,0.63,Medium
+Wayanad,9,0,0,0,Autumn,0.34,Low
+Pahalgam,9,4,0,1,Autumn,0.45,Low
+Hampi,9,4,0,0,Autumn,0.26,Low
+Kochi,9,1,0,0,Autumn,0.27,Low
+Leh,2,0,0,0,Winter,0.33,Low
+Coorg,3,1,0,0,Spring,0.28,Low
+Thekkady,5,2,0,0,Summer,0.26,Low
+Pushkar,7,4,0,0,Monsoon,0.11,Low
+Dalhousie,11,1,0,0,Winter,0.25,Low
+Kasol,8,1,0,1,Monsoon,0.3,Low
+Dalhousie,5,1,0,0,Summer,0.27,Low
+Jodhpur,5,5,1,0,Summer,0.43,Low
+Chikmagalur,6,6,1,0,Monsoon,0.8,High
+Jodhpur,4,6,1,0,Summer,0.39,Low
+Jaipur,6,5,1,0,Monsoon,0.52,Medium
+Jaisalmer,7,2,0,0,Monsoon,0.13,Low
+Leh,12,4,0,1,Winter,0.49,Low
+Pahalgam,6,5,1,0,Monsoon,0.41,Low
+Jodhpur,3,6,1,0,Spring,0.42,Low
+Spiti Valley,4,3,0,1,Summer,0.44,Low
+Dalhousie,5,3,0,0,Summer,0.23,Low
+Nainital,11,1,0,0,Winter,0.36,Low
+Kovalam,5,2,0,0,Summer,0.24,Low
+Pangong Lake,12,6,1,0,Winter,0.46,Low
+Chopta,2,4,0,0,Winter,0.33,Low
+Badrinath,1,0,0,0,Winter,0.59,Medium
+North Goa,12,6,1,0,Winter,0.83,High
+Munnar,5,6,1,0,Summer,0.51,Medium
+Jaisalmer,10,3,0,0,Autumn,0.34,Low
+Tarkarli,1,6,1,0,Winter,0.43,Low
+South Goa,10,3,0,0,Autumn,0.33,Low
+Dalhousie,4,0,0,0,Summer,0.33,Low
+Shimla,11,4,0,0,Winter,0.34,Low
+Gulmarg,8,2,0,0,Monsoon,0.25,Low
+Kullu,7,6,1,0,Monsoon,0.29,Low
+Srinagar,7,3,0,1,Monsoon,0.39,Low
+Udaipur,7,3,0,0,Monsoon,0.2,Low
+Gulmarg,2,5,1,0,Winter,0.42,Low
+Mussoorie,9,6,1,0,Autumn,0.47,Low
+Leh,8,4,0,0,Monsoon,0.14,Low
+Gulmarg,5,5,1,0,Summer,0.74,High
+Shimla,7,4,0,0,Monsoon,0.19,Low
+Dalhousie,2,4,0,0,Winter,0.22,Low
+Nubra Valley,11,6,1,0,Winter,0.46,Low
+South Goa,8,1,0,0,Monsoon,0.26,Low
+Gokarna,6,0,0,0,Monsoon,0.32,Low
+Pangong Lake,7,3,0,0,Monsoon,0.22,Low
+Kovalam,7,4,0,0,Monsoon,0.1,Low
+Mussoorie,2,6,1,0,Winter,0.48,Low
+Chopta,3,5,1,0,Spring,0.4,Low
+Varkala,11,3,0,0,Winter,0.62,Medium
+Bir Billing,4,6,1,0,Summer,0.46,Low
+Pahalgam,8,0,0,1,Monsoon,0.36,Low
+Chopta,6,0,0,0,Monsoon,0.54,Medium
+Badrinath,11,0,0,0,Winter,0.57,Medium
+Jodhpur,9,4,0,0,Autumn,0.27,Low
+Mussoorie,9,0,0,0,Autumn,0.33,Low
+Pangong Lake,1,2,0,1,Winter,0.49,Low
+Kovalam,3,5,1,0,Spring,0.4,Low
+Alibaug,3,1,0,0,Spring,0.34,Low
+Coorg,6,1,0,0,Monsoon,0.26,Low
+Manali,12,4,0,0,Winter,0.29,Low
+Nainital,12,3,0,0,Winter,0.34,Low
+Dharamshala,7,3,0,0,Monsoon,0.23,Low
+Tarkarli,11,0,0,0,Winter,0.29,Low
+Auli,1,1,0,0,Winter,0.33,Low
+Pushkar,5,2,0,0,Summer,0.34,Low
+Kasol,9,6,1,0,Autumn,0.41,Low
+Coorg,7,4,0,0,Monsoon,0.19,Low
+North Goa,2,6,1,0,Winter,0.53,Medium
+Badrinath,10,5,1,0,Autumn,0.67,Medium
+Valley of Flowers,3,3,0,0,Spring,0.35,Low
+Tarkarli,2,3,0,0,Winter,0.33,Low
+Auli,8,5,1,0,Monsoon,0.37,Low
+Shimla,1,2,0,0,Winter,0.3,Low
+Manali,3,5,1,0,Spring,0.52,Medium
+Gokarna,12,1,0,0,Winter,0.64,Medium
+Alibaug,8,0,0,0,Monsoon,0.21,Low
+Jodhpur,8,0,0,0,Monsoon,0.16,Low
+Rishikesh,12,2,0,0,Winter,0.38,Low
+Chopta,4,0,0,1,Summer,0.54,Medium
+Alleppey,10,1,0,0,Autumn,0.27,Low
+Auli,7,3,0,0,Monsoon,0.15,Low
+Dharamshala,1,4,0,0,Winter,0.32,Low
+Ooty,11,5,1,0,Winter,0.46,Low
+Tarkarli,9,1,0,0,Autumn,0.33,Low
+Kullu,9,0,0,0,Autumn,0.25,Low
+Shimla,8,0,0,0,Monsoon,0.18,Low
+Gokarna,11,1,0,0,Winter,0.69,Medium
+Mysore,5,2,0,1,Summer,0.54,Medium
+Gokarna,3,3,0,0,Spring,0.32,Low
+Munnar,9,6,1,0,Autumn,0.47,Low
+Gokarna,2,4,0,0,Winter,0.27,Low
+Gokarna,11,5,1,0,Winter,0.77,High
+Jodhpur,5,4,0,0,Summer,0.26,Low
+Rishikesh,9,3,0,0,Autumn,0.28,Low
+Gulmarg,1,2,0,0,Winter,0.38,Low
+Dalhousie,12,6,1,0,Winter,0.46,Low
+Chopta,3,3,0,0,Spring,0.34,Low
+South Goa,5,0,0,0,Summer,0.3,Low
+Dalhousie,3,2,0,0,Spring,0.22,Low
+Udaipur,11,0,0,0,Winter,0.53,Medium
+Wayanad,5,5,1,0,Summer,0.4,Low
+Gokarna,2,0,0,0,Winter,0.24,Low
+Pangong Lake,3,5,1,0,Spring,0.48,Low
+Pangong Lake,10,5,1,0,Autumn,0.43,Low
+Hampi,3,0,0,0,Spring,0.29,Low
+Nainital,12,0,0,0,Winter,0.28,Low
+Spiti Valley,5,0,0,0,Summer,0.65,Medium
+Jibhi,5,2,0,0,Summer,0.3,Low
+Mysore,5,0,0,0,Summer,0.35,Low
+North Goa,12,3,0,0,Winter,0.72,High
+Pangong Lake,12,0,0,0,Winter,0.32,Low
+Ooty,5,6,1,0,Summer,0.75,High
+Jibhi,8,5,1,0,Monsoon,0.31,Low
+Gokarna,10,3,0,1,Autumn,0.54,Medium
+Valley of Flowers,5,3,0,0,Summer,0.27,Low
+Chopta,5,5,1,0,Summer,0.68,Medium
+Alleppey,2,5,1,0,Winter,0.47,Low
+Chopta,12,1,0,0,Winter,0.24,Low
+Kaza,2,0,0,0,Winter,0.29,Low
+Gokarna,2,6,1,0,Winter,0.44,Low
+Nubra Valley,5,4,0,0,Summer,0.61,Medium
+Ranthambore,1,1,0,0,Winter,0.27,Low
+Alibaug,5,1,0,0,Summer,0.33,Low
+Jim Corbett,12,2,0,0,Winter,0.3,Low
+Jaipur,11,2,0,0,Winter,0.58,Medium
+Jibhi,3,2,0,0,Spring,0.33,Low
+Chikmagalur,2,3,0,0,Winter,0.27,Low
+Shimla,5,6,1,0,Summer,0.81,High
+Alibaug,6,6,1,0,Monsoon,0.38,Low
+Jim Corbett,11,2,0,0,Winter,0.36,Low
+Coorg,12,2,0,0,Winter,0.29,Low
+Pangong Lake,4,4,0,0,Summer,0.37,Low
+Dharamshala,2,1,0,0,Winter,0.23,Low
+Auli,4,2,0,0,Summer,0.31,Low
+Wayanad,10,4,0,0,Autumn,0.32,Low
+Munnar,8,2,0,0,Monsoon,0.19,Low
+Jaipur,5,3,0,0,Summer,0.32,Low
+Pangong Lake,8,6,1,0,Monsoon,0.36,Low
+Dalhousie,4,2,0,0,Summer,0.22,Low
+Tarkarli,12,2,0,0,Winter,0.25,Low
+Valley of Flowers,3,1,0,0,Spring,0.38,Low
+Kedarnath,12,2,0,0,Winter,0.52,Medium
+Thekkady,5,5,1,0,Summer,0.47,Low
+Jibhi,2,2,0,0,Winter,0.22,Low
+Chopta,10,4,0,0,Autumn,0.64,Medium
+Dharamshala,1,2,0,0,Winter,0.24,Low
+Alleppey,9,1,0,0,Autumn,0.26,Low
+Chopta,7,4,0,1,Monsoon,0.36,Low
+Dalhousie,9,1,0,0,Autumn,0.26,Low
+Alleppey,8,4,0,0,Monsoon,0.13,Low
+Jaisalmer,9,1,0,0,Autumn,0.26,Low
+South Goa,1,3,0,0,Winter,0.71,High
+Tarkarli,6,0,0,0,Monsoon,0.64,Medium
+Srinagar,5,2,0,0,Summer,0.37,Low
+Badrinath,1,1,0,0,Winter,0.58,Medium
+Valley of Flowers,3,5,1,0,Spring,0.5,Medium
+Kochi,11,4,0,0,Winter,0.29,Low
+Mussoorie,2,1,0,0,Winter,0.33,Low
+Bir Billing,6,2,0,0,Monsoon,0.56,Medium
+Alleppey,12,2,0,0,Winter,0.28,Low
+Badrinath,2,4,0,0,Winter,0.51,Medium
+Pangong Lake,6,2,0,0,Monsoon,0.29,Low
+Dharamshala,2,4,0,0,Winter,0.31,Low
+Ooty,1,1,0,0,Winter,0.25,Low
+Haridwar,3,5,1,0,Spring,0.46,Low
+Pangong Lake,2,2,0,0,Winter,0.37,Low
+Coorg,10,0,0,0,Autumn,0.26,Low
+Spiti Valley,11,3,0,0,Winter,0.28,Low
+South Goa,2,6,1,1,Winter,0.7,Medium
+Chopta,7,4,0,0,Monsoon,0.13,Low
+Kullu,2,3,0,0,Winter,0.22,Low
+Kullu,6,1,0,0,Monsoon,0.32,Low
+Kedarnath,6,0,0,0,Monsoon,0.3,Low
+Wayanad,10,4,0,0,Autumn,0.3,Low
+Dalhousie,4,5,1,0,Summer,0.38,Low
+Ooty,2,5,1,0,Winter,0.42,Low
+Mussoorie,5,5,1,0,Summer,0.73,High
+Nubra Valley,3,6,1,0,Spring,0.52,Medium
+Kovalam,7,1,0,1,Monsoon,0.32,Low
+Badrinath,5,0,0,0,Summer,0.25,Low
+Chopta,7,5,1,0,Monsoon,0.27,Low
+Gulmarg,12,4,0,0,Winter,0.32,Low
+Kedarnath,8,2,0,0,Monsoon,0.16,Low
+Kasol,1,3,0,0,Winter,0.24,Low
+Mussoorie,11,1,0,0,Winter,0.26,Low
+Kovalam,4,3,0,0,Summer,0.26,Low
+Jodhpur,6,0,0,0,Monsoon,0.33,Low
+Jodhpur,11,2,0,0,Winter,0.56,Medium
+Gulmarg,6,2,0,0,Monsoon,0.57,Medium
+Udaipur,9,5,1,0,Autumn,0.53,Medium
+Nubra Valley,2,1,0,0,Winter,0.38,Low
+Gulmarg,9,3,0,0,Autumn,0.37,Low
+Manali,8,6,1,0,Monsoon,0.37,Low
+Munnar,1,3,0,0,Winter,0.33,Low
+Thekkady,11,4,0,0,Winter,0.36,Low
+Haridwar,7,3,0,0,Monsoon,0.14,Low
+Auli,10,5,1,0,Autumn,0.71,Medium
+North Goa,7,1,0,0,Monsoon,0.21,Low
+Gulmarg,5,3,0,1,Summer,0.81,High
+Nainital,2,2,0,0,Winter,0.33,Low
+Munnar,12,1,0,0,Winter,0.28,Low
+Kedarnath,3,3,0,0,Spring,0.32,Low
+Mysore,3,6,1,0,Spring,0.46,Low
+Ooty,6,3,0,0,Monsoon,0.62,Medium
+Nubra Valley,1,2,0,1,Winter,0.5,Medium
+Jaisalmer,5,2,0,0,Summer,0.37,Low
+Nubra Valley,5,4,0,1,Summer,0.75,High
+Ranthambore,9,1,0,0,Autumn,0.32,Low
+Kaza,5,6,1,0,Summer,0.79,High
+Jim Corbett,6,6,1,1,Monsoon,0.64,Medium
+Valley of Flowers,4,6,1,0,Summer,0.47,Low
+Jim Corbett,11,6,1,0,Winter,0.49,Low
+Nubra Valley,1,3,0,0,Winter,0.36,Low
+Mussoorie,9,5,1,0,Autumn,0.47,Low
+Munnar,3,4,0,0,Spring,0.38,Low
+Mysore,9,5,1,0,Autumn,0.43,Low
+Kedarnath,6,3,0,0,Monsoon,0.35,Low
+Manali,4,5,1,0,Summer,0.48,Low
+South Goa,7,4,0,0,Monsoon,0.18,Low
+Tarkarli,3,3,0,0,Spring,0.3,Low
+Valley of Flowers,9,0,0,0,Autumn,0.27,Low
+Varkala,7,2,0,0,Monsoon,0.24,Low
+North Goa,3,3,0,0,Spring,0.34,Low
+Hampi,6,4,0,0,Monsoon,0.34,Low
+Alleppey,12,4,0,0,Winter,0.36,Low
+Jim Corbett,7,2,0,0,Monsoon,0.17,Low
+Rishikesh,10,0,0,0,Autumn,0.61,Medium
+Chopta,5,0,0,0,Summer,0.53,Medium
+Kedarnath,8,6,1,0,Monsoon,0.35,Low
+Mussoorie,2,5,1,0,Winter,0.43,Low
+Pushkar,11,1,0,0,Winter,0.59,Medium
+Jibhi,11,5,1,0,Winter,0.46,Low
+Hampi,3,3,0,0,Spring,0.34,Low
+Mount Abu,1,2,0,0,Winter,0.3,Low
+Dalhousie,3,4,0,0,Spring,0.29,Low
+Leh,2,1,0,0,Winter,0.36,Low
+Pushkar,5,6,1,0,Summer,0.5,Low
+Jodhpur,6,3,0,0,Monsoon,0.34,Low
+Pangong Lake,6,0,0,0,Monsoon,0.29,Low
+Ooty,8,0,0,0,Monsoon,0.12,Low
+Rishikesh,4,6,1,0,Summer,0.42,Low
+Kovalam,3,2,0,1,Spring,0.51,Medium
+Nainital,2,5,1,0,Winter,0.38,Low
+Jim Corbett,6,4,0,0,Monsoon,0.27,Low
+Ooty,10,5,1,0,Autumn,0.82,High
+Alleppey,11,2,0,0,Winter,0.36,Low
+Thekkady,7,5,1,0,Monsoon,0.29,Low
+Kaza,5,0,0,0,Summer,0.58,Medium
+Jaisalmer,3,1,0,0,Spring,0.3,Low
+Spiti Valley,10,5,1,0,Autumn,0.79,High
+Srinagar,6,1,0,0,Monsoon,0.33,Low
+Alleppey,8,3,0,0,Monsoon,0.15,Low
+Wayanad,10,6,1,0,Autumn,0.43,Low
+Srinagar,6,6,1,0,Monsoon,0.42,Low
+Dharamshala,6,2,0,0,Monsoon,0.59,Medium
+Jodhpur,3,6,1,0,Spring,0.5,Low
+Kullu,3,4,0,0,Spring,0.31,Low
+Thekkady,10,3,0,0,Autumn,0.26,Low
+Leh,11,6,1,0,Winter,0.46,Low
+Wayanad,7,5,1,0,Monsoon,0.29,Low
+Manali,11,0,0,0,Winter,0.33,Low
+Mysore,6,2,0,0,Monsoon,0.3,Low
+Udaipur,4,1,0,0,Summer,0.31,Low
+Kullu,7,6,1,0,Monsoon,0.25,Low
+Pahalgam,12,3,0,0,Winter,0.36,Low
+Badrinath,9,5,1,0,Autumn,0.46,Low
+Ranthambore,1,1,0,0,Winter,0.27,Low
+Pangong Lake,4,6,1,0,Summer,0.5,Low
+Kasol,3,3,0,0,Spring,0.29,Low
+Kullu,11,3,0,0,Winter,0.28,Low
+Shimla,6,1,0,0,Monsoon,0.54,Medium
+Wayanad,9,3,0,0,Autumn,0.28,Low
+Nainital,9,4,0,0,Autumn,0.29,Low
+Kullu,8,1,0,0,Monsoon,0.21,Low
+Kasol,1,1,0,0,Winter,0.24,Low
+Chikmagalur,6,6,1,0,Monsoon,0.78,High
+Nainital,9,3,0,1,Autumn,0.45,Low
+Dalhousie,8,0,0,0,Monsoon,0.12,Low
+Mysore,12,4,0,0,Winter,0.54,Medium
+Shimla,10,3,0,1,Autumn,0.75,High
+Kochi,5,0,0,0,Summer,0.34,Low
+Kochi,2,5,1,0,Winter,0.44,Low
+Chopta,7,0,0,0,Monsoon,0.21,Low
+Gulmarg,11,2,0,0,Winter,0.37,Low
+Wayanad,1,6,1,0,Winter,0.45,Low
+Thekkady,12,1,0,1,Winter,0.46,Low
+Spiti Valley,2,1,0,0,Winter,0.36,Low
+Varkala,4,4,0,0,Summer,0.25,Low
+Ooty,7,5,1,0,Monsoon,0.35,Low
+Kullu,6,6,1,0,Monsoon,0.48,Low
+Auli,5,2,0,0,Summer,0.54,Medium
+Gokarna,10,3,0,1,Autumn,0.52,Medium
+Pushkar,2,5,1,0,Winter,0.69,Medium
+Ooty,7,3,0,0,Monsoon,0.12,Low
+Gokarna,1,3,0,0,Winter,0.62,Medium
+Gulmarg,12,0,0,0,Winter,0.29,Low
+Pahalgam,2,0,0,0,Winter,0.27,Low
+Hampi,5,0,0,0,Summer,0.35,Low
+Kochi,5,5,1,0,Summer,0.45,Low
+Shimla,5,1,0,0,Summer,0.66,Medium
+Chikmagalur,4,2,0,0,Summer,0.29,Low
+Mysore,3,6,1,0,Spring,0.4,Low
+Kochi,6,1,0,0,Monsoon,0.33,Low
+Dalhousie,2,1,0,0,Winter,0.22,Low
+Gokarna,2,1,0,0,Winter,0.31,Low
+Jibhi,7,2,0,0,Monsoon,0.12,Low
+Wayanad,3,3,0,0,Spring,0.26,Low
+Hampi,11,4,0,0,Winter,0.57,Medium
+Srinagar,7,0,0,0,Monsoon,0.18,Low
+Alleppey,5,2,0,0,Summer,0.32,Low
+Badrinath,8,0,0,0,Monsoon,0.24,Low
+Dalhousie,10,2,0,0,Autumn,0.3,Low
+Udaipur,6,4,0,0,Monsoon,0.39,Low
+Haridwar,10,5,1,0,Autumn,0.67,Medium
+Varkala,10,2,0,0,Autumn,0.24,Low
+Varkala,12,4,0,0,Winter,0.63,Medium
+Mount Abu,5,2,0,0,Summer,0.6,Medium
+Mysore,3,6,1,0,Spring,0.4,Low
+Pushkar,2,6,1,0,Winter,0.68,Medium
+Gulmarg,11,0,0,0,Winter,0.34,Low
+Kaza,9,3,0,1,Autumn,0.42,Low
+Spiti Valley,9,1,0,0,Autumn,0.35,Low
+Spiti Valley,1,4,0,1,Winter,0.54,Medium
+South Goa,12,4,0,0,Winter,0.68,Medium
+Chikmagalur,4,3,0,0,Summer,0.25,Low
+Dharamshala,5,3,0,1,Summer,0.79,High
+Badrinath,5,5,1,0,Summer,0.43,Low
+Jim Corbett,11,1,0,0,Winter,0.3,Low
+Dalhousie,12,0,0,0,Winter,0.31,Low
+Spiti Valley,2,0,0,0,Winter,0.29,Low
+Thekkady,11,6,1,0,Winter,0.43,Low
+Chikmagalur,9,5,1,0,Autumn,0.39,Low
+Gulmarg,6,0,0,0,Monsoon,0.6,Medium
+Thekkady,1,6,1,1,Winter,0.63,Medium
+Mount Abu,9,5,1,0,Autumn,0.5,Low
+Pushkar,11,3,0,0,Winter,0.58,Medium
+Valley of Flowers,4,3,0,0,Summer,0.27,Low
+Nainital,9,2,0,0,Autumn,0.36,Low
+Tarkarli,12,5,1,0,Winter,0.48,Low
+Badrinath,10,1,0,0,Autumn,0.57,Medium
+Spiti Valley,12,0,0,0,Winter,0.31,Low
+Kaza,8,3,0,0,Monsoon,0.22,Low
+Spiti Valley,10,5,1,0,Autumn,0.78,High
+Haridwar,8,3,0,0,Monsoon,0.13,Low
+Manali,3,6,1,0,Spring,0.49,Low
+Mussoorie,8,5,1,0,Monsoon,0.38,Low
+Jim Corbett,4,2,0,0,Summer,0.28,Low
+Kovalam,6,5,1,1,Monsoon,0.6,Medium
+Badrinath,1,5,1,1,Winter,0.87,High
+Udaipur,8,1,0,0,Monsoon,0.19,Low
+Alleppey,9,4,0,0,Autumn,0.27,Low
+Mount Abu,3,0,0,0,Spring,0.32,Low
+Kasol,8,3,0,0,Monsoon,0.21,Low
+Dharamshala,6,5,1,0,Monsoon,0.75,High
+Leh,6,4,0,0,Monsoon,0.64,Medium
+Jaisalmer,1,2,0,0,Winter,0.28,Low
+Jodhpur,8,3,0,0,Monsoon,0.25,Low
+Pushkar,12,1,0,0,Winter,0.53,Medium
+Badrinath,10,3,0,0,Autumn,0.62,Medium
+Ranthambore,1,1,0,0,Winter,0.31,Low
+Chikmagalur,8,6,1,0,Monsoon,0.33,Low
+Leh,8,0,0,0,Monsoon,0.14,Low
+Mysore,7,1,0,0,Monsoon,0.2,Low
+Nubra Valley,9,5,1,0,Autumn,0.42,Low
+Jim Corbett,5,1,0,0,Summer,0.35,Low
+Varkala,5,1,0,0,Summer,0.28,Low
+Thekkady,5,2,0,0,Summer,0.23,Low
+Varkala,11,5,1,0,Winter,0.78,High
+Mount Abu,9,4,0,0,Autumn,0.28,Low
+Munnar,10,6,1,0,Autumn,0.53,Medium
+Spiti Valley,10,0,0,0,Autumn,0.64,Medium
+Jim Corbett,4,5,1,1,Summer,0.61,Medium
+Jibhi,2,3,0,0,Winter,0.35,Low
+Valley of Flowers,12,4,0,0,Winter,0.3,Low
+Pahalgam,12,0,0,0,Winter,0.3,Low
+Kedarnath,1,6,1,0,Winter,0.74,High
+Chikmagalur,11,2,0,0,Winter,0.24,Low
+Auli,2,3,0,0,Winter,0.34,Low
+Chikmagalur,7,6,1,0,Monsoon,0.37,Low
+Ranthambore,1,0,0,1,Winter,0.46,Low
+Tarkarli,1,2,0,0,Winter,0.33,Low
+Badrinath,3,0,0,0,Spring,0.37,Low
+Udaipur,11,3,0,1,Winter,0.81,High
+Chikmagalur,9,0,0,0,Autumn,0.3,Low
+Srinagar,7,4,0,0,Monsoon,0.23,Low
+Hampi,9,5,1,0,Autumn,0.49,Low
+Kasol,9,4,0,0,Autumn,0.29,Low
+Kaza,5,1,0,0,Summer,0.58,Medium
+Haridwar,1,6,1,0,Winter,0.73,High
+Jaisalmer,3,1,0,0,Spring,0.33,Low
+Ooty,7,3,0,0,Monsoon,0.2,Low
+North Goa,12,6,1,0,Winter,0.75,High
+Mysore,6,5,1,1,Monsoon,0.64,Medium
+Gokarna,6,6,1,0,Monsoon,0.39,Low
+Chopta,12,3,0,0,Winter,0.28,Low
+Ranthambore,10,1,0,0,Autumn,0.26,Low
+Spiti Valley,12,4,0,0,Winter,0.28,Low
+Pangong Lake,2,3,0,0,Winter,0.31,Low
+Kasol,11,4,0,0,Winter,0.26,Low
+Kovalam,12,5,1,0,Winter,0.73,High
+Shimla,2,6,1,0,Winter,0.46,Low
+Srinagar,5,3,0,1,Summer,0.47,Low
+Kochi,6,4,0,0,Monsoon,0.32,Low
+Jaipur,4,2,0,0,Summer,0.27,Low
+Shimla,1,2,0,0,Winter,0.36,Low
+Nubra Valley,3,2,0,0,Spring,0.3,Low
+Kullu,11,2,0,0,Winter,0.31,Low
+Hampi,10,6,1,0,Autumn,0.65,Medium
+Gokarna,2,4,0,0,Winter,0.28,Low
+Chopta,1,2,0,0,Winter,0.28,Low
+Shimla,2,0,0,0,Winter,0.33,Low
+Kovalam,2,4,0,0,Winter,0.29,Low
+Spiti Valley,7,0,0,0,Monsoon,0.14,Low
+Kaza,10,5,1,0,Autumn,0.71,Medium
+Udaipur,7,6,1,0,Monsoon,0.33,Low
+Kochi,2,4,0,1,Winter,0.49,Low
+Leh,1,1,0,0,Winter,0.29,Low
+Coorg,4,3,0,0,Summer,0.26,Low
+Spiti Valley,5,1,0,0,Summer,0.62,Medium
+Coorg,7,0,0,0,Monsoon,0.24,Low
+Munnar,11,0,0,0,Winter,0.26,Low
+Coorg,3,0,0,0,Spring,0.35,Low
+Wayanad,10,1,0,0,Autumn,0.26,Low
+Jaisalmer,4,0,0,1,Summer,0.48,Low
+Haridwar,11,1,0,0,Winter,0.6,Medium
+Tarkarli,8,4,0,0,Monsoon,0.18,Low
+Jaisalmer,4,3,0,0,Summer,0.31,Low
+Udaipur,12,5,1,0,Winter,0.74,High
+Chopta,11,0,0,1,Winter,0.49,Low
+Valley of Flowers,6,1,0,1,Monsoon,0.44,Low
+Ooty,6,4,0,0,Monsoon,0.63,Medium
+Mussoorie,8,3,0,0,Monsoon,0.15,Low
+Dalhousie,4,1,0,0,Summer,0.33,Low
+Mount Abu,5,5,1,0,Summer,0.68,Medium
+Jibhi,6,2,0,0,Monsoon,0.34,Low
+Coorg,5,6,1,0,Summer,0.46,Low
+Spiti Valley,5,0,0,0,Summer,0.63,Medium
+Mysore,4,1,0,0,Summer,0.28,Low
+Ooty,7,6,1,0,Monsoon,0.3,Low
+Mussoorie,11,1,0,1,Winter,0.47,Low
+Wayanad,4,0,0,1,Summer,0.51,Medium
+Kovalam,4,3,0,0,Summer,0.25,Low
+Jaipur,8,5,1,0,Monsoon,0.29,Low
+Nainital,12,0,0,0,Winter,0.33,Low
+Leh,12,5,1,0,Winter,0.53,Medium
+Spiti Valley,2,0,0,0,Winter,0.32,Low
+Alibaug,9,1,0,0,Autumn,0.22,Low
+Pushkar,10,4,0,0,Autumn,0.51,Medium
+Dharamshala,10,5,1,0,Autumn,0.69,Medium
+Varkala,10,0,0,0,Autumn,0.32,Low
+Udaipur,1,1,0,1,Winter,0.79,High
+Mount Abu,3,4,0,0,Spring,0.3,Low
+Kochi,12,4,0,0,Winter,0.32,Low
+Badrinath,4,1,0,0,Summer,0.37,Low
+Varkala,9,3,0,0,Autumn,0.31,Low
+Leh,9,5,1,0,Autumn,0.45,Low
+South Goa,9,6,1,0,Autumn,0.49,Low
+Tarkarli,7,4,0,1,Monsoon,0.33,Low
+Ranthambore,10,0,0,0,Autumn,0.28,Low
+Kedarnath,5,1,0,0,Summer,0.34,Low
+Alibaug,9,5,1,0,Autumn,0.46,Low
+Badrinath,9,2,0,1,Autumn,0.53,Medium
+Ooty,10,1,0,0,Autumn,0.6,Medium
+Kaza,10,0,0,0,Autumn,0.64,Medium
+Kedarnath,3,6,1,0,Spring,0.42,Low
+Wayanad,5,4,0,0,Summer,0.24,Low
+Valley of Flowers,8,3,0,0,Monsoon,0.19,Low
+Auli,7,1,0,0,Monsoon,0.2,Low
+Bir Billing,6,4,0,0,Monsoon,0.62,Medium
+Nubra Valley,7,5,1,0,Monsoon,0.39,Low
+Badrinath,1,6,1,0,Winter,0.68,Medium
+Kedarnath,6,2,0,0,Monsoon,0.31,Low
+Alibaug,4,5,1,0,Summer,0.48,Low
+Mussoorie,4,2,0,0,Summer,0.29,Low
+Mount Abu,11,0,0,1,Winter,0.46,Low
+Tarkarli,7,3,0,0,Monsoon,0.22,Low
+Chopta,5,5,1,0,Summer,0.72,High
+Kochi,5,4,0,1,Summer,0.52,Medium
+Coorg,6,3,0,0,Monsoon,0.3,Low
+Nubra Valley,2,0,0,0,Winter,0.25,Low
+Nainital,3,5,1,0,Spring,0.47,Low
+Tarkarli,7,0,0,0,Monsoon,0.14,Low
+Gulmarg,6,1,0,0,Monsoon,0.64,Medium
+Leh,1,4,0,0,Winter,0.29,Low
+Udaipur,1,6,1,0,Winter,0.73,High
+Chopta,9,5,1,0,Autumn,0.47,Low
+Hampi,2,4,0,0,Winter,0.54,Medium
+Jodhpur,12,2,0,0,Winter,0.56,Medium
+Jibhi,7,5,1,0,Monsoon,0.3,Low
+Kovalam,11,0,0,0,Winter,0.68,Medium
+Tarkarli,11,3,0,0,Winter,0.34,Low
+Varkala,1,1,0,0,Winter,0.7,Medium
+Kovalam,1,3,0,0,Winter,0.62,Medium
+Kedarnath,4,1,0,0,Summer,0.25,Low
+Coorg,11,3,0,1,Winter,0.47,Low
+Shimla,2,5,1,0,Winter,0.5,Low
+Auli,4,6,1,0,Summer,0.49,Low
+Jim Corbett,12,0,0,0,Winter,0.3,Low
+Jibhi,11,3,0,0,Winter,0.3,Low
+Udaipur,12,1,0,0,Winter,0.64,Medium
+Pahalgam,4,5,1,0,Summer,0.5,Low
+Pangong Lake,2,6,1,0,Winter,0.42,Low
+Mysore,9,6,1,0,Autumn,0.51,Medium
+Nubra Valley,4,1,0,0,Summer,0.25,Low
+Jodhpur,12,6,1,0,Winter,0.73,High
+Gulmarg,8,3,0,0,Monsoon,0.2,Low
+Jaipur,3,0,0,0,Spring,0.29,Low
+Shimla,12,5,1,0,Winter,0.46,Low
+Pangong Lake,9,1,0,0,Autumn,0.31,Low
+Mysore,5,0,0,1,Summer,0.49,Low
+Dalhousie,5,4,0,0,Summer,0.31,Low
+Hampi,5,0,0,0,Summer,0.26,Low
+Mount Abu,12,6,1,0,Winter,0.38,Low
+Pahalgam,12,0,0,0,Winter,0.34,Low
+Tarkarli,5,4,0,0,Summer,0.58,Medium
+Chikmagalur,3,3,0,0,Spring,0.26,Low
+Auli,10,2,0,0,Autumn,0.58,Medium
+Hampi,2,4,0,0,Winter,0.61,Medium
+Pangong Lake,11,4,0,0,Winter,0.3,Low
+Badrinath,8,1,0,0,Monsoon,0.16,Low
+Jaisalmer,2,2,0,0,Winter,0.38,Low
+Jodhpur,3,3,0,0,Spring,0.33,Low
+Jaisalmer,10,1,0,0,Autumn,0.34,Low
+Munnar,9,0,0,0,Autumn,0.27,Low
+Mussoorie,7,3,0,0,Monsoon,0.2,Low
+Hampi,2,2,0,0,Winter,0.63,Medium
+Chikmagalur,3,6,1,0,Spring,0.41,Low
+Thekkady,10,3,0,0,Autumn,0.32,Low
+Shimla,5,5,1,0,Summer,0.79,High
+Gulmarg,9,4,0,0,Autumn,0.26,Low
+Pangong Lake,5,1,0,0,Summer,0.31,Low
+Chikmagalur,1,3,0,0,Winter,0.35,Low
+Jaisalmer,8,2,0,0,Monsoon,0.25,Low
+Hampi,9,2,0,1,Autumn,0.44,Low
+Kaza,2,6,1,1,Winter,0.68,Medium
+Thekkady,10,4,0,0,Autumn,0.32,Low
+North Goa,6,3,0,0,Monsoon,0.26,Low
+Thekkady,10,3,0,0,Autumn,0.35,Low
+Nubra Valley,11,3,0,0,Winter,0.35,Low
+Alibaug,12,1,0,0,Winter,0.62,Medium
+Mussoorie,7,5,1,0,Monsoon,0.37,Low
+Coorg,8,4,0,0,Monsoon,0.12,Low
+Alibaug,8,5,1,0,Monsoon,0.31,Low
+Munnar,11,1,0,0,Winter,0.32,Low
+Hampi,10,4,0,0,Autumn,0.63,Medium
+Kovalam,4,4,0,1,Summer,0.41,Low
+Chikmagalur,4,3,0,0,Summer,0.27,Low
+Mount Abu,12,1,0,0,Winter,0.26,Low
+Thekkady,3,5,1,0,Spring,0.43,Low
+Ooty,7,3,0,0,Monsoon,0.15,Low
+Srinagar,7,5,1,0,Monsoon,0.38,Low
+Nainital,3,5,1,0,Spring,0.43,Low
+Leh,5,5,1,0,Summer,0.79,High
+North Goa,11,2,0,0,Winter,0.67,Medium
+Manali,6,4,0,0,Monsoon,0.6,Medium
+Nainital,1,0,0,0,Winter,0.37,Low
+Mysore,3,1,0,0,Spring,0.37,Low
+Kochi,8,6,1,0,Monsoon,0.4,Low
+Nainital,12,2,0,0,Winter,0.3,Low
+Mount Abu,1,6,1,0,Winter,0.49,Low
+Jaisalmer,3,5,1,0,Spring,0.42,Low
+Gokarna,5,6,1,1,Summer,0.67,Medium
+Alibaug,7,4,0,0,Monsoon,0.13,Low
+Jim Corbett,9,5,1,0,Autumn,0.42,Low
+Jaisalmer,6,6,1,0,Monsoon,0.42,Low
+Kaza,1,3,0,0,Winter,0.33,Low
+Srinagar,10,5,1,0,Autumn,0.53,Medium
+Gulmarg,7,0,0,0,Monsoon,0.15,Low
+Badrinath,8,5,1,1,Monsoon,0.48,Low
+Kovalam,2,1,0,0,Winter,0.32,Low
+Mussoorie,8,4,0,0,Monsoon,0.11,Low
+Nubra Valley,9,2,0,1,Autumn,0.52,Medium
+Badrinath,3,4,0,0,Spring,0.32,Low
+Leh,6,2,0,1,Monsoon,0.81,High
+Mussoorie,3,6,1,0,Spring,0.48,Low
+Dharamshala,12,5,1,0,Winter,0.39,Low
+Jibhi,5,2,0,0,Summer,0.32,Low
+Kullu,4,0,0,0,Summer,0.33,Low
+Manali,9,2,0,0,Autumn,0.35,Low
+Kasol,5,0,0,0,Summer,0.58,Medium
+Manali,7,2,0,0,Monsoon,0.17,Low
+Bir Billing,2,4,0,0,Winter,0.25,Low
+Kullu,4,5,1,0,Summer,0.39,Low
+Hampi,10,2,0,1,Autumn,0.69,Medium
+Haridwar,3,1,0,0,Spring,0.26,Low
+Chikmagalur,2,1,0,0,Winter,0.32,Low
+Jibhi,12,4,0,0,Winter,0.34,Low
+Mount Abu,2,2,0,0,Winter,0.28,Low
+Srinagar,1,1,0,0,Winter,0.35,Low
+Alleppey,2,3,0,0,Winter,0.26,Low
+Chikmagalur,2,4,0,0,Winter,0.31,Low
+Jim Corbett,11,1,0,0,Winter,0.24,Low
+Alleppey,8,4,0,0,Monsoon,0.26,Low
+Nainital,11,4,0,0,Winter,0.27,Low
+Varkala,4,5,1,0,Summer,0.41,Low
+Varkala,10,5,1,0,Autumn,0.48,Low
+Alleppey,10,3,0,0,Autumn,0.36,Low
+Dalhousie,8,3,0,0,Monsoon,0.17,Low
+Munnar,11,5,1,0,Winter,0.5,Medium
+Bir Billing,6,2,0,0,Monsoon,0.54,Medium
+Kullu,7,5,1,0,Monsoon,0.25,Low
+Kochi,5,0,0,0,Summer,0.24,Low
+Valley of Flowers,11,6,1,0,Winter,0.41,Low
+Shimla,7,2,0,0,Monsoon,0.16,Low
+Kaza,11,5,1,1,Winter,0.56,Medium
+Gokarna,4,5,1,0,Summer,0.45,Low
+Udaipur,6,1,0,0,Monsoon,0.35,Low
+Auli,10,3,0,0,Autumn,0.66,Medium
+Hampi,12,1,0,1,Winter,0.82,High
+Srinagar,7,2,0,0,Monsoon,0.23,Low
+Alleppey,12,0,0,0,Winter,0.31,Low
+Spiti Valley,3,3,0,0,Spring,0.37,Low
+Alleppey,5,6,1,0,Summer,0.41,Low
+Jim Corbett,1,2,0,0,Winter,0.3,Low
+Srinagar,4,1,0,0,Summer,0.28,Low
+Ooty,11,4,0,0,Winter,0.25,Low
+Kochi,4,0,0,0,Summer,0.3,Low
+Gokarna,9,3,0,0,Autumn,0.35,Low
+Kullu,10,1,0,0,Autumn,0.32,Low
+Coorg,11,1,0,0,Winter,0.26,Low
+Kovalam,6,2,0,1,Monsoon,0.41,Low
+Pangong Lake,2,3,0,0,Winter,0.36,Low
+North Goa,11,2,0,0,Winter,0.6,Medium
+Srinagar,7,5,1,0,Monsoon,0.3,Low
+South Goa,5,4,0,0,Summer,0.35,Low
+Jaipur,1,2,0,0,Winter,0.59,Medium
+Alleppey,9,1,0,0,Autumn,0.33,Low
+Chopta,8,0,0,0,Monsoon,0.2,Low
+Valley of Flowers,10,6,1,0,Autumn,0.41,Low
+Pushkar,3,4,0,0,Spring,0.28,Low
+Mount Abu,2,2,0,0,Winter,0.25,Low
+Pahalgam,4,1,0,0,Summer,0.35,Low
+Shimla,10,5,1,0,Autumn,0.76,High
+Mount Abu,9,5,1,0,Autumn,0.38,Low
+Coorg,3,6,1,0,Spring,0.46,Low
+Kovalam,3,0,0,0,Spring,0.28,Low
+Gulmarg,10,4,0,1,Autumn,0.75,High
+Kedarnath,1,2,0,0,Winter,0.55,Medium
+Pahalgam,12,4,0,0,Winter,0.25,Low
+Pushkar,12,2,0,0,Winter,0.58,Medium
+Ooty,6,0,0,0,Monsoon,0.65,Medium
+Chikmagalur,12,5,1,0,Winter,0.42,Low
+Coorg,12,4,0,0,Winter,0.35,Low
+Chikmagalur,11,0,0,0,Winter,0.27,Low
+Leh,5,4,0,0,Summer,0.65,Medium
+Auli,2,6,1,0,Winter,0.45,Low
+Kovalam,10,6,1,0,Autumn,0.5,Low
+Chopta,5,1,0,0,Summer,0.59,Medium
+Kaza,10,5,1,0,Autumn,0.75,High
+Jaisalmer,5,1,0,0,Summer,0.37,Low
+Munnar,7,5,1,0,Monsoon,0.39,Low
+Alleppey,6,6,1,0,Monsoon,0.41,Low
+Valley of Flowers,8,4,0,0,Monsoon,0.17,Low
+Chopta,2,3,0,0,Winter,0.3,Low
+Rishikesh,9,5,1,0,Autumn,0.4,Low
+Hampi,6,5,1,0,Monsoon,0.5,Medium
+Pahalgam,2,1,0,0,Winter,0.36,Low
+Mount Abu,10,5,1,0,Autumn,0.71,High
+Haridwar,2,0,0,0,Winter,0.61,Medium
+Leh,6,3,0,0,Monsoon,0.63,Medium
+Jim Corbett,1,0,0,0,Winter,0.28,Low
+Thekkady,4,1,0,0,Summer,0.34,Low
+Dharamshala,2,2,0,0,Winter,0.27,Low
+Jaisalmer,11,5,1,0,Winter,0.53,Medium
+Gulmarg,12,3,0,0,Winter,0.36,Low
+Kedarnath,7,5,1,0,Monsoon,0.41,Low
+Gulmarg,10,1,0,0,Autumn,0.57,Medium
+Thekkady,10,3,0,0,Autumn,0.28,Low
+Pushkar,8,2,0,0,Monsoon,0.19,Low
+Kullu,7,6,1,0,Monsoon,0.33,Low
+Chikmagalur,6,3,0,0,Monsoon,0.52,Medium
+Auli,4,3,0,0,Summer,0.31,Low
+Kullu,8,0,0,0,Monsoon,0.14,Low
+Jaipur,8,4,0,0,Monsoon,0.16,Low
+Nainital,5,4,0,0,Summer,0.36,Low
+Jim Corbett,5,2,0,0,Summer,0.32,Low
+Nainital,9,2,0,0,Autumn,0.29,Low
+Coorg,9,1,0,0,Autumn,0.32,Low
+Chopta,8,3,0,0,Monsoon,0.11,Low
+Mysore,4,1,0,0,Summer,0.3,Low
+Kasol,2,0,0,0,Winter,0.36,Low
+Udaipur,8,3,0,0,Monsoon,0.14,Low
+Auli,5,5,1,0,Summer,0.69,Medium
+Gulmarg,9,6,1,0,Autumn,0.53,Medium
+Udaipur,11,5,1,0,Winter,0.75,High
+Valley of Flowers,10,5,1,0,Autumn,0.48,Low
+Wayanad,1,5,1,0,Winter,0.4,Low
+Valley of Flowers,7,2,0,0,Monsoon,0.23,Low
+Nubra Valley,1,4,0,0,Winter,0.29,Low
+Jodhpur,7,2,0,0,Monsoon,0.23,Low
+Auli,7,1,0,0,Monsoon,0.23,Low
+Jibhi,9,6,1,0,Autumn,0.39,Low
+Ranthambore,2,4,0,0,Winter,0.26,Low
+Jaisalmer,4,3,0,0,Summer,0.37,Low
+Udaipur,7,3,0,0,Monsoon,0.21,Low
+Nubra Valley,11,6,1,0,Winter,0.52,Medium
+Rishikesh,8,5,1,0,Monsoon,0.3,Low
+Kochi,4,3,0,0,Summer,0.3,Low
+Spiti Valley,5,3,0,0,Summer,0.59,Medium
+Kovalam,12,3,0,0,Winter,0.62,Medium
+Shimla,3,1,0,0,Spring,0.36,Low
+Kochi,12,1,0,0,Winter,0.28,Low
+Tarkarli,12,2,0,0,Winter,0.26,Low
+Jodhpur,3,2,0,0,Spring,0.32,Low
+Dalhousie,8,3,0,0,Monsoon,0.18,Low
+Nainital,7,0,0,0,Monsoon,0.18,Low
+Spiti Valley,1,4,0,0,Winter,0.36,Low
+Varkala,8,4,0,0,Monsoon,0.24,Low
+Haridwar,4,4,0,0,Summer,0.24,Low
+Manali,4,5,1,0,Summer,0.41,Low
+Pangong Lake,7,3,0,1,Monsoon,0.34,Low
+Haridwar,11,6,1,0,Winter,0.71,High
+Gulmarg,2,4,0,0,Winter,0.32,Low
+Nubra Valley,1,3,0,0,Winter,0.34,Low
+Valley of Flowers,10,4,0,0,Autumn,0.29,Low
+Mysore,10,0,0,1,Autumn,0.79,High
+Manali,9,6,1,0,Autumn,0.46,Low
+Pahalgam,9,3,0,0,Autumn,0.34,Low
+Chikmagalur,1,2,0,1,Winter,0.45,Low
+Badrinath,2,3,0,1,Winter,0.73,High
+Varkala,11,0,0,0,Winter,0.57,Medium
+Mussoorie,6,2,0,0,Monsoon,0.55,Medium
+Jaipur,2,5,1,0,Winter,0.76,High
+Manali,5,6,1,0,Summer,0.69,Medium
+Gokarna,1,2,0,0,Winter,0.63,Medium
+Kedarnath,11,4,0,0,Winter,0.6,Medium
+Leh,9,5,1,0,Autumn,0.51,Medium
+Kasol,3,2,0,0,Spring,0.26,Low
+Jaisalmer,2,6,1,0,Winter,0.48,Low
+Chikmagalur,3,3,0,0,Spring,0.26,Low
+Kochi,5,6,1,0,Summer,0.43,Low
+Badrinath,6,6,1,0,Monsoon,0.52,Medium
+Ooty,10,0,0,0,Autumn,0.63,Medium
+Mussoorie,11,0,0,0,Winter,0.31,Low
+Munnar,6,1,0,0,Monsoon,0.36,Low
+Kovalam,6,6,1,0,Monsoon,0.46,Low
+Rishikesh,5,2,0,0,Summer,0.6,Medium
+Jim Corbett,7,1,0,1,Monsoon,0.31,Low
+North Goa,2,3,0,0,Winter,0.32,Low
+Tarkarli,7,1,0,0,Monsoon,0.22,Low
+Haridwar,4,6,1,0,Summer,0.52,Medium
+Gokarna,6,3,0,0,Monsoon,0.27,Low
+Alibaug,11,2,0,0,Winter,0.64,Medium
+Wayanad,1,6,1,0,Winter,0.48,Low
+Coorg,4,2,0,0,Summer,0.37,Low
+Udaipur,3,4,0,0,Spring,0.35,Low
+Pangong Lake,3,0,0,0,Spring,0.29,Low
+Mussoorie,4,2,0,0,Summer,0.25,Low
+Nainital,1,2,0,0,Winter,0.32,Low
+Spiti Valley,4,5,1,0,Summer,0.39,Low
+Mount Abu,3,4,0,0,Spring,0.32,Low
+Kochi,11,4,0,0,Winter,0.26,Low
+Kedarnath,6,3,0,0,Monsoon,0.35,Low
+Chikmagalur,4,0,0,0,Summer,0.24,Low
+Pangong Lake,11,4,0,0,Winter,0.32,Low
+Manali,11,4,0,0,Winter,0.32,Low
+Udaipur,8,2,0,0,Monsoon,0.22,Low
+Srinagar,10,6,1,0,Autumn,0.45,Low
+Varkala,8,0,0,0,Monsoon,0.2,Low
+Leh,11,5,1,0,Winter,0.43,Low
+Nubra Valley,1,3,0,0,Winter,0.25,Low
+Chikmagalur,12,5,1,1,Winter,0.6,Medium
+Rishikesh,4,0,0,0,Summer,0.25,Low
+Pangong Lake,8,1,0,0,Monsoon,0.17,Low
+Jim Corbett,1,4,0,0,Winter,0.32,Low
+Dharamshala,4,2,0,1,Summer,0.51,Medium
+Badrinath,3,0,0,0,Spring,0.31,Low
+Alleppey,6,5,1,0,Monsoon,0.4,Low
+Jibhi,5,4,0,0,Summer,0.35,Low
+Bir Billing,11,0,0,0,Winter,0.29,Low
+Gokarna,12,1,0,0,Winter,0.58,Medium
+Spiti Valley,5,6,1,0,Summer,0.73,High
+Gokarna,6,4,0,0,Monsoon,0.26,Low
+Mysore,11,2,0,0,Winter,0.61,Medium
+Pushkar,7,5,1,0,Monsoon,0.27,Low
+Auli,1,0,0,0,Winter,0.27,Low
+Manali,4,4,0,0,Summer,0.35,Low
+Chopta,7,6,1,0,Monsoon,0.28,Low
+Kochi,6,0,0,0,Monsoon,0.36,Low
+Leh,11,3,0,1,Winter,0.47,Low
+Mysore,6,6,1,0,Monsoon,0.41,Low
+Haridwar,6,5,1,0,Monsoon,0.52,Medium
+Wayanad,5,1,0,0,Summer,0.31,Low
+Jim Corbett,9,0,0,0,Autumn,0.27,Low
+Jaisalmer,10,5,1,0,Autumn,0.5,Low
+Tarkarli,9,1,0,1,Autumn,0.42,Low
+Chikmagalur,7,6,1,1,Monsoon,0.51,Medium
+Ooty,12,3,0,0,Winter,0.34,Low
+Jim Corbett,10,1,0,0,Autumn,0.33,Low
+Gokarna,6,6,1,0,Monsoon,0.49,Low
+Udaipur,1,0,0,0,Winter,0.6,Medium
+Nainital,8,0,0,0,Monsoon,0.14,Low
+Jaipur,6,2,0,0,Monsoon,0.37,Low
+Wayanad,10,2,0,0,Autumn,0.33,Low
+Auli,9,5,1,0,Autumn,0.51,Medium
+Leh,4,3,0,0,Summer,0.31,Low
+Wayanad,2,5,1,0,Winter,0.45,Low
+Kedarnath,8,5,1,0,Monsoon,0.41,Low
+Kasol,6,5,1,0,Monsoon,0.77,High
+Kedarnath,6,6,1,0,Monsoon,0.43,Low
+Mount Abu,3,2,0,0,Spring,0.25,Low
+Manali,9,3,0,0,Autumn,0.32,Low
+Bir Billing,11,4,0,0,Winter,0.24,Low
+Coorg,1,2,0,0,Winter,0.3,Low
+Ooty,9,3,0,0,Autumn,0.34,Low
+Nubra Valley,2,4,0,0,Winter,0.36,Low
+Nubra Valley,6,5,1,0,Monsoon,0.72,High
+Kochi,8,4,0,0,Monsoon,0.22,Low
+Ooty,11,5,1,0,Winter,0.44,Low
+Jaipur,4,1,0,0,Summer,0.28,Low
+Badrinath,7,1,0,0,Monsoon,0.13,Low
+Ooty,6,6,1,0,Monsoon,0.77,High
+Ranthambore,9,5,1,0,Autumn,0.51,Medium
+Gulmarg,8,4,0,0,Monsoon,0.18,Low
+Auli,7,6,1,0,Monsoon,0.29,Low
+Kaza,2,0,0,0,Winter,0.32,Low
+Badrinath,6,4,0,0,Monsoon,0.29,Low
+Badrinath,8,4,0,0,Monsoon,0.19,Low
+Valley of Flowers,5,5,1,0,Summer,0.47,Low
+Pahalgam,2,4,0,0,Winter,0.31,Low
+Kovalam,3,3,0,0,Spring,0.35,Low
+South Goa,10,5,1,1,Autumn,0.6,Medium
+Jim Corbett,8,0,0,1,Monsoon,0.37,Low
+Manali,3,1,0,0,Spring,0.33,Low
+Shimla,5,3,0,0,Summer,0.56,Medium
+Ranthambore,3,1,0,0,Spring,0.34,Low
+Chikmagalur,8,2,0,0,Monsoon,0.2,Low
+Coorg,2,0,0,0,Winter,0.29,Low
+Nubra Valley,12,4,0,0,Winter,0.36,Low
+Jodhpur,2,4,0,0,Winter,0.51,Medium
+Kochi,8,3,0,0,Monsoon,0.13,Low
+Mussoorie,2,5,1,0,Winter,0.51,Medium

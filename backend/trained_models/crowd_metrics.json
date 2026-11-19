@@ -1,0 +1,32 @@
+{
+  "model_name": "RandomForestClassifier",
+  "n_estimators": 100,
+  "Accuracy": 0.785,
+  "Precision": 0.7398,
+  "Recall": 0.785,
+  "F1_Score": 0.749,
+  "Confusion_Matrix": [
+    [
+      4,
+      24,
+      8
+    ],
+    [
+      6,
+      591,
+      26
+    ],
+    [
+      4,
+      104,
+      33
+    ]
+  ],
+  "classes": [
+    "High",
+    "Low",
+    "Medium"
+  ],
+  "training_samples": 3200,
+  "test_samples": 800
+}
